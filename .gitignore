@@ -1,3 +1,5 @@
+main/docs/tags.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,7 +27,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-tags.md
 .venv
 venv
 
