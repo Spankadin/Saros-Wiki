@@ -11,7 +11,7 @@ theme:
     font:
         text: Karla
         code: Ubuntu Mono
-    language: English
+    language: En
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
