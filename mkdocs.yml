@@ -35,6 +35,8 @@ theme:
         - navigation.top
         - navigation.tabs
         - navigation.tabs.sticky
+        - navigation.footer
+        - navigation.content
         - search.suggest
         - search.highlight
 # Extensions
@@ -107,8 +109,8 @@ plugins:
       custom-attributes: '_static/css/custom_attributes.css'
   - custom-attributes:
       file: '_static/css/custom_attributes.css'
-  # - tags:
-  #   tags_file: tags.md
+  - tags:
+      tags_file: tags.md
   - callouts
   - glightbox
 hooks:
@@ -148,4 +150,5 @@ extra:
     default:
       file: "file.svg"
       folder: "folder-open.svg"
-      index: "index.svg"
+      index: "index.svg"  
+  copyright: 'Copyright &copy; 2021 Test
