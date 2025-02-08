@@ -38,7 +38,7 @@ theme:
         - navigation.footer
         - navigation.content
         - navigation.path
-        - toc.integrate
+        - toc
         - search.suggest
         - search.highlight
 # Extensions
