@@ -1,6 +1,7 @@
 ---
 tags: Building, Apothecary
 share: true
+Location: "[[Goslow]]"
 ---
 
 The Sphinx's Spellbook is an extremely narrow and cramped two story building that shows it's age in cracked stonework from the overgrown roots and vines that seem to weave in and out of the entire structure. Inside the shop a dank haze fills the air… incense and herbal smoke mix with dust from the piles of parchment stacked in every corner. A small walkway through books and potions and various knick-knacks seems treacherous, but when braved, leads to a tiny counter with a bell.

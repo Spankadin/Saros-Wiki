@@ -1,6 +1,7 @@
 ---
 tags: Building, Blacksmith
 share: true
+Location: "[[Goslow]]"
 ---
 
 
