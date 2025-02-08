@@ -3,6 +3,7 @@ share: true
 dataview: true
 includeLinks: true
 mdlinks: true
+tags: [NPCs]
 ---
 
 | File                                                                                                                | Race      | Location                                                                            | Faction                                                                                                         |
