@@ -2,7 +2,6 @@
 share: true
 Race: Elf
 aliases: Amara, The Queen, Queen
-tag: NPC
 Location: Unknown
 tags:
   - NPC
