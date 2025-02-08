@@ -37,6 +37,8 @@ theme:
         - navigation.tabs.sticky
         - navigation.footer
         - navigation.content
+        - navigation.path
+        - toc.integrate
         - search.suggest
         - search.highlight
 # Extensions
