@@ -2,8 +2,7 @@
 share: true
 dataview: true
 includeLinks: true
-links:
-  mdlinks: true
+mdlinks: true
 ---
 
 | File                                                                                                                | Race      | Location                                                                            | Faction                                                                                                         |
