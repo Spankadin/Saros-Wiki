@@ -1,7 +1,6 @@
 ---
 share: true
 dataview: true
-includeLinks: true
 mdlinks: true
 ---
 
