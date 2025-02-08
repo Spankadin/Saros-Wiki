@@ -1,7 +1,6 @@
 ---
 share: true
 Race: Human
-tag: NPC
 Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"
 tags:
