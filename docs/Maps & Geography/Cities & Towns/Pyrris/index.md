@@ -5,4 +5,6 @@ Population: 600
 ---
 
 
-(Capital City) The majestic capital of Saros, Pyrris, perches atop a colossal cliffside, overlooking the sprawling expanse of the kingdom. Home to the illustrious [[./Locations/The Radiant Citadel|Radiant Citadel]], the city pulses with life, and its streets teem with the largest population in Saros.
+(Capital City) The majestic capital of [[../../Landmarks/Saros|Saros]], Pyrris, perches atop a colossal cliffside, overlooking the sprawling expanse of the kingdom. Home to the illustrious [[./Locations/The Radiant Citadel|Radiant Citadel]], the city pulses with life, and its streets teem with large traveler contingency seeking counsel and aid from the [[./NPCs/Queen Amara|Queen]].
+
+Population - 600
