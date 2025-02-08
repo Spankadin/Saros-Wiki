@@ -1,8 +1,8 @@
 ---
 share: true
 dataview: true
-mdlinks: true
 includeLinks: true
+mdlinks: true
 ---
 
 | File                                                                        | Population |
