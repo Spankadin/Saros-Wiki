@@ -1,6 +1,7 @@
 ---
 tags: Bank, Building, "[[Gambler's Guild|Gambler's Den]]"
 share: true
+Location: "[[Goslow]]"
 ---
 
 
