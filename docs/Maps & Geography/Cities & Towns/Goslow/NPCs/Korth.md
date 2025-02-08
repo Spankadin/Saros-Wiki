@@ -1,7 +1,8 @@
 ---
 share: true
 Race: Human
-tags: NPC
+tags:
+  - NPC
 Location: "[[Goslow]]"
 ---
 
