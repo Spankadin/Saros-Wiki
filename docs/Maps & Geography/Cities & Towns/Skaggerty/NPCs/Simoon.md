@@ -1,7 +1,6 @@
 ---
 share: true
 Race: Human
-tag: NPC
 Location: "[[../index|Skaggerty]]"
 tags:
   - NPC
