@@ -1,7 +1,10 @@
 ---
 share: true
 aliases: Stonewright, Stonewrights
-tags: Race, Dwarves, Faction
+tags:
+  - Race
+  - Dwarves
+  - Faction
 ---
 
 

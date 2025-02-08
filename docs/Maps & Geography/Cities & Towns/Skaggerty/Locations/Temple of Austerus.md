@@ -1,7 +1,9 @@
 ---
 share: true
 aliases: Austerus
-tags: Building, Temple
+tags:
+  - Building
+  - Temple
 Location: "[[../index|Skaggerty]]"
 ---
 

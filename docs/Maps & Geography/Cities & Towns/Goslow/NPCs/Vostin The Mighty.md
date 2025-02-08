@@ -1,11 +1,10 @@
 ---
 share: true
 Race: Human
-tag: NPC
-Faction: "[[The Aegis Legion|The Aegis Legion]]"
+Faction: "[[../../../../Peoples & Factions/The Aegis Legion/index|The Aegis Legion]]"
 Location: "[[Goslow]]"
 tags:
   - NPC
 ---
 
-Captain of [[The Aegis Legion|The Aegis Legion]] in Goslow at Duskpoint. 
+Captain of [[../../../../Peoples & Factions/The Aegis Legion/index|The Aegis Legion]] in Goslow at Duskpoint. 

@@ -1,5 +1,7 @@
 ---
-tags: Building, Temple
+tags:
+  - Building
+  - Temple
 share: true
 Location: "[[Goslow]]"
 ---

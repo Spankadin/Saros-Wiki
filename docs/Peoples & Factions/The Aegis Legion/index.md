@@ -1,15 +1,16 @@
 ---
 share: true
 aliases: Aegis Legion, The Legion, Legion, Aegis
-tags: Faction
+tags:
+  - Faction
 ---
 
 The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [[../../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]. They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at Grymswatch.
 
 Garrisons:
-(Pyrris) = [[../../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]
+[[../../Maps & Geography/Cities & Towns/Pyrris/Locations/Stonepeak|Stonepeak]] ([[../../Maps & Geography/Cities & Towns/Pyrris/index|Pyrris]]) = [[../../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]
 [[../../Maps & Geography/Cities & Towns/Goslow/Locations/Duskpoint|Duskpoint]] (Goslow) = Captain [[../../Maps & Geography/Cities & Towns/Goslow/NPCs/Vostin The Mighty|Vostin The Mighty]]
-Grymwatch = [[Admiral Thainan|Admiral Thainan]]
+[[../../Maps & Geography/Cities & Towns/Grymswatch/Locations/War Road|War Road]] ([[Grymswatch|Grymswatch]]) = [[Admiral Thainan|Admiral Thainan]]
 
 
 

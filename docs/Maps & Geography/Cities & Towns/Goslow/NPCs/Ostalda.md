@@ -1,7 +1,8 @@
 ---
 share: true
 Race: Half-elf
-tags: NPC
+tags:
+  - NPC
 Location: "[[Goslow]]"
 ---
 

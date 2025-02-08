@@ -1,8 +1,9 @@
 ---
 share: true
+aliases: Saros, Sarosian, Daron, Aiy-Vana
 ---
 
-"Near Four thousand and two hundred years in the past, a formidable wizard named [[Caelum|Caelum]] uttered a wish in desperation, seeking salvation for the remnants of his devastated people from the doomed choice of his greatest pupil. The wish, granted with a mysterious benevolence, whisked them away from their familiar realm of Mystara to an entirely uncharted continent — a pristine land they christened "[[../Maps & Geography/Landmarks/Saros|Saros]]". This new territory unfolded as a tapestry of richness, brimming with wonders, beauty, magic, and peril. Since their arrival, Saros has become the backdrop for countless fantastical tales, shared in hushed tones around campfires and echoing through the halls of hearths across the known world.
+"Near Four thousand and two hundred years in the past, a formidable wizard named [[./Legends/Caelum|Caelum]] uttered a wish in desperation, seeking salvation for the remnants of his devastated people from the doomed choice of his greatest pupil. The wish, granted with a mysterious benevolence, whisked them away from their familiar realm of Mystara to an entirely uncharted continent — a pristine land they christened "Saros". This new territory unfolded as a tapestry of richness, brimming with wonders, beauty, magic, and peril. Since their arrival, Saros has become the backdrop for countless fantastical tales, shared in hushed tones around campfires and echoing through the halls of hearths across the known world.
 
 Whispers carried on the wind tell of a clandestine cult known simply as "[[The Prism|The Prism]]", sworn to ancient draconic rites, and veiled in secrecy. This enigmatic order is believed to harbor an insatiable desire for the power encapsulated within a Multi-Chromatic Dragon's egg. Legend tells that such an egg possesses the potential to birth a dragon of unparalleled majesty, a force capable of shaping the fate of Saros: by granting the first to be seen by a newborn Multi-Chromatic Dragon... a wish!
 

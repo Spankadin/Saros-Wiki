@@ -1,7 +1,10 @@
 ---
 share: true
 aliases: Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs
-tags: Race, Dwarves, Faction
+tags:
+  - Race
+  - Dwarves
+  - Faction
 ---
 
 [[./Tha'rundar|Tha'rundar]] – The Gemseekers, specialists in mining and shaping magical gems [[../../History & Lore/Legends/Fey-Lines|Fey-Lines]].
