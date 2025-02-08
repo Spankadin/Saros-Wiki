@@ -2,6 +2,7 @@
 aliases: Toad, The Toad
 tags: Building, Tavern
 share: true
+Location: "[[Goslow]]"
 ---
 [[The Toad (Tavern and Inn)|The Toad (Tavern and Inn)]] is a two-story half-timber and brick building with smooth stone floors and a warm breeze from the massive blazing fireplace that invites the weary traveler inside on a cold evening. Filled with elf-wrought tables and chairs, It was once a massive mansion that fell to ruin with age and was bought and restored by [[../NPCs/Perla Mudridge|Perla]]. The main hall houses a large collection of priceless artwork from all across Saros. Accommodations range from small, modestly priced rooms with a soft woolen mattress, to huge luxury suites that rival small houses.
 
