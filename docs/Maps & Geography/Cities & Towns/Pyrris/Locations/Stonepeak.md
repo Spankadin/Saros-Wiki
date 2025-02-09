@@ -2,8 +2,9 @@
 tags:
   - Building
   - Garrison
-Location: "[[../index|Pyrris]]"
+Location:
+  - - Pyrris
 share: "true"
 ---
 
-[[The Aegis Legion|The Aegis Legion]] garrison at [[../index|Pyrris]], overseen by [[../NPCs/The Queen's Council/General Ironclad|General Ironclad]].
+[The Aegis Legion](../../../../Peoples%20&%20Factions/The%20Aegis%20Legion/index.md) garrison at [Pyrris](../index.md), overseen by [General Ironclad](../NPCs/The%20Queen's%20Council/General%20Ironclad.md).
