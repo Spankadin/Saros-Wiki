@@ -1,6 +1,9 @@
 ---
-aliases: The Council, Council, Queen's Council
-share: "true"
+aliases:
+  - The Council
+  - Council
+  - Queen's Council
+share: true
 ---
 
 [Ambassador Skylark](./Ambassador%20Skylark.md)
