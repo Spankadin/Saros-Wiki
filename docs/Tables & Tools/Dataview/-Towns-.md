@@ -2,7 +2,7 @@
 share: "true"
 dataview: true
 links:
-  mdlinks: settings.wikilinks
+  mdlinks: internals
 ---
 
 | File                                                                        | Population |
