@@ -1,5 +1,8 @@
 ---
 share: "true"
+links:
+  mdlinks: settings.wikilinks
+  convert: true
 ---
 
 | File                                                                                                                | Race      | Location                                                                            | Faction                                                                                                         |
