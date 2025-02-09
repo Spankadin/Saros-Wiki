@@ -1,6 +1,5 @@
 ---
-tags:
-  - Town
+tags: Town
 Population: 600
 share: "true"
 ---
