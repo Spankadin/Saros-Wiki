@@ -2,9 +2,9 @@
 Race: Human
 tag:
   - NPC
-Faction: "[[Gambler's Guild|The Nine-Fingers]]"
+Faction: "[[../../../../Peoples & Factions/Gambler's Guild/index|Gambler's Guild]]"
 Location: "[[Goslow]]"
 share: "true"
 ---
 
-Overseer of "[[../Locations/The Silver Drake|The Silver Drake]]" [[Gambler's Guild|Gambler's Guild]] hall.
+Overseer of "[[../Locations/The Silver Drake|The Silver Drake]]" [[../../../../Peoples & Factions/Gambler's Guild/index|Gambler's Guild]] hall.
