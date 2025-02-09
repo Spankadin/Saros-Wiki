@@ -1,16 +1,21 @@
 ---
-share: true
-aliases: Aegis Legion, The Legion, Legion, Aegis
+share:
+  - true
+aliases:
+  - Aegis Legion
+  - The Legion
+  - Legion
+  - Aegis
 tags:
   - Faction
 ---
 
-The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [General Ironclad](../Maps%20&%20Geography/Cities%20&%20Towns/Pyrris/NPCs/The%20Queen's%20Council/General%20Ironclad.md). They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at [Grymswatch](../Maps%20&%20Geography/Cities%20&%20Towns/Grymswatch.md).
+The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [[../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]. They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at [[../Maps & Geography/Cities & Towns/Grymswatch|Grymswatch]].
 
 Garrisons:
-[Stonepeak](../Maps%20&%20Geography/Cities%20&%20Towns/Pyrris/Locations/Stonepeak.md) ([Pyrris](../Maps%20&%20Geography/Cities%20&%20Towns/Pyrris.md)) = [General Ironclad](../Maps%20&%20Geography/Cities%20&%20Towns/Pyrris/NPCs/The%20Queen's%20Council/General%20Ironclad.md)
-[Duskpoint](../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/Locations/Duskpoint.md) ([Goslow](../Maps%20&%20Geography/Cities%20&%20Towns/Goslow.md)) = Captain [Vostin The Mighty](../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/NPCs/Vostin%20The%20Mighty.md)
-[War Road](../Maps%20&%20Geography/Cities%20&%20Towns/Grymswatch/Locations/War%20Road.md) ([Grymswatch](../Maps%20&%20Geography/Cities%20&%20Towns/Grymswatch.md)) = [Admiral Thainan](Admiral%20Thainan.md)
+[[../Maps & Geography/Cities & Towns/Pyrris/Locations/Stonepeak|Stonepeak]] ([[../Maps & Geography/Cities & Towns/Pyrris|Pyrris]]) = [[../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]
+[[../Maps & Geography/Cities & Towns/Goslow/Locations/Duskpoint|Duskpoint]] ([[../Maps & Geography/Cities & Towns/Goslow|Goslow]]) = Captain [[../Maps & Geography/Cities & Towns/Goslow/NPCs/Vostin The Mighty|Vostin The Mighty]]
+[[../Maps & Geography/Cities & Towns/Grymswatch/Locations/War Road|War Road]] ([[../Maps & Geography/Cities & Towns/Grymswatch|Grymswatch]]) = [[Admiral Thainan|Admiral Thainan]]
 
 
 
