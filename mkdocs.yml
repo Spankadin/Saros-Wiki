@@ -37,7 +37,6 @@ theme:
         - navigation.tabs.sticky
         - navigation.content
         - navigation.path
-        - navigation.toc
         - search.suggest
         - search.highlight
 # Extensions
@@ -111,7 +110,7 @@ plugins:
   - custom-attributes:
       file: '_static/css/custom_attributes.css'
   - tags:
-      tags_file: tags.md
+      enabled: true
   - callouts
   - glightbox
 hooks:
