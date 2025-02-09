@@ -1,10 +1,10 @@
 ---
 Race: Half-elf
 tags: NPC
-Faction: "[[../../../../Peoples & Factions/The Aegis Legion/index|The Aegis Legion]]"
+Faction: "[The Aegis Legion](../../../../Peoples%20&%20Factions/The%20Aegis%20Legion/index.md)"
 Location: "[[Grymswatch]]"
 share: "true"
 ---
 
 
-Admiral of [[../../../../Peoples & Factions/The Aegis Legion/index|The Aegis Legion]] Naval Fleet and viscous lapdog of [[../../Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]. Without the general's approval and his record proving his usefulness against the legion's enemies, he would likely be sentenced to death for the crimes he has committed against the realm. 
+Admiral of [The Aegis Legion](../../../../Peoples%20&%20Factions/The%20Aegis%20Legion/index.md) Naval Fleet and viscous lapdog of [General Ironclad](../../Pyrris/NPCs/The%20Queen's%20Council/General%20Ironclad.md). Without the general's approval and his record proving his usefulness against the legion's enemies, he would likely be sentenced to death for the crimes he has committed against the realm in the name of "progress". 
