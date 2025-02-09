@@ -3,7 +3,6 @@ share: true
 dataview: true
 links:
   mdlinks: true
-  convert: true
   internals: true
 ---
 
