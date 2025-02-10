@@ -1,10 +1,12 @@
 ---
 Race: Human
-Faction: "[[The Queen's Council]]"
-Location: "[[Pyrris]]"
-share: "true"
-tags:
+tag:
   - NPC
+Faction:
+  - "[[The Queen's Council|The Queen's Council]]"
+Location:
+  - "[[Pyrris|Pyrris]]"
+share: "true"
 ---
 
 General Roland Ironclad
