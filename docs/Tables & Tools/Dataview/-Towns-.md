@@ -1,6 +1,7 @@
 ---
 share: "true"
 dataview: true
+includelinks: true
 ---
 
 | File                                                                        | Population |
