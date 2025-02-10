@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://spankadin.github.io/Saros-Wiki/tags/</loc>
-         <lastmod>2025-02-10</lastmod>
-    </url>
-    <url>
          <loc>https://spankadin.github.io/Saros-Wiki/History%20%26%20Lore/A%20Brief%20Saros%20History/</loc>
          <lastmod>2025-02-10</lastmod>
     </url>
@@ -334,6 +330,10 @@
     </url>
     <url>
          <loc>https://spankadin.github.io/Saros-Wiki/Tables%20%26%20Tools/Dataview/-Towns-/</loc>
+         <lastmod>2025-02-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spankadin.github.io/Saros-Wiki/tags/</loc>
          <lastmod>2025-02-10</lastmod>
     </url>
 </urlset>
