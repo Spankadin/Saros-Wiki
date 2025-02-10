@@ -2,8 +2,6 @@
 share: "true"
 links:
   mdlinks: true
-  convert: true
-  internals: true
 includeLinks: true
 ---
 
