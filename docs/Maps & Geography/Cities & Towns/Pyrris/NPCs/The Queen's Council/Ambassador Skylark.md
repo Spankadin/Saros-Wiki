@@ -1,8 +1,8 @@
 ---
 Race: Elf
 tag: NPC
-Faction: "[[Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/_about_]]"
-Location: "[[Maps & Geography/Cities & Towns/Pyrris/_about_]]"
+Faction: "[[The Queen's Council]]"
+Location: "[[Pyrris]]"
 share: true
 ---
 

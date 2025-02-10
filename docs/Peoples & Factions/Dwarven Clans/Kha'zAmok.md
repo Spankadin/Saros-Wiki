@@ -7,4 +7,4 @@ tags:
 share: "true"
 ---
 
-[Dwarven Clan](./_about_.md) of The Mountain Keepers, miners of the deepest delves.
+[Dwarven Clan](./Dwarven%20Clans.md) of The Mountain Keepers, miners of the deepest delves.

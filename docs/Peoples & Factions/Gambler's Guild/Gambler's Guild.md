@@ -7,4 +7,4 @@ share: "true"
 
 The Gamblers Guild is a faction of wealthy investors, loan-sharks, and thugs who trade black-market goods and loan gold with the means to come collect when necessary. Their "Dens" are full of all sorts of debauchery and excess… gambling, drinking, carousing, combat arenas, ect.
 
-[The Silver Drake](../../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/Locations/The%20Silver%20Drake.md) in [_about_](../../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/_about_.md) ran by [Lone-Wolf Louie](../../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/NPCs/Lone-Wolf%20Louie.md)
+[The Silver Drake](../../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/Locations/The%20Silver%20Drake.md) in [Goslow](../../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/Goslow.md) ran by [Lone-Wolf Louie](../../Maps%20&%20Geography/Cities%20&%20Towns/Goslow/NPCs/Lone-Wolf%20Louie.md)

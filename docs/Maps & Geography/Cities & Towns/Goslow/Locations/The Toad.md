@@ -3,7 +3,7 @@ aliases: Toad, The Toad
 tags:
   - Building
   - Tavern
-Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
+Location: "[[Goslow]]"
 share: "true"
 ---
 

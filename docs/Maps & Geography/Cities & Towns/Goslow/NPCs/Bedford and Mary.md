@@ -3,7 +3,7 @@ Race: Human
 aliases: Bedford, Mary, Bedford's
 tags:
   - NPC
-Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
+Location: "[[Goslow]]"
 share: "true"
 ---
 

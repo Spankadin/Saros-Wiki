@@ -2,7 +2,7 @@
 Race: Half-elf
 tags:
   - NPC
-Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
+Location: "[[Goslow]]"
 share: "true"
 ---
 
