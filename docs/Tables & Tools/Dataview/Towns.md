@@ -1,5 +1,5 @@
 ---
-share: "true"
+share: true
 ---
 
 | File                                                                        | Population |
@@ -11,3 +11,4 @@ share: "true"
 | [[../../Maps & Geography/Cities & Towns/Pyrris/index\|Pyrris]]                | 600        |
 | [[../../Maps & Geography/Cities & Towns/Kylor/index\|Kylor]]                   | 450        |
 | [[../../Maps & Geography/Cities & Towns/Skaggerty/index\|Skaggerty]]       | 150        |
+

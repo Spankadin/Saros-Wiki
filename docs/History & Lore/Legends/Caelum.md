@@ -1,7 +1,9 @@
 ---
 Race: Human
-aliases: Caelum's,
-tags: NPC, Legend
+aliases: Caelum's
+tags:
+  - NPC
+  - Legend
 Location: Deceased
 share: "true"
 ---
