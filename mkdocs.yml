@@ -94,7 +94,8 @@ plugins:
   - search
   - meta-descriptions
   - awesome-pages
-  - tags
+  - tags:
+      tags_file: tags.md
  # - blog:
  #     blog_dir: blog
  #     blog_toc: true
@@ -112,8 +113,6 @@ plugins:
       custom-attributes: '_static/css/custom_attributes.css'
   - custom-attributes:
       file: '_static/css/custom_attributes.css'
-  - tags:
-      enabled: true
   - callouts
   - glightbox
 hooks:
