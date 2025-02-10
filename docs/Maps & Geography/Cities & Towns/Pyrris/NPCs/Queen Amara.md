@@ -1,10 +1,10 @@
 ---
 Race: Elf
 aliases: Amara, The Queen, Queen
+tag:
+  - NPC
 Location: Unknown
 share: "true"
-tags:
-  - NPC
 ---
 
 Queen Amara Tatami, the elven matriarch and wielder of powerful magic, is an ethereal and regal figure. The air around her seems to shimmer with residual magic, a testament to the immense power she commands. A harmonious blend of elven beauty, her celestial grace and arcane wisdom make her a figure of awe and reverence among her people in the realms of Saros.
