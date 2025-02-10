@@ -4,7 +4,6 @@ links:
   mdlinks: true
   convert: true
   internals: true
-dataview: true
 includeLinks: true
 ---
 
