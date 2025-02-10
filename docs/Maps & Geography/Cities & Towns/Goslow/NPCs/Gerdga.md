@@ -2,8 +2,8 @@
 Race: Halfling
 tag:
   - NPC
-Location: "[[Goslow]]"
+Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
 share: "true"
 ---
 
-Manager of [[../Locations/The Toad|The Toad]]. Always seen with a pipe in one hand and her magnifying glass in the other. She is a short hobbit with a deep raspy voice and a horrible smoker's cough. Gerdga's best friend is [[./Perla Mudridge|Perla Mudridge]], the owner of The Toad. Her sarcastic and dry wit is rarely matched in all of Saros. She insists on inspecting every coin coming into The Toad to make sure of it's authenticity.
+Manager of [The Toad](../Locations/The%20Toad.md). Always seen with a pipe in one hand and her magnifying glass in the other. She is a short hobbit with a deep raspy voice and a horrible smoker's cough. Gerdga's best friend is [Perla Mudridge](./Perla%20Mudridge.md), the owner of The Toad. Her sarcastic and dry wit is rarely matched in all of Saros. She insists on inspecting every coin coming into The Toad to make sure of it's authenticity.

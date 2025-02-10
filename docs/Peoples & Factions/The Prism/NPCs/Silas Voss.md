@@ -1,7 +1,7 @@
 ---
 Race: Human
 tags: NPC
-Faction: "[[The Prism]]"
+Faction: "[[Peoples & Factions/The Prism/_about_]]"
 Location: Unknown
 share: "true"
 ---

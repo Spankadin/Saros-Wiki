@@ -2,9 +2,9 @@
 Race: Human
 tag:
   - NPC
-Location: "[Skaggerty](../index.md)"
+Location: "[_about_](../_about_.md)"
 share: "true"
 ---
 
 
-The high priest who oversees the [Temple of Austerus](../Locations/Temple%20of%20Austerus.md) in [Skaggerty](../index.md).
+The high priest who oversees the [Temple of Austerus](../Locations/Temple%20of%20Austerus.md) in [_about_](../_about_.md).
