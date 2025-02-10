@@ -7,4 +7,4 @@ tags:
 share: "true"
 ---
 
-The Gemseekers, a [Dwarven Clan](./_about_.md) who specialize in mining and shaping magical gems [Fey-Lines](../../History%20&%20Lore/Legends/Fey-Lines.md).
+The Gemseekers, a [Dwarven Clan](./Dwarven%20Clans.md) who specialize in mining and shaping magical gems [Fey-Lines](../../History%20&%20Lore/Legends/Fey-Lines.md).
