@@ -167,7 +167,7 @@ home_gradient_hsla: hsla(0deg,47%,55%,1) # Default Green: hsla(160deg,47%,55%,1)
 
 # Custom Homepage Button(s)
 home_button1_name: Peoples/Factions                  # Comment this parameter out to remove the button.
-home_button1_url: docs/Peoples & Factions/Dwarven Clans                    # This path starts at your root mkdocs directory.
+home_button1_url: docs/Peoples-&-Factions/Dwarven-Clans                    # This path starts at your root mkdocs directory.
 home_button1_theme: md-button md-button--primary # Options: "md-button", "md-button md-button--primary"
 home_button1_icon: people                        # Options: "people", "gear", "image"
 home_button1_blurb: |                            # Short description of this button / section.
