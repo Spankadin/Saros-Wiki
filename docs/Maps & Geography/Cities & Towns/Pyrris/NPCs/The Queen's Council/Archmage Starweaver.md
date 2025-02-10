@@ -2,10 +2,8 @@
 Race: Elf
 tag:
   - NPC
-Faction:
-  - - The Queen's Council
-Location:
-  - - Pyrris
+Faction: "[[The Queen's Council]]"
+Location: "[[Pyrris]]"
 share: "true"
 ---
 
