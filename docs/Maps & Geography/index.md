@@ -1,4 +1,0 @@
----
-share: "true"
-"": Maps & Geography
----
