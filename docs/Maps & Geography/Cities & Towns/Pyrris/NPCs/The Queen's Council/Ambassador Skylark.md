@@ -4,8 +4,6 @@ tag: NPC
 Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"
 share: true
-tags:
-  - NPC
 ---
 
 Ambassador Leonora Skylark
