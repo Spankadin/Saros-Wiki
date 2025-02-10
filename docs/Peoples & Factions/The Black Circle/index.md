@@ -6,7 +6,6 @@ aliases:
 tags:
   - Faction
 share: "true"
-"": The Black Circle
 ---
 
 The Black Circle is a faction of mercenaries that formed in the beginning of the 3rd [[../../History & Lore/Ages of Saros|Age]]. Their ideals are centered around autonomy and individual freedoms, vowing to serve under no one ruler. There is no "Head of the Black Circle", it is a loosely connected web of small chapterhouses and roaming bands. Due to their nature, they are in direct conflict with [[../The Aegis Legion/index|The Aegis Legion]] and are often vying for the sympathies of the average [[../../History & Lore/A Brief Saros History|Sarosian]]. Most adventurers come out of, or have to try to get through the Black Circle at one time or another…
