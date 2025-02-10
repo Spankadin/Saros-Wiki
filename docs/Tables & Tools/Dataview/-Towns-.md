@@ -1,10 +1,11 @@
 ---
 share: "true"
-dataview: true
 links:
   mdlinks: true
   convert: true
   internals: true
+dataview: true
+includeLinks: true
 ---
 
 | File                                                                        | Population |
