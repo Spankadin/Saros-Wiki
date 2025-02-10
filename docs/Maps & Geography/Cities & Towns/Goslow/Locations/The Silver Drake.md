@@ -2,13 +2,13 @@
 tags:
   - Bank
   - Building
-  - "[[../../../../Peoples & Factions/Gambler's Guild/index|Gambler's Den]]"
-Location: "[[Goslow]]"
+  - "[Gambler's Den](../../../../Peoples%20&%20Factions/Gambler's%20Guild/_about_.md)"
+Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
 share: "true"
 ---
 
 
-Overseen by [[../NPCs/Lone-Wolf Louie|Lone-Wolf Louie]], [[The Silver Drake|The Silver Drake]] is one of the most famous [[../../../../Peoples & Factions/Gambler's Guild/index|Gambler's Guild]] halls in all of Saros, 2nd only to the massive hall in Rore. The Silver Drake is a tightly ran and well secured building where the foolhardy come from all over Saros to test their luck and their coin with hopes of leaving Goslow as rich as [[../../Pyrris/NPCs/The Queen's Council/Lord Goldhaven|Lord Goldhaven]] himself!
+Overseen by [Lone-Wolf Louie](../NPCs/Lone-Wolf%20Louie.md), [The Silver Drake](The%20Silver%20Drake.md) is one of the most famous [_about_](../../../../Peoples%20&%20Factions/Gambler's%20Guild/_about_.md) halls in all of Saros, 2nd only to the massive hall in Rore. The Silver Drake is a tightly ran and well secured building where the foolhardy come from all over Saros to test their luck and their coin with hopes of leaving Goslow as rich as [Lord Goldhaven](../../Pyrris/NPCs/The%20Queen's%20Council/Lord%20Goldhaven.md) himself!
 
 **Bank**
 broby - 2000
