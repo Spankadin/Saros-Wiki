@@ -96,7 +96,6 @@ plugins:
   - meta-descriptions
   - awesome-pages
   - tags
-  - dataview
  # - blog:
  #     blog_dir: blog
  #     blog_toc: true
