@@ -1,9 +1,10 @@
 ---
 share: "true"
 dataview: true
-includelinks: true
 links:
   mdlinks: true
+  convert: true
+  internals: true
 ---
 
 | File                                                                                                                | Race      | Location                                                                            | Faction                                                                                                         |
