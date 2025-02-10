@@ -1,7 +1,6 @@
 ---
 share: "true"
 dataview: true
-mdlinks: internals
 ---
 
 | File                                                                        | Population |
