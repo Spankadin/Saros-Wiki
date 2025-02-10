@@ -2,9 +2,9 @@
 Race: Human
 tag:
   - NPC
-Faction: "[[../../../../Peoples & Factions/Gambler's Guild/index|Gambler's Guild]]"
-Location: "[[Goslow]]"
+Faction: "[_about_](../../../../Peoples%20&%20Factions/Gambler's%20Guild/_about_.md)"
+Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
 share: "true"
 ---
 
-Overseer of "[[../Locations/The Silver Drake|The Silver Drake]]" [[../../../../Peoples & Factions/Gambler's Guild/index|Gambler's Guild]] hall.
+Overseer of "[The Silver Drake](../Locations/The%20Silver%20Drake.md)" [_about_](../../../../Peoples%20&%20Factions/Gambler's%20Guild/_about_.md) hall.
