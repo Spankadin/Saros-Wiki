@@ -4,7 +4,6 @@ dataview: true
 includelinks: true
 links:
   mdlinks: true
-  internals: true
 ---
 
 | File                                                                                                                | Race      | Location                                                                            | Faction                                                                                                         |
