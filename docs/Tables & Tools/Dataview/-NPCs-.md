@@ -1,7 +1,7 @@
 ---
 share: "true"
 dataview: true
-mdlinks: internals
+mdlinks: settings.wikilinks
 ---
 
 | File                                                                                                                | Race      | Location                                                                            | Faction                                                                                                         |
