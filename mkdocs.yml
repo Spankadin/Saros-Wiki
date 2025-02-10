@@ -95,8 +95,8 @@ plugins:
   - search
   - meta-descriptions
   - awesome-pages
-  - roamlinks
   - tags
+  - dataview
  # - blog:
  #     blog_dir: blog
  #     blog_toc: true
