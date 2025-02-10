@@ -8,4 +8,4 @@ share: "true"
 ---
 
 
-[Dwarven Clan](./_about_.md) of The Stonewrights, known for their mastery in building mighty underground cities.
+[Dwarven Clan](./Dwarven%20Clans.md) of The Stonewrights, known for their mastery in building mighty underground cities.
