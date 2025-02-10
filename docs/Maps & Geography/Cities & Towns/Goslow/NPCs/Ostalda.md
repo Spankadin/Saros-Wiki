@@ -2,9 +2,9 @@
 Race: Half-elf
 tags:
   - NPC
-Location: "[[Goslow]]"
+Location: "[[Maps & Geography/Cities & Towns/Goslow/_about_]]"
 share: "true"
 ---
 
-Ostalda is the resident sage that lives in a small room attached to the library inside of The [[../Locations/Temple of Torm|Temple of Torm]]. She is a half-elf with dark hair and bluing skin from years of divining with [[sacred mushrooms|sacred mushrooms]].
+Ostalda is the resident sage that lives in a small room attached to the library inside of The [Temple of Torm](../Locations/Temple%20of%20Torm.md). She is a half-elf with dark hair and bluing skin from years of divining with [sacred mushrooms](sacred%20mushrooms.md).
 
