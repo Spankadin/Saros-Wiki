@@ -94,8 +94,7 @@ plugins:
   - search
   - meta-descriptions
   - awesome-pages
-  - tags:
-      tags_file: tags.md
+  - tags
  # - blog:
  #     blog_dir: blog
  #     blog_toc: true
