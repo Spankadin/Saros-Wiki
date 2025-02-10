@@ -6,7 +6,7 @@ site_author: Spankadin
 theme:
     name: 'material'
     logo: _assets/meta/logo.png
-    favicon: _assets/meta/favicons.png
+    favicon: _assets/meta/dice.png
     custom_dir: overrides
     font:
         text: Karla
