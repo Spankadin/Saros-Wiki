@@ -1,9 +1,9 @@
 ---
 Race: Human
 tags: NPC
-Faction: "[[../index|The Black Circle]]"
-Location: "[[Skaggerty|Skaggerty]] (Region)"
+Faction: "[_about_](../_about_.md)"
+Location: "[Skaggerty](Skaggerty.md) (Region)"
 share: "true"
 ---
 
-A young female mage clad in dark traveler's robes with blond hair and an unassuming smile. She is frequently in trouble with the [[../../The Aegis Legion/index|The Aegis Legion]] and has been banished from [[Skaggerty|Skaggerty]] for being a known member of [[../index|The Black Circle]].
+A young female mage clad in dark traveler's robes with blond hair and an unassuming smile. She is frequently in trouble with the [_about_](../../The%20Aegis%20Legion/_about_.md) and has been banished from [_about_](../../../Maps%20&%20Geography/Cities%20&%20Towns/Skaggerty/_about_.md) for being a known member of [_about_](../_about_.md).
