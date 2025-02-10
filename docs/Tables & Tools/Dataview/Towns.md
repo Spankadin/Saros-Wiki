@@ -1,7 +1,5 @@
 ---
 share: true
-links:
-  mdlinks: false
 ---
 
 | File                                                                        | Population |
