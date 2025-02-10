@@ -2,10 +2,8 @@
 Race: Human
 tag:
   - NPC
-Faction:
-  - "[[The Queen's Council|The Queen's Council]]"
-Location:
-  - "[[Pyrris|Pyrris]]"
+Faction: "[[The Queen's Council]]"
+Location: "[[Pyrris]]"
 share: "true"
 ---
 
