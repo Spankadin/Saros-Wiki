@@ -1,10 +1,10 @@
 ---
 Race: Human
+tag:
+  - NPC
 Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"
 share: "true"
-tags:
-  - NPC
 ---
 
 Lord Cedric Goldhaven

@@ -1,10 +1,10 @@
 ---
 Race: Drow
+tag:
+  - NPC
 Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"
 share: "true"
-tags:
-  - NPC
 ---
 
 Spymaster Elias Shadowcloak
