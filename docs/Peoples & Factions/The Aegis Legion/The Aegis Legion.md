@@ -9,7 +9,7 @@ tags:
 share: "true"
 ---
 
-The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [[../../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]. They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at [[../../Maps & Geography/Cities & Towns/Grymswatch/index|Grymswatch]].
+The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [[../../Maps & Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/General Ironclad|General Ironclad]]. They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at [[../../Maps & Geography/Cities & Towns/Grymswatch/Grymswatch|Grymswatch]].
 
 Aegis Legion's motto: "Honor, Heart, Homeland."
 Aegis Legion's battle cry: "For Courage, Conquest, and Crown!"

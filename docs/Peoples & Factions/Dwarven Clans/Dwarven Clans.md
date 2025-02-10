@@ -5,7 +5,6 @@ tags:
   - Dwarves
   - Faction
 share: "true"
-"": Dwarven Clans
 ---
 
 [[./Tha'rundar|Tha'rundar]] – The Gemseekers, specialists in mining and shaping magical gems [[../../History & Lore/Legends/Fey-Lines|Fey-Lines]].

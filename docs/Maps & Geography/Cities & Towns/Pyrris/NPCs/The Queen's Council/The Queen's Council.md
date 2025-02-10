@@ -4,7 +4,6 @@ aliases:
   - Council
   - Queen's Council
 share: true
-"": The Queen's Council
 ---
 
 [[./Ambassador Skylark|Ambassador Skylark]]
