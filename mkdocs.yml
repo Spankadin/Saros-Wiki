@@ -19,8 +19,8 @@ theme:
       primary: teal
       accent: light blue
       toggle:
-        icon: material/weather-night
-        name: Passer au mode sombre
+        icon: material/toggle-switch
+        name: Light of The Two Suns
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -28,8 +28,8 @@ theme:
       primary: blue grey
       accent: light blue
       toggle:
-        icon: material/weather-sunny
-        name: Passer en mode clair
+        icon: material/toggle-switch-off-outline
+        name: Sarosian Moons Light
     features:
         - navigation.indexes
         - navigation.top
@@ -37,8 +37,10 @@ theme:
         - navigation.tabs.sticky
         - navigation.content
         - navigation.path
+        - navigation.tracking
         - search.suggest
         - search.highlight
+        - toc.follow
 # Extensions
 markdown_extensions:
   - footnotes
@@ -92,6 +94,7 @@ plugins:
   - search
   - meta-descriptions
   - awesome-pages
+  - tags
  # - blog:
  #     blog_dir: blog
  #     blog_toc: true
