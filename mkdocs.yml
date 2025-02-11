@@ -168,21 +168,21 @@ home_gradient_hsla: hsla(0deg,47%,55%,1) # Default Green: hsla(160deg,47%,55%,1)
 # Custom Homepage Button(s)
 home_button1_name: NPC Table                  # Comment this parameter out to remove the button.
 home_button1_url: https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/Dataview/NPCs/                       # This path starts at your root mkdocs directory.
-home_button1_theme: md-button md-button--primary # Options: "md-button", "md-button md-button--primary"
+#home_button1_theme: md-button md-button--primary # Options: "md-button", "md-button md-button--primary"
 #home_button1_icon: people                        # Options: "people", "gear", "image"
 #home_button1_blurb: |                            # Short description of this button / section.
 #  A table of all NPCs in Saros.
 
 home_button2_name: House Rules   # Comment this parameter out to remove the button.
 home_button2_url: https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R1.-House-Rules/    # This path starts at your root mkdocs directory.
-home_button2_theme: md-button # Options: "md-button", "md-button md-button--primary"
+#home_button2_theme: md-button # Options: "md-button", "md-button md-button--primary"
 #home_button2_icon: gear       # Options: "people", "gear", "image"
 #home_button2_blurb: |         # Short description of this button / section.
 #  Sarosian House Rules.
 
 home_button3_name: Table Rules   # Comment this parameter out to remove the button.
 home_button3_url: https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R2.-Table-Etiquette/    # This path starts at your root mkdocs directory.
-home_button3_theme: md-button # Options: "md-button", "md-button md-button--primary"
+#home_button3_theme: md-button # Options: "md-button", "md-button md-button--primary"
 #home_button3_icon: image      # Options: "people", "gear", "image"
 #home_button3_blurb: |         # Short description of this button / section.
 #  Rules for Sarosian Table Etiquette.
