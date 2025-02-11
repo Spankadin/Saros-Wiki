@@ -1,6 +1,6 @@
 ---
 Race: Elemental
-tag:
+tags:
   - NPC
 Location: "[[../Goslow|Goslow]]"
 share: "true"
