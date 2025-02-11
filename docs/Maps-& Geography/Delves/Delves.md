@@ -14,5 +14,5 @@ Many of these "delves" are now lost to time and ruin, likely occupied by denizen
 There are a few delves in Saros whose locations are known, and even one delve that has caused an entire town to spring up around it. Once a delve has been re-found, it isn't long before adventurers of all types come seeking gold and glory, which usually sees traders and merchant-types follow along to pick up the scraps.
 
 -Known Delves-
-[[../../../Goslow Delve|Goslow Delve]] just north of [[../Cities & Towns/Goslow/Goslow|Goslow]]
-[[../../../Port Quartz Delve|Port Quartz Delve]] underneath [[../Cities & Towns/Port Quartz/Port-Quartz|Port Quartz]]
+[[./Goslow-Delve|Goslow Delve]] just north of [[../Cities & Towns/Goslow/Goslow|Goslow]]
+[[./Port-Quartz-Delve|Port Quartz Delve]] underneath [[../Cities & Towns/Port Quartz/Port-Quartz|Port Quartz]]
