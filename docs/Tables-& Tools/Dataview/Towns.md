@@ -1,15 +1,18 @@
 ---
 share: true
 dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
 | File                                                                        | Population |
 | --------------------------------------------------------------------------- | ---------- |
-| [[../../Maps-& Geography/Cities & Towns/Karastos/Karastos\|Karastos]]          | Unknown    |
-| [[../../Maps-& Geography/Cities & Towns/Goslow/Goslow\|Goslow]]                | 1500       |
-| [[../../Maps-& Geography/Cities & Towns/Grymswatch/Grymswatch\|Grymswatch]]    | 1000       |
-| [[../../Maps-& Geography/Cities & Towns/Port Quartz/Port-Quartz\|Port Quartz]] | 750        |
-| [[../../Maps-& Geography/Cities & Towns/Pyrris/Pyrris\|Pyrris]]                | 600        |
-| [[../../Maps-& Geography/Cities & Towns/Kylor/Kylor\|Kylor]]                   | 450        |
-| [[../../Maps-& Geography/Cities & Towns/Skaggerty/Skaggerty\|Skaggerty]]       | 150        |
+| [Karastos](../../Maps-&%20Geography/Cities%20&%20Towns/Karastos/Karastos.md)          | Unknown    |
+| [Goslow](../../Maps-&%20Geography/Cities%20&%20Towns/Goslow/Goslow.md)                | 1500       |
+| [Grymswatch](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Grymswatch.md)    | 1000       |
+| [Port Quartz](../../Maps-&%20Geography/Cities%20&%20Towns/Port%20Quartz/Port-Quartz.md) | 750        |
+| [Pyrris](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/Pyrris.md)                | 600        |
+| [Kylor](../../Maps-&%20Geography/Cities%20&%20Towns/Kylor/Kylor.md)                   | 450        |
+| [Skaggerty](../../Maps-&%20Geography/Cities%20&%20Towns/Skaggerty/Skaggerty.md)       | 150        |
 
