@@ -7,14 +7,14 @@ tags:
 share: "true"
 ---
 
-[[./Tha'rundar|Tha'rundar]] – The Gemseekers, specialists in mining and shaping magical gems [[../../History-& Lore/Legends/Fey-Lines|Fey-Lines]].
+[[./Tha'run|Tha'run]] – The Gemseekers, specialists in mining and shaping magical gems [[../../History-& Lore/Legends/Fey-Lines|Fey-Lines]].
 
-[[./Dhu'kan|Dhu'kan]]– The Stonewrights, known for their mastery in building mighty underground cities.
+[[./Du'khan|Du'khan]]– The Stonewrights, known for their mastery in building mighty underground cities.
 
-[[./Kha'zAmok|Kha'zAmok]] – The Mountain Keepers, miners of the deepest delves.
+[[./Khaz'Amok|Khaz'Amok]] – The Shattered Helm, a clan that split from the [[./Khaz'dar|Khaz'dar]] after the great betrayal of their ruling kings.
 
-[[./Va'kdar|Va'kdar]] – The Shattered Helm, a clan that split from the Kha'zdar after the great betrayal of their ruling kings.
+[[./Vak'dar|Vak'dar]] – The Mountain Keepers, miners of the deepest [[../../Maps-& Geography/Delves/Delves|Delves]]. 
 
-[[./Kha'zdar|Kha'zdar]] or Dunebreakers – The Earthshapers, a clan that specializes in manipulating stone and land with magic.
+[[./Khaz'dar|Khaz'dar]] or Dunebreakers – The Earthshapers, a clan that specializes in manipulating stone and land with magic.
 
 
