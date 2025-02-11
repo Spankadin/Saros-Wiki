@@ -1,6 +1,7 @@
 ---
 Race: Elf
-tag: NPC
+tags:
+  - NPC
 Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"
 share: true
