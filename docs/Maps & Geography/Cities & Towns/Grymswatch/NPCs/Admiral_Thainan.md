@@ -1,4 +1,5 @@
 ---
+title: Admiral_Thainan
 Race: Half-elf
 tags: NPC
 Faction: "[[../../../../Peoples & Factions/The Aegis Legion/The Aegis Legion|The Aegis Legion]]"
