@@ -1,7 +1,7 @@
 ---
 Race: Half-elf
 Faction:
-  - - Merchants Guild
+  - "[[Merchant's Guild|Merchant's Guild]]"
 tags:
   - NPC
 Location: "[[../Port-Quartz|Port Quartz]]"

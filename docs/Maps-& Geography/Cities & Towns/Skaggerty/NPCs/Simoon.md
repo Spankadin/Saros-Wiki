@@ -1,7 +1,7 @@
 ---
 Race: Human
 Faction:
-  - - Merchants Guild
+  - "[[Merchant's Guild|Merchant's Guild]]"
 tags:
   - NPC
 Location: "[[../Skaggerty|Skaggerty]]"
