@@ -2,7 +2,7 @@
 Race: Drow
 tag:
   - NPC
-Faction: "[[Queen's Council]]"
+Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"
 share: "true"
 ---
