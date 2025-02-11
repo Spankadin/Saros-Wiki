@@ -1,7 +1,8 @@
 ---
 Race: Human
-aliases: Mirken
-tag: NPC
+aliases: Mirken, Stanton
+tags:
+  - NPC
 Location: "[[Goslow]]"
 share: "true"
 ---

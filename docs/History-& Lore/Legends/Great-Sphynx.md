@@ -1,6 +1,8 @@
 ---
 Race: Sphynx
-tag: NPC, Legend
+tags:
+  - NPC
+  - Legend
 Location: Unknown
 share: "true"
 ---

@@ -1,6 +1,6 @@
 ---
 Race: Human
-tag:
+tags:
   - NPC
 Faction: "[[../../../../Peoples-& Factions/Gambler's Guild/Gambler's-Guild|Gambler's Guild]]"
 Location: "[[Goslow]]"

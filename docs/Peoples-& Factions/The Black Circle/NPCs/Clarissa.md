@@ -1,6 +1,7 @@
 ---
 Race: Human
-tags: NPC
+tags:
+  - NPC
 Faction: "[[../The-Black-Circle|The Black Circle]]"
 Location: "[[../../../Maps-& Geography/Cities & Towns/Skaggerty/Skaggerty|Skaggerty]] (Region)"
 share: "true"

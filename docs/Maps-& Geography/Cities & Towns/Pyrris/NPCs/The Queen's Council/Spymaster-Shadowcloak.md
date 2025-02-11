@@ -1,6 +1,6 @@
 ---
 Race: Drow
-tag:
+tags:
   - NPC
 Faction: "[[The Queen's Council]]"
 Location: "[[Pyrris]]"

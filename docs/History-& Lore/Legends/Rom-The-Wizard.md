@@ -1,7 +1,9 @@
 ---
 Race: Elf
 aliases: Rom, Old Rom
-tag: NPC, Legend
+tags:
+  - NPC
+  - Legend
 Location: Unknown
 share: "true"
 ---

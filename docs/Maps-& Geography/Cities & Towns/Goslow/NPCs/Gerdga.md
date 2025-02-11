@@ -1,6 +1,6 @@
 ---
 Race: Halfling
-tag:
+tags:
   - NPC
 Location: "[[Goslow]]"
 share: "true"

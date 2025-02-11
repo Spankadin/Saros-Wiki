@@ -1,7 +1,7 @@
 ---
 Race: Half-Elf
 aliases: Jarvis, Mr. Aucien, Jarv
-tag:
+tags:
   - NPC
 Location: "[[Goslow]]"
 share: "true"

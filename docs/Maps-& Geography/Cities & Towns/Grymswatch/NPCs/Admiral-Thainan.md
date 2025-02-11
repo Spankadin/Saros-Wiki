@@ -1,6 +1,7 @@
 ---
 Race: Half-elf
-tags: NPC
+tags:
+  - NPC
 Faction: "[[../../../../Peoples-& Factions/The Aegis Legion/The-Aegis-Legion|The Aegis Legion]]"
 Location: "[[Grymswatch]]"
 share: "true"
