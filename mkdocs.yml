@@ -157,7 +157,7 @@ copyright: Copyright &copy; 2025 James McB
 
 
 # Custom Homepage Elements
-home_cover_image: attachments/wizard-posting.png # This path starts at your root mkdocs directory.
+home_cover_image: docs/_assets/Saros Image 2.webp # This path starts at your root mkdocs directory.
 home_tagline: Sarosian Wiki
 home_description: |
   A wiki for all things Saros.
