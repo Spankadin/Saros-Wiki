@@ -2,7 +2,9 @@
 Race: Human
 tag:
   - NPC
-Faction: "[[Queen's Council|Queen's Council]], [[Aegis Legion|Aegis Legion]]"
+Faction:
+  - "[[Queen's Council|Queen's Council]]"
+  - "[[Aegis Legion|Aegis Legion]]"
 Location: "[[Pyrris]]"
 share: "true"
 ---
