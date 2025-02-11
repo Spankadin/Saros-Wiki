@@ -98,7 +98,7 @@ plugins:
   - search
   - meta-descriptions
   - awesome-pages
-  - tags
+  - tags:
       tags_file: tags.md
   - blog:
       blog_dir: blog
