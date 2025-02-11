@@ -1,5 +1,6 @@
 ---
-tags: Faction
+tags:
+  - Faction
 share: "true"
 ---
 
