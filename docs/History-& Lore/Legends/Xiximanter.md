@@ -1,6 +1,6 @@
 ---
 Race: Snake-Man
-tag:
+tags:
   - NPC
   - Legend
 Location: "[[../../Maps-& Geography/Dungeons/Tomb-of-The-Serpent-King|Tomb of The Serpent King]]"
