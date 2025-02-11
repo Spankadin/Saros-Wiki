@@ -57,7 +57,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.details
- # - pymdownx.magiclink
+  - pymdownx.magiclink
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
