@@ -1,5 +1,6 @@
 ---
-tags: Legend
+tags:
+  - Legend
 Location: Unknown
 share: "true"
 ---
