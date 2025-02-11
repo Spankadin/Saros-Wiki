@@ -1,7 +1,7 @@
 ---
 Race: Halfling
 Faction:
-  - - Merchants Guild
+  - "[[Merchant's Guild|Merchant's Guild]]"
 tags:
   - NPC
 Location: "[[Goslow]]"
