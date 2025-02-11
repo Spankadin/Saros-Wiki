@@ -1,5 +1,6 @@
 ---
-tags: Item
+tags:
+  - Item
 share: "true"
 ---
 
