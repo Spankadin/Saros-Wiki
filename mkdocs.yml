@@ -32,6 +32,9 @@ theme:
         name: Sarosian Moons Light
     features:
         - navigation.indexes
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.instant.preview
         - navigation.top
         - navigation.tabs
         - navigation.tabs.sticky
@@ -96,10 +99,11 @@ plugins:
   - meta-descriptions
   - awesome-pages
   - tags
- # - blog:
- #     blog_dir: blog
- #     blog_toc: true
- #     post_readtime_words_per_minute: 300
+      tags_file: tags.md
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      post_readtime_words_per_minute: 300
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
@@ -139,11 +143,11 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Enveloppe/
-  #blog_list:
-  #  pagination: true
-  #  pagination_message: true
-  #  pagination_translation: 'posts in'
-  #  no_page_found: 'No pages found!'
+  blog_list:
+    pagination: true
+    pagination_message: true
+    pagination_translation: 'posts in'
+    no_page_found: 'No pages found!'
   hooks:
     strip_comments: true
     fix_heading: true
