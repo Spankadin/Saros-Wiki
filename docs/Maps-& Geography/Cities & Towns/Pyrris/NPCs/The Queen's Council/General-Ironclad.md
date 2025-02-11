@@ -1,6 +1,6 @@
 ---
 Race: Human
-tag:
+tags:
   - NPC
 Faction:
   - "[[The Queen's Council|The Queen's Council]]"
