@@ -1,6 +1,7 @@
 ---
 Race: Half-elf
-tags: NPC
+tags:
+  - NPC
 Location: "[[../Port-Quartz|Port Quartz]]"
 share: "true"
 ---
