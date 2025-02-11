@@ -1,6 +1,8 @@
 ---
 Race: Human
-tag:
+Faction:
+  - - Merchants Guild
+tags:
   - NPC
 Location: "[[../Skaggerty|Skaggerty]]"
 share: "true"
