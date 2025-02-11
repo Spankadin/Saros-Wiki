@@ -1,7 +1,7 @@
 ---
 Race: Human
 aliases: Vostin
-tag:
+tags:
   - NPC
 Faction: "[[../../../../Peoples-& Factions/The Aegis Legion/The-Aegis-Legion|The Aegis Legion]]"
 Location: "[[../Goslow|Goslow]]"
