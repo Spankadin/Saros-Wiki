@@ -1,6 +1,7 @@
 ---
 Race: Elf
-tags: NPC
+tags:
+  - NPC
 Faction: "[[../The-Prism|The Prism]]"
 Location: Unknown
 share: "true"
