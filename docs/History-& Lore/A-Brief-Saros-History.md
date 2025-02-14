@@ -9,6 +9,8 @@ Whispers carried on the wind tell of a clandestine cult known simply as "[[../Pe
 
 At the heart of Saros stands Pyrris, the capital, with [[../Maps-& Geography/Cities & Towns/Pyrris/Locations/The-Radiant-Citadel|The Radiant White Citadel]] soaring into the clouds, vigilant over the waters of [[../Maps-& Geography/Landmarks/Waters/Bishop's-Bay|Bishop's Bay]]. For epochs, The Citadel was under the rule of the Elven [[../Maps-& Geography/Cities & Towns/Pyrris/NPCs/Queen-Amara|Queen Amara]]. However, over the last few months, an enigmatic shift occurred — the queen, once an ever direct presence in her kingdom, ceased personal interactions and began communicating solely through written decrees. Rumors wildly circulate, suggesting that she might have fallen ill, or that a coup occurred and she is imprisoned within the tower by [[../Maps-& Geography/Cities & Towns/Pyrris/NPCs/The Queen's Council/The-Queen's-Council|The Council]] …maybe kidnapped by The Prism, or an even graver fate..."
 
+![[../_assets/Saros_Hex_Map.webp|Saros_Hex_Map.webp]]
+
 -----------------------------------------------------------------------
 
 Almost everywhere outside of civilization is very ancient and dangerous.
