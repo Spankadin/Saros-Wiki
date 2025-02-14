@@ -1,5 +1,5 @@
 ---
-aliases: The Bulkhead, Bulkhead
+aliases: Bulkhead
 tags:
   - Building
   - Shipwright
