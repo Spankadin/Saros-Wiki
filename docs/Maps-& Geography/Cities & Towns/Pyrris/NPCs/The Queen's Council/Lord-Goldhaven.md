@@ -2,12 +2,12 @@
 Race: Human
 tags:
   - NPC
-Faction: "[[The Queen's Council]]"
+Faction: "[[./The-Queen's-Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 share: "true"
 ---
 
-Lord Cedric Goldhaven
+[[./The-Queen's-Council|Queen's Council]] member Cedric Goldhaven
 
 Role: Treasurer and Keeper of Wealth
 

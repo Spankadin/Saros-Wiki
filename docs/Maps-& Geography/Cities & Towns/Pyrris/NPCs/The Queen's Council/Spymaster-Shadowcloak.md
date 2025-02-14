@@ -2,12 +2,12 @@
 Race: Drow
 tags:
   - NPC
-Faction: "[[The Queen's Council]]"
+Faction: "[[./The-Queen's-Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 share: "true"
 ---
 
-Spymaster Elias Shadowcloak
+[[./The-Queen's-Council|Queen's Council]] member Elias Shadowcloak
 
 Role: Minister of Espionage and Intelligence
 

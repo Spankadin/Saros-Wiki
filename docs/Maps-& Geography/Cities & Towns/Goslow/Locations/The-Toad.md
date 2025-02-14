@@ -13,8 +13,10 @@ The owner and innkeeper of the Toad is a tall female halfling named [[../NPCs/Pe
 
 The inn's manager is a stocky female halfling named [[../NPCs/Gerdga|Gerdga]]. She has a heavy smoker's cough, a dry sarcastic wit, and she insists on inspecting every coin paid to her. Anything you need can either be found behind her bar or by her hard working crew. 
 
-The Toad is protected by a bound water elemental named [[../NPCs/Hob|Hob]].
-Lommen and Hommen are gnome twins who work at The Toad.
+**Employees:**
+[[../NPCs/Hob|Hob]] - Bound water elemental who works as bouncer and cleaner.
+Lommen and Hommen - gnome twins given a job by Perla after they were rescued.
+[[../NPCs/Munchies-Muldridge|Munchies Muldridge]] - Nephew of Gerdga and general clumsy fool.
 
 **Menu:**
 Baked Goose and Onion, Glass of Mead (1 sp)

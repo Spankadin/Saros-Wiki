@@ -1,6 +1,6 @@
 ---
 Race: Elf
-aliases: Amara, The Queen, Queen
+aliases: Amara, The Queen, Queen, Queen Amara's
 tags:
   - NPC
 Location: Unknown

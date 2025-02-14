@@ -2,12 +2,12 @@
 Race: Elf
 tags:
   - NPC
-Faction: "[[The Queen's Council]]"
+Faction: "[[./The-Queen's-Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 share: "true"
 ---
 
-Archmage Nisel Starweaver
+[[./The-Queen's-Council|Queen's Council]] member Nisel Starweaver
 
 Role: Minister of Arcane Affairs
 
