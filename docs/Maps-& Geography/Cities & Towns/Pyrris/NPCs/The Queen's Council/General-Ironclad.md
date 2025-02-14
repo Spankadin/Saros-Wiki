@@ -3,13 +3,13 @@ Race: Human
 tags:
   - NPC
 Faction:
-  - "[[The Queen's Council|The Queen's Council]]"
+  - "[[./The-Queen's-Council|Queen's Council]]"
   - "[[The Aegis Legion|The Aegis Legion]]"
 Location: "[[Pyrris]]"
 share: "true"
 ---
 
-General Roland Ironclad
+[[./The-Queen's-Council|Queen's Council]] member Roland Ironclad
 
 Role: Supreme Commander of the Military
 
