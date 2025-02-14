@@ -1,5 +1,5 @@
 ---
-aliases: Saros, Sarosian, Daron, Aiy-Vana
+aliases: Saros, Sarosian, Daron, Aiy-Vana, The Realm, Realm
 share: "true"
 ---
  
