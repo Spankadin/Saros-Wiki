@@ -6,6 +6,8 @@ tags:
   - NPC
 Location: "[[Goslow]]"
 share: "true"
+hide:
+  - toc
 ---
   
  ![[../../../../assets/Gerdga.png|Gerdga.png]]
