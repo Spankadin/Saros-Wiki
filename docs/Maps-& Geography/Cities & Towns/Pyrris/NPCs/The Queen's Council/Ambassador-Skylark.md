@@ -2,12 +2,12 @@
 Race: Elf
 tags:
   - NPC
-Faction: "[[The Queen's Council]]"
+Faction: "[[./The-Queen's-Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 share: true
 ---
 
-Ambassador Leonora Skylark
+[[./The-Queen's-Council|Queen's Council]] member Leonora Skylark
 
 Role: Envoy of Public Relations (Queen's Hand)
 
