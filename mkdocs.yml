@@ -112,7 +112,6 @@ plugins:
       enable_creation_date: true
   - ezlinks:
       wikilinks: true
-      relative_links: true  # Forces relative links instead of stripping folders
   - embed_file:
       callouts: true
       custom-attributes: '_static/css/custom_attributes.css'
