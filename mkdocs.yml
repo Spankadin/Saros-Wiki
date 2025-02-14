@@ -112,7 +112,6 @@ plugins:
       enable_creation_date: true
   - ezlinks:
       wikilinks: true
-      extension: .md  # Ensure links include .md to prevent folder confusion
       relative_links: true  # Forces relative links instead of stripping folders
   - embed_file:
       callouts: true
