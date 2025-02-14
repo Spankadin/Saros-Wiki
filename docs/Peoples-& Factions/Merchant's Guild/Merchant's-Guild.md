@@ -1,7 +1,6 @@
 ---
-aliases: Merchant, Merchant's
 tags:
-  - - Faction
+  - Faction
 share: "true"
 ---
 
