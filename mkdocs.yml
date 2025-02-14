@@ -110,8 +110,8 @@ plugins:
       locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
-  #- ezlinks:
-  #    wikilinks: true
+  - ezlinks:
+      wikilinks: true
   - embed_file:
       callouts: true
       custom-attributes: '_static/css/custom_attributes.css'
@@ -122,7 +122,7 @@ plugins:
 hooks:
   - overrides/hooks/on_page_markdown.py
   - overrides/hooks/on_env.py
-  - overrides/hooks/on_post_page.py
+  #- overrides/hooks/on_post_page.py
 extra_javascript:
   - _static/js/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
