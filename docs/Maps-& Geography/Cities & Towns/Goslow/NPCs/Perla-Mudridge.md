@@ -10,3 +10,5 @@ The owner and innkeeper of [[../Locations/The-Toad|The Toad]], a tall female hal
 
 Munchil "Munchies" Muldridge, nephew of Perla, works at The Toad and wants to adventure.
 (offer a seemingly benign request from perla to take it easy on him, but it turns to real danger.)
+
+![[../../../../_assets/Perla_Pic.png|Perla_Pic.png]]
