@@ -4,23 +4,27 @@ tags:
   - Port
 Population: 1500
 share: "true"
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
-The largest trade hub and hot-spot in all of [[../../../History-& Lore/A-Brief-Saros-History|Saros]]. Goslow is nestled on the inner coast of [[../../Landmarks/Waters/Bishop's-Bay|Bishop's Bay]], where larger ships must first weigh anchor and send smaller vessels to navigate the Breakwater Rocks and at last reach the docks. Goslow is the closest landing point and natural passthrough destination for anyone seeking entry up the High Road along the massive cliff to [[../Pyrris/Pyrris|Pyrris]].
+The largest trade hub and hot-spot in all of [Saros](../../../History-&%20Lore/A-Brief-Saros-History.md). Goslow is nestled on the inner coast of [Bishop's Bay](../../Landmarks/Waters/Bishop's-Bay.md), where larger ships must first weigh anchor and send smaller vessels to navigate the Breakwater Rocks and at last reach the docks. Goslow is the closest landing point and natural passthrough destination for anyone seeking entry up the High Road along the massive cliff to [Pyrris](../Pyrris/Pyrris.md).
 
-| Name                                                                                      | Race      | Factions                                                                      |
+| NPC                                                                                       | Race      | Factions                                                                      |
 | ----------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------------- |
-| [[./NPCs/Bedford\|Bedford]]                       | Human     | \-                                                                            |
-| [[./NPCs/Chibs\|Chibs]]                           | Penguin   | \-                                                                            |
-| [[./NPCs/Gerdga\|Gerdga]]                         | Halfling  | [[../../../Peoples-& Factions/Merchant's Guild/Merchant's-Guild\|Merchant's Guild]] |
-| [[./NPCs/Hob\|Hob]]                               | Elemental | \-                                                                            |
-| [[./NPCs/Jarvis-Aucien\|Jarvis Aucien]]           | Half-Elf  | \-                                                                            |
-| [[./NPCs/Korth\|Korth]]                           | Human     | \-                                                                            |
-| [[./NPCs/Lone-Wolf-Louie\|Lone-Wolf Louie]]       | Human     | [[../../../Peoples-& Factions/Gambler's Guild/Gambler's-Guild\|Gambler's Guild]]    |
-| [[./NPCs/Mary\|Mary]]                             | Human     | \-                                                                            |
-| [[./NPCs/Mirken-Stanton\|Mirken Stanton]]         | Human     | \-                                                                            |
-| [[./NPCs/Mori\|Mori]]                             | Half-Elf  | \-                                                                            |
-| [[./NPCs/Munchies-Muldridge\|Munchies Muldridge]] | Halfling  | \-                                                                            |
-| [[./NPCs/Ostalda\|Ostalda]]                       | Half-Elf  | \-                                                                            |
-| [[./NPCs/Perla-Mudridge\|Perla Mudridge]]         | Halfling  | \-                                                                            |
-| [[./NPCs/Vostin-The-Mighty\|Vostin The Mighty]]   | Human     | [[../../../Peoples-& Factions/The Aegis Legion/The-Aegis-Legion\|The Aegis Legion]] |
+| [Bedford](./NPCs/Bedford.md)                       | Human     | \-                                                                            |
+| [Chibs](./NPCs/Chibs.md)                           | Penguin   | \-                                                                            |
+| [Gerdga](./NPCs/Gerdga.md)                         | Halfling  | [Merchant's Guild](../../../Peoples-&%20Factions/Merchant's%20Guild/Merchant's-Guild.md) |
+| [Hob](./NPCs/Hob.md)                               | Elemental | \-                                                                            |
+| [Jarvis Aucien](./NPCs/Jarvis-Aucien.md)           | Half-Elf  | \-                                                                            |
+| [Korth](./NPCs/Korth.md)                           | Human     | \-                                                                            |
+| [Lone-Wolf Louie](./NPCs/Lone-Wolf-Louie.md)       | Human     | [Gambler's Guild](../../../Peoples-&%20Factions/Gambler's%20Guild/Gambler's-Guild.md)    |
+| [Mary](./NPCs/Mary.md)                             | Human     | \-                                                                            |
+| [Mirken Stanton](./NPCs/Mirken-Stanton.md)         | Human     | \-                                                                            |
+| [Mori](./NPCs/Mori.md)                             | Half-Elf  | \-                                                                            |
+| [Munchies Muldridge](./NPCs/Munchies-Muldridge.md) | Halfling  | \-                                                                            |
+| [Ostalda](./NPCs/Ostalda.md)                       | Half-Elf  | \-                                                                            |
+| [Perla Mudridge](./NPCs/Perla-Mudridge.md)         | Halfling  | \-                                                                            |
+| [Vostin The Mighty](./NPCs/Vostin-The-Mighty.md)   | Human     | [The Aegis Legion](../../../Peoples-&%20Factions/The%20Aegis%20Legion/The-Aegis-Legion.md) |
