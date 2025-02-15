@@ -4,6 +4,7 @@ tags:
   - NPC
 Faction: "[[../../../../Peoples-& Factions/Gambler's Guild/Gambler's-Guild|Gambler's Guild]]"
 Location: "[[Goslow]]"
+Building: "[[../Locations/The-Silver-Drake|The Silver Drake]]"
 share: "true"
 ---
 
