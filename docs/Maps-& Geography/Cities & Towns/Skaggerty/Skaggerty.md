@@ -13,6 +13,7 @@ A small crossroads town settling between the junctions of [Kylor](../Kylor/Kylor
 
 Population - 150
 
+#### NPCs Found Here
 | NPC                                                                                        | Race  | Factions                                                                      |
 | ------------------------------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------------- |
 | [Heldoren The Wise](./NPCs/Heldoren-The-Wise.md) | Human | \-                                                                            |
