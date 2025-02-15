@@ -4,6 +4,7 @@ tags:
   - NPC
   - Sage
 Location: "[[../Skaggerty|Skaggerty]]"
+Building: "[[../Locations/Temple-of-Austerus|Temple of Austerus]]"
 share: "true"
 ---
 
