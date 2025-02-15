@@ -4,6 +4,7 @@ aliases: Chibby, Chib-Chib, Chib-Chibs
 tags:
   - NPC
 Location: "[[Goslow]]"
+Building: "[[../Locations/The-Sphinx's-Spellbook|The Sphinx's Spellbook]]"
 share: "true"
 ---
 
