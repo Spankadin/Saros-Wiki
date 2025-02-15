@@ -3,12 +3,16 @@ tags:
   - Town
 Population: 1000
 share: "true"
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
-Headquarters and home of [[../../../Peoples-& Factions/The Aegis Legion/The-Aegis-Legion|The Aegis Legion]]. Grymswatch serves as the realm's military training ground, and it's main defense against the pirate factions of [[../Karastos/Karastos|Karastos]]. 
+Headquarters and home of [The Aegis Legion](../../../Peoples-&%20Factions/The%20Aegis%20Legion/The-Aegis-Legion.md). Grymswatch serves as the realm's military training ground, and it's main defense against the pirate factions of [Karastos](../Karastos/Karastos.md). 
 
 Population - 1000
 
-| Name                                                                                    | Race     | Factions                                                                      |
+| NPC                                                                                     | Race     | Factions                                                                      |
 | --------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- |
-| [[./NPCs/Admiral-Thainan\|Admiral Thainan]] | Half-elf | [[../../../Peoples-& Factions/The Aegis Legion/The-Aegis-Legion\|The Aegis Legion]] |
+| [Admiral Thainan](./NPCs/Admiral-Thainan.md) | Half-elf | [The Aegis Legion](../../../Peoples-&%20Factions/The%20Aegis%20Legion/The-Aegis-Legion.md) |
