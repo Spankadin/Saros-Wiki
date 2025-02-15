@@ -5,6 +5,7 @@ Faction:
 tags:
   - NPC
 Location: "[[Goslow]]"
+Building: "[[../Locations/The-Toad|The Toad]]"
 share: "true"
 ---
 

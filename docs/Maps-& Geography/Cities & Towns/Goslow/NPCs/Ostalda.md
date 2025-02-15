@@ -4,6 +4,7 @@ tags:
   - NPC
   - Sage
 Location: "[[../Goslow|Goslow]]"
+Building: "[[../Locations/Temple-of-Torm|Temple of Torm]]"
 share: "true"
 ---
 

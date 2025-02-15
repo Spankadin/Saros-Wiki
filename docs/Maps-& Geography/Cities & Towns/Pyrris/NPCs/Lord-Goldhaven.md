@@ -2,12 +2,14 @@
 Race: Human
 tags:
   - NPC
-Faction: "[[./The-Queen's-Council|Queen's Council]]"
+Role: Minister of Arcane Affairs
+Faction: "[[../../../../Peoples-& Factions/The Queen's Council/The-Queen's-Council|Queen's Council]]"
 Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
 share: "true"
 ---
 
-[[./The-Queen's-Council|Queen's Council]] member Cedric Goldhaven
+[[../../../../Peoples-& Factions/The Queen's Council/The-Queen's-Council|Queen's Council]] member Cedric Goldhaven
 
 Role: Treasurer and Keeper of Wealth
 

@@ -2,12 +2,14 @@
 Race: Drow
 tags:
   - NPC
-Faction: "[[./The-Queen's-Council|Queen's Council]]"
+Role: Minister of Arcane Affairs
+Faction: "[[../../../../Peoples-& Factions/The Queen's Council/The-Queen's-Council|Queen's Council]]"
 Location: "[[Pyrris]]"
+Building: "[[The Radiant Citadel]]"
 share: "true"
 ---
 
-[[./The-Queen's-Council|Queen's Council]] member Elias Shadowcloak
+[[../../../../Peoples-& Factions/The Queen's Council/The-Queen's-Council|Queen's Council]] member Elias Shadowcloak
 
 Role: Minister of Espionage and Intelligence
 

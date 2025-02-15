@@ -4,6 +4,7 @@ aliases: Bedford's
 tags:
   - NPC
 Location: "[[Goslow]]"
+Building: "[[Bedford's Forge]]"
 share: "true"
 ---
 

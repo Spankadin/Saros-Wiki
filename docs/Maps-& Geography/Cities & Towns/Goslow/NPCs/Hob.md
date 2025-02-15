@@ -3,6 +3,7 @@ Race: Elemental
 tags:
   - NPC
 Location: "[[../Goslow|Goslow]]"
+Building: "[[../Locations/The-Toad|The Toad]]"
 share: "true"
 ---
 

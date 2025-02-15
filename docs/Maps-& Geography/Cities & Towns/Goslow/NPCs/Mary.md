@@ -3,6 +3,7 @@ Race: Human
 tags:
   - NPC
 Location: "[[../Goslow|Goslow]]"
+Building: "[[Bedford's Forge]]"
 share: "true"
 ---
 

@@ -4,6 +4,7 @@ aliases: Jarvis, Mr. Aucien, Jarv
 tags:
   - NPC
 Location: "[[../Goslow|Goslow]]"
+Building: "[[../Locations/The-Bulkhead|The Bulkhead]]"
 share: "true"
 ---
 
