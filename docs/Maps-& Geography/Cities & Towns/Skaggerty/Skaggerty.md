@@ -3,13 +3,17 @@ tags:
   - Town
 Population: 150
 share: "true"
+dataview: true
+links:
+  mdlinks: true
+  convert: true
 ---
 
-A small crossroads town settling between the junctions of [[../Kylor/Kylor|Kylor]], [[../Goslow/Goslow|Goslow]], and the road to [[../../Landmarks/Mountains/The-Masys-Mountains|The Masys Mountains]]. 
+A small crossroads town settling between the junctions of [Kylor](../Kylor/Kylor.md), [Goslow](../Goslow/Goslow.md), and the road to [The Masys Mountains](../../Landmarks/Mountains/The-Masys-Mountains.md). 
 
 Population - 150
 
-| Name                                                                                       | Race  | Factions                                                                      |
+| NPC                                                                                        | Race  | Factions                                                                      |
 | ------------------------------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------------- |
-| [[./NPCs/Heldoren-The-Wise\|Heldoren The Wise]] | Human | \-                                                                            |
-| [[./NPCs/Simoon\|Simoon]]                       | Human | [[../../../Peoples-& Factions/Merchant's Guild/Merchant's-Guild\|Merchant's Guild]] |
+| [Heldoren The Wise](./NPCs/Heldoren-The-Wise.md) | Human | \-                                                                            |
+| [Simoon](./NPCs/Simoon.md)                       | Human | [Merchant's Guild](../../../Peoples-&%20Factions/Merchant's%20Guild/Merchant's-Guild.md) |
