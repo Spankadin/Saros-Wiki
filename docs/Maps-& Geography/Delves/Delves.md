@@ -1,6 +1,6 @@
 ---
 share: true
-aliases: Delve, delve
+aliases: Delve, delve, Delving
 tags:
   - Delve
 ---
