@@ -16,7 +16,7 @@ The Black Circle is a faction of mercenaries that formed in the beginning of the
 Unless formed in large numbers for a show of strength by coin, members of the Black Circle tend to blend in to normal crowds. Their attire is often dark and suited for life in the strange wilderness of Saros. Members are only truly identified by a small black circle tattoo on the inner forearm that each must bear upon joining. They greet with a sort of handshake by grabbing each other's right arm near the elbow.
 
 ##### -NPCs in this Faction-
-| Name                                                               | Race  | Location               |
-| ------------------------------------------------------------------ | ----- | ---------------------- |
-| [Clarissa](./NPCs/Clarissa.md) | Human | [Skaggerty](Skaggerty.md) (Region) |
+| Name                                                               | Race  | Location               | Building |
+| ------------------------------------------------------------------ | ----- | ---------------------- | -------- |
+| [Clarissa](./NPCs/Clarissa.md) | Human | [Skaggerty](Skaggerty.md) (Region) | \-       |
 
