@@ -5,6 +5,7 @@ Faction:
 tags:
   - NPC
 Location: "[[../Skaggerty|Skaggerty]]"
+Building: "[[../Locations/The-Stout-Fool|The Stout Fool]]"
 share: "true"
 ---
 
