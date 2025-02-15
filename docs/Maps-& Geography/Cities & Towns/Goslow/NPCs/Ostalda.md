@@ -2,6 +2,7 @@
 Race: Half-Elf
 tags:
   - NPC
+  - Sage
 Location: "[[../Goslow|Goslow]]"
 share: "true"
 ---
