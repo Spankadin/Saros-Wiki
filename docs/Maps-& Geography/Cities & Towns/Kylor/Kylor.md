@@ -14,5 +14,6 @@ A coastal bay village delicately poised on the ocean's edge. Dominated by the ar
 
 Population - 450
 
+#### NPCs Found Here
 | NPC | Race | Factions |
 | --- | ---- | -------- |
