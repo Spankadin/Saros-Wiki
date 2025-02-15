@@ -5,6 +5,7 @@ Faction:
 tags:
   - NPC
 Location: "[[../Port-Quartz|Port Quartz]]"
+Building: "[[../Locations/The-Fourty-Knights|The Fourty Knights]]"
 share: "true"
 ---
 
