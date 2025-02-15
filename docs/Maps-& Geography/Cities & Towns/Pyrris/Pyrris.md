@@ -13,6 +13,7 @@ The majestic capital of [Saros](../../../History-&%20Lore/A-Brief-Saros-History.
 
 Population - 500
 
+#### NPCs Found Here
 | NPC                                                                                                                 | Race  | Factions                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Ambassador Skylark](./NPCs/The%20Queen's%20Council/Ambassador-Skylark.md)       | Elf   | [The Queen's Council](./NPCs/The%20Queen's%20Council/The-Queen's-Council.md)                                                                                |
