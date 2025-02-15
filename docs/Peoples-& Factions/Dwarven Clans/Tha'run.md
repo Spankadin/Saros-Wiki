@@ -7,4 +7,4 @@ tags:
 share: "true"
 ---
 
-The Gemseekers, a [[./Dwarven-Clans|Dwarven Clan]] who specialize in mining and shaping magical gems [[../../History-& Lore/Legends/Fey-Lines|Fey-Lines]].
+The Gem-Seekers, a [[./Dwarven-Clans|Dwarven Clan]] that specializes in mining and shaping magical gems from [[../../History-& Lore/Legends/Fey-Lines|Fey-Lines]]. It was the Tha'run that first began [[../../Maps-& Geography/Delves/Delves|Delving]].
