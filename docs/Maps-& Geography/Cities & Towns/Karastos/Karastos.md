@@ -14,5 +14,6 @@ Pirate capital of [Saros](../../../History-&%20Lore/A-Brief-Saros-History.md). H
 
 Population - Unknown
 
+#### NPCs Found Here
 | NPC | Race | Factions |
 | --- | ---- | -------- |

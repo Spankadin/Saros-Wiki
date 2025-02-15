@@ -14,6 +14,7 @@ The bustling heartbeat of [Saros](../../../History-&%20Lore/A-Brief-Saros-Histor
 
 Population - 750
 
+#### NPCs Found Here
 | NPC                                                                                    | Race     | Factions                                                                      |
 | -------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- |
 | [Prance Mondrel](./NPCs/Prance-Mondrel.md) | Half-elf | [Merchant's Guild](../../../Peoples-&%20Factions/Merchant's%20Guild/Merchant's-Guild.md) |
