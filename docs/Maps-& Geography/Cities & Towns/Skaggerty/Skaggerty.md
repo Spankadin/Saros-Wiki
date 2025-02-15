@@ -14,7 +14,7 @@ A small crossroads town settling between the junctions of [Kylor](../Kylor/Kylor
 Population - 150
 
 #### NPCs Found Here
-| NPC                                                                                        | Race  | Factions                                                                      |
-| ------------------------------------------------------------------------------------------ | ----- | ----------------------------------------------------------------------------- |
-| [Heldoren The Wise](./NPCs/Heldoren-The-Wise.md) | Human | \-                                                                            |
-| [Simoon](./NPCs/Simoon.md)                       | Human | [Merchant's Guild](../../../Peoples-&%20Factions/Merchant's%20Guild/Merchant's-Guild.md) |
+| NPC                                                                                        | Race  | Building                                                                                          | Factions                                                                      |
+| ------------------------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Heldoren The Wise](./NPCs/Heldoren-The-Wise.md) | Human | [Temple of Austerus](./Locations/Temple-of-Austerus.md) | \-                                                                            |
+| [Simoon](./NPCs/Simoon.md)                       | Human | [The Stout Fool](./Locations/The-Stout-Fool.md)         | [Merchant's Guild](../../../Peoples-&%20Factions/Merchant's%20Guild/Merchant's-Guild.md) |
