@@ -13,14 +13,14 @@ links:
   convert: true
 ---
 
-The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [General Ironclad](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/NPCs/The%20Queen's%20Council/General-Ironclad.md). They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at [Grymswatch](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Grymswatch.md).
+The Aegis Legion serves as the shield and sword of the kingdom, maintaining order under the strategic command of [General Ironclad](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/NPCs/General-Ironclad.md). They act as both a military and a local policing force. Though the Legion have garrisons in most towns, the bulk of them reside at [Grymswatch](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Grymswatch.md).
 
 Aegis Legion's motto: "Honor, Heart, Homeland."
 Aegis Legion's battle cry: "For Courage, Conquest, and Crown!"
 
 ##### -NPCs in this Faction-
-| Name                                                                                                      | Race     | Location                                                                 |
-| --------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ |
-| [Admiral Thainan](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/NPCs/Admiral-Thainan.md)                   | Half-elf | [Grymswatch](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Grymswatch.md) |
-| [General Ironclad](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/NPCs/The%20Queen's%20Council/General-Ironclad.md) | Human    | [Pyrris](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/Pyrris.md)             |
-| [Vostin The Mighty](../../Maps-&%20Geography/Cities%20&%20Towns/Goslow/NPCs/Vostin-The-Mighty.md)                   | Human    | [Goslow](../../Maps-&%20Geography/Cities%20&%20Towns/Goslow/Goslow.md)             |
+| Name                                                                                    | Race     | Location                                                                 | Building                                                                                         |
+| --------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| [Admiral Thainan](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/NPCs/Admiral-Thainan.md) | Half-elf | [Grymswatch](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Grymswatch.md) | [Mira's Wall](../../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Locations/Mira's-Wall.md)             |
+| [General Ironclad](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/NPCs/General-Ironclad.md)   | Human    | [Pyrris](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/Pyrris.md)             | [The Radiant Citadel](../../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/Locations/The-Radiant-Citadel.md) |
+| [Vostin The Mighty](../../Maps-&%20Geography/Cities%20&%20Towns/Goslow/NPCs/Vostin-The-Mighty.md) | Human    | [Goslow](../../Maps-&%20Geography/Cities%20&%20Towns/Goslow/Goslow.md)             | [Duskpoint](../../Maps-&%20Geography/Cities%20&%20Towns/Goslow/Locations/Duskpoint.md)                     |
