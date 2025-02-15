@@ -1,5 +1,5 @@
 ---
-aliases: Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs
+aliases: Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs, Dwarven
 tags:
   - Race
   - Dwarves
@@ -7,14 +7,12 @@ tags:
 share: "true"
 ---
 
-[[./Tha'run|Tha'run]] – The Gemseekers, specialists in mining and shaping magical gems [[../../History-& Lore/Legends/Fey-Lines|Fey-Lines]].
+[[./Tha'run|Tha'run]] – The Gem-Seekers, specialists in mining and shaping magical gems found in near [[../../History-& Lore/Legends/Fey-Lines|Fey-Lines]]. It was the Tha'run that first began [[../../Maps-& Geography/Delves/Delves|Delving]].
 
-[[./Du'khan|Du'khan]]– The Stonewrights, known for their mastery in building mighty underground cities.
+[[./Khaz'armok|Khaz'armok]] – The Sand Dwarves, split from the [[./Khaz'dar|Khaz'dar]] after [[../../../The Great Betrayal|The Great Betrayal]], taking to [[../../Maps-& Geography/Landmarks/The-Glimmering-Expanse|The Glimmering Expanse]] to seek out untold riches. Lost to history.
 
-[[./Khaz'Amok|Khaz'Amok]] – The Shattered Helm, a clan that split from the [[./Khaz'dar|Khaz'dar]] after the great betrayal of their ruling kings.
+[[./Vak'dar|Vak'dar]] – The Mountain Keepers, miners of the deepest [[../../Maps-& Geography/Delves/Delves|Delving]]. 
 
-[[./Vak'dar|Vak'dar]] – The Mountain Keepers, miners of the deepest [[../../Maps-& Geography/Delves/Delves|Delves]]. 
+[[./Khaz'dar|Khaz'dar]] - The Dune-Breakers, specializing in manipulating stone and land with magic, known for their mastery in building mighty underground cities. Split from the [[./Khaz'armok|Khaz'armok]] after [[../../../The Great Betrayal|The Great Betrayal]].
 
-[[./Khaz'dar|Khaz'dar]] or Dunebreakers – The Earthshapers, a clan that specializes in manipulating stone and land with magic.
-
-
+[[./Khaz'um|Khaz'um]] - The first dwarves. Lost to history after [[../../../The Wandering|The Wandering]].
