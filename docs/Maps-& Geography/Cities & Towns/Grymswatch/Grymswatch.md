@@ -14,6 +14,6 @@ Headquarters and home of [The Aegis Legion](../../../Peoples-&%20Factions/The%20
 Population - 1000
 
 #### NPCs Found Here
-| NPC                                                                                     | Race     | Factions                                                                      |
-| --------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- |
-| [Admiral Thainan](./NPCs/Admiral-Thainan.md) | Half-elf | [The Aegis Legion](../../../Peoples-&%20Factions/The%20Aegis%20Legion/The-Aegis-Legion.md) |
+| NPC                                                                                     | Race     | Building                                                                             | Factions                                                                      |
+| --------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| [Admiral Thainan](./NPCs/Admiral-Thainan.md) | Half-elf | [Mira's Wall](./Locations/Mira's-Wall.md) | [The Aegis Legion](../../../Peoples-&%20Factions/The%20Aegis%20Legion/The-Aegis-Legion.md) |
