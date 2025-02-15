@@ -1,5 +1,5 @@
 ---
-aliases: Dunebreakers, Dunebreaker
+aliases: Dune-breakers, Dunebreaker
 tags:
   - Race
   - Dwarves
@@ -7,6 +7,6 @@ tags:
 share: "true"
 ---
 
-The Earthshapers, a [[./Dwarven-Clans|Dwarven Clan]] that specializes in manipulating stone and land with magic. Split from the [[./Vak'dar|Vak'dar]] after The Great Betrayal.
+A [[./Dwarven-Clans|Dwarven]] clan that specializes in manipulating stone and land with magic, known for their mastery in building mighty underground cities. Split from the [[./Khaz'armok|Khaz'armok]] after [[../../../The Great Betrayal|The Great Betrayal]].
 
-Aka: Dunebreakers
+Aka: Dune-Breakers
