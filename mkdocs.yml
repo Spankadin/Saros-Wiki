@@ -110,6 +110,8 @@ plugins:
       locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
+      exclude:
+        - index.md
   - ezlinks:
       wikilinks: true
   - embed_file:
