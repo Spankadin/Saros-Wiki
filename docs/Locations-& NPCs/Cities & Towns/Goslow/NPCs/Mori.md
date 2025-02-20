@@ -10,7 +10,7 @@ share: "true"
 
 <div class="infobox">
     <!-- Image is not a link now and made larger -->
-    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Mori_Chibs_Pic.png" alt="Mori & Chibs" style="display:block; max-width: 100%; height: auto; width: 500px;">
+    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Mori_Chibs_Pic.png" alt="Mori & Chibs" style="display:block; max-width: 100%; height: auto; width: 400px;">
     <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>
