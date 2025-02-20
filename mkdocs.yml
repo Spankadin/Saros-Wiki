@@ -136,6 +136,7 @@ extra_css:
     - _static/css/customization.css
     - https://cdn.jsdelivr.net/gh/Enveloppe/_static@refs/heads/master/dist/styles.css
     - _static/css/custom_images.css
+    - assets/custom.css
 extra:
   SEO: '_assets/meta/logo.png'
   comments: False
