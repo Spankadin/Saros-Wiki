@@ -1,7 +1,7 @@
 /* Default infobox styling for larger screens */
 .infobox {
     float: right;
-    width: 400px; /* Keep it same as image width */
+    width: 400px; /* Match image width */
     margin: 0;
     padding: 0;
     border: 1px solid #ccc;
@@ -9,19 +9,20 @@
     text-align: center;
     font-size: 12px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    display: block;
-    box-sizing: border-box; /* Ensure padding doesn't affect width */
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box; /* Ensures padding doesn’t expand the box */
 }
 
-/* Ensure text section is properly aligned */
+/* Ensure the text section stays within the box */
 .infobox ul {
     list-style-type: none; /* Removes bullet points */
     padding: 10px;
     margin: 0;
     width: 100%;
-    box-sizing: border-box; /* Ensures it doesn't overflow */
+    box-sizing: border-box; /* Prevents overflow */
     background-color: white; /* Ensures no extra white box */
-    border-top: 1px solid #ccc; /* Optional: Separate text from image */
+    border-top: 1px solid #ccc; /* Optional: Separates text from image */
     text-align: left; /* Aligns text properly */
 }
 
@@ -30,7 +31,6 @@
     display: block; /* Prevents extra space issues */
     max-width: 100%;
     height: auto;
-    width: 100%;
     margin: 0;
     padding: 0;
 }
