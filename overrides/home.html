@@ -58,15 +58,4 @@
     </div>
 </section>
 
-<!-- Remove the feature-section if you don’t want to repeat buttons -->
-<div class="feature-section">
-    {%- for i in range(1, 4) -%}
-        {%- if config["home_button" ~ i ~ "_name"] -%}
-            <div class="feature-item">
-                <h2>{{ config["home_button" ~ i ~ "_name"] }}</h2>
-                <p>{{ config["home_button" ~ i ~ "_blurb"] }}</p>
-            </div>
-        {%- endif -%}
-    {%- endfor -%}
-</div>
 {% endblock %}
