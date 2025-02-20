@@ -7,4 +7,4 @@ Location:
 share: "true"
 ---
 
-[[../../../../Factions-& Clans/The Aegis Legion/The-Aegis-Legion|The Aegis Legion]] garrison at [[../Pyrris|Pyrris]], overseen by [[../NPCs/General-Ironclad|General Ironclad]].
+[The Aegis Legion](../../../../Factions-&%20Clans/The%20Aegis%20Legion/The-Aegis-Legion.md) garrison at [Pyrris](../Pyrris.md), overseen by [General Ironclad](../NPCs/General-Ironclad.md).
