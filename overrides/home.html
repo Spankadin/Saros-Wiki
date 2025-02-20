@@ -2,60 +2,91 @@
 
 {% block content %}
 <style>
-    .md-main { flex-grow: 0; }
-    .md-main__inner { display: flex; height: 100%; }
-    .tx-container {
-        padding-top: 0;
-        background: linear-gradient(to bottom, var(--md-primary-fg-color), {{ config.home_gradient_hsla }} 99%, #fff 99%);
-    }
-    .tx-hero {
-        margin: 32px auto;
-        color: var(--md-primary-bg-color);
-        text-align: center;
-    }
-    .tx-hero img {
-        max-width: 100%;
-        height: auto;
-    }
-    .tx-hero h1 { font-weight: 700; }
-    .tx-hero__content { padding-bottom: 1rem; }
-    .button-container { display: flex; justify-content: center; gap: 1rem; }
-    .button-container a {
-        padding: 10px 15px;
-        background: var(--md-primary-bg-color);
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-    }
-    .feature-section { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 20px; }
-    .feature-item {
-        background: var(--md-primary-bg-color);
-        padding: 15px;
-        border-radius: 10px;
-        text-align: center;
-        max-width: 300px;
-    }
+  /* --- Remove or override the lines that restrict the container height --- */
+  .md-main {
+    /* flex-grow: 0;  <-- remove this if you have it anywhere */
+  }
+  .md-main__inner {
+    /* display: flex; height: 100%; <-- remove or override if it causes issues */
+  }
+
+  /* --- Hero Section that fills the viewport --- */
+  .hero-section {
+    /* Option 1: Use a background image that covers the screen */
+    /* background: url("{{ config.home_cover_image }}") center center / cover no-repeat; */
+
+    /* Option 2: Use a gradient or a gradient + image overlay */
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.7)
+    ),
+    url("{{ config.home_cover_image }}") center center / cover no-repeat;
+
+    min-height: 100vh;  /* fill the full browser height */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;  /* some breathing room */
+  }
+
+  /* --- The banner image inside the hero section --- */
+  .banner-image {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 2rem;
+  }
+
+  /* --- Text in the hero --- */
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+  }
+  .hero-content p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto 2rem auto;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .button-container a {
+    padding: 10px 15px;
+    background: #ff6600;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
 </style>
 
-<section class="tx-container">
-    <div class="md-grid md-typeset">
-        <div class="tx-hero">
-            <img src="{{ config.home_cover_image }}" alt="Hero Image">
-            <div class="tx-hero__content">
-                <h1>{{ config.home_tagline }}</h1>
-                <p>{{ config.home_description }}</p>
-                <div class="button-container">
-                    {%- for i in range(1, 4) -%}
-                        {%- if config["home_button" ~ i ~ "_name"] -%}
-                            <a href="{{ config["home_button" ~ i ~ "_url"] }}">
-                                {{ config["home_button" ~ i ~ "_name"] }}
-                            </a>
-                        {%- endif -%}
-                    {%- endfor -%}
-                </div>
-            </div>
-        </div>
+<section class="hero-section">
+  <!-- Hero content in the center of the full-height background -->
+  <div class="hero-content">
+    <!-- This is your smaller banner image, if you want it under the main header -->
+    <img class="banner-image" src="{{ config.banner_image }}" alt="Banner">
+
+    <!-- Hero text -->
+    <h1>{{ config.home_tagline }}</h1>
+    <p>{{ config.home_description }}</p>
+
+    <!-- Example buttons -->
+    <div class="button-container">
+      {%- for i in range(1, 4) -%}
+        {%- if config["home_button" ~ i ~ "_name"] -%}
+          <a href="{{ config["home_button" ~ i ~ "_url"] }}">
+            {{ config["home_button" ~ i ~ "_name"] }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
     </div>
+  </div>
 </section>
 
 {% endblock %}
