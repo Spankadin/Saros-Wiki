@@ -28,7 +28,7 @@
 /* Make the infobox smaller for mobile devices */
 @media (max-width: 768px) {
     .infobox {
-        width: 30%; /* Adjust width for mobile to be 80% of the screen */
+        width: 50%; /* Adjust width for mobile to be 80% of the screen */
         margin-left: 0; /* Remove left margin on mobile */
         margin-right: 10%; /* Optional: Add right margin to keep it from touching the edges */
         padding: 5px; /* Optional: Reduce padding for mobile */
