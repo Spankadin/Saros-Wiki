@@ -2,12 +2,16 @@
 .infobox {
     float: right;
     width: 400px; /* Larger size for desktop */
-    margin-left: 0px;
+    margin-left: 0;
     border: 1px solid #ccc;
     background-color: white;
     text-align: center;
     font-size: 12px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0; /* Remove padding from the infobox itself */
 }
 
 /* Remove bullets from the unordered list in the infobox */
@@ -15,14 +19,17 @@
     list-style-type: none; /* Removes bullet points */
     padding: 10px; /* Apply padding only to the text area */
     margin: 0; /* Removes margin */
+    width: 100%; /* Ensure full width */
+    box-sizing: border-box; /* Ensure padding does not affect width */
 }
 
 /* Image inside the infobox */
 .infobox img {
-    display: block; /* Ensures no extra space */
+    display: block; /* Ensures no extra space below the image */
     max-width: 100%;
     height: auto;
     width: 100%;
+    border-bottom: 1px solid #ccc; /* Optional: Adds a separator between image and text */
 }
 
 /* Make the infobox smaller for mobile devices */
