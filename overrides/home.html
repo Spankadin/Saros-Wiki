@@ -13,7 +13,7 @@
   /* --- Hero Section that fills the viewport --- */
   .hero-section {
     /* Option 1: Use a background image that covers the screen */
-    /* background: url("{{ config.home_cover_image }}") center center / cover no-repeat; */
+    /* background: url("{{ config.home_cover_image | string }}") center center / cover no-repeat; */
 
     /* Option 2: Use a gradient or a gradient + image overlay */
     background: linear-gradient(
@@ -21,7 +21,7 @@
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url("{{ config.home_cover_image }}") center center / cover no-repeat;
+    url("{{ config.home_cover_image | string }}") center center / cover no-repeat;
 
     min-height: 100vh;  /* fill the full browser height */
     color: white;
@@ -70,7 +70,7 @@
   <!-- Hero content in the center of the full-height background -->
   <div class="hero-content">
     <!-- This is your smaller banner image, if you want it under the main header -->
-    <img class="banner-image" src="{{ config.banner_image }}" alt="Banner">
+    <img class="banner-image" src="{{ config.banner_image | string }}" alt="Banner">
 
     <!-- Hero text -->
     <h1>{{ config.home_tagline }}</h1>
