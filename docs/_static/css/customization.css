@@ -4,7 +4,7 @@
     width: 400px;
     margin: 0;
     padding: 0;
-    background-color: #ffbf00;
+    background-color: #a67c00;
     text-align: center;
     font-size: 12px;
     display: flex;
@@ -14,6 +14,12 @@
     box-sizing: border-box;
     overflow: hidden;
     border-radius: 8px;
+}
+
+.infobox a {
+    display: block;
+    margin: 0;
+    padding: 0;
 }
 
 /* Image inside the infobox */
@@ -28,15 +34,15 @@
 
 /* Text box inside the infobox */
 .infobox ul {
-    list-style-type: none;
-    padding: 15px;
-    margin: 0;
     width: 100%;
-    box-sizing: border-box;
-    background-color: white;
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+    background-color: white !important; /* Override inline styles */
+    margin: 0;
+    padding: 15px;
     text-align: left;
     border-radius: 0 0 8px 8px;
 }
+
 
 /* Mobile adjustments */
 @media (max-width: 768px) {
