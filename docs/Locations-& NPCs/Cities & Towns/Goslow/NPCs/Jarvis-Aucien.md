@@ -11,7 +11,7 @@ share: "true"
 
 
 <div class="infobox">
-    <img src="../docs/_assets/NPCs/Jarvis_Pic.png" alt="Jarvis Aucien">
+    <img src="../docs/_assets/Jarvis_Pic.png" alt="Jarvis Aucien">
     <ul>
          <li><strong>Race:</strong> Half-Elf</li>
          <li><strong>Faction:</strong> None</li>
