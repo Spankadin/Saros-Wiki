@@ -4,7 +4,7 @@
     width: 400px;
     margin: 0;
     padding: 0;
-    background-color: #011f4b;
+    background-color: #005b96;
     text-align: center;
     font-size: 14px;
     display: flex;
@@ -29,6 +29,7 @@
 /* Text box inside the infobox */
 .infobox ul {
     width: 100%;
+    list-style-type: none; /* Removes bullet points */
     box-sizing: border-box; /* Ensures padding doesn't affect width */
     background-color: white !important; /* Override inline styles */
     margin: 0;
