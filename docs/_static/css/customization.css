@@ -1,0 +1,27 @@
+.infobox {
+    float: right;
+    width: 250px;
+    margin-left: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.infobox img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.infobox ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+.infobox li {
+    padding: 5px 0;
+    font-weight: bold;
+}
