@@ -11,6 +11,13 @@
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+/* Remove bullets from the unordered list in the infobox */
+.infobox ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes padding */
+    margin: 0; /* Removes margin */
+}
+
 /* Image inside the infobox */
 .infobox img {
     max-width: 100%;
@@ -21,7 +28,7 @@
 /* Make the infobox smaller for mobile devices */
 @media (max-width: 768px) {
     .infobox {
-        width: 40%; /* Adjust width for mobile to be 80% of the screen */
+        width: 30%; /* Adjust width for mobile to be 80% of the screen */
         margin-left: 0; /* Remove left margin on mobile */
         margin-right: 10%; /* Optional: Add right margin to keep it from touching the edges */
         padding: 5px; /* Optional: Reduce padding for mobile */
