@@ -11,15 +11,16 @@ share: "true"
 
 
 <div class="infobox">
-    <!-- Image is not a link now -->
-    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Jarvis_Pic.png" alt="Jarvis Aucien" style="display:block; max-width: 100%; height: auto;">
-    <ul>
+    <!-- Image is not a link now and made larger -->
+    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Jarvis_Pic.png" alt="Jarvis Aucien" style="display:block; max-width: 100%; height: auto; width: 500px;">
+    <ul style="color: #333; background-color: white; padding: 10px; border-radius: 5px;">
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>
         <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
         <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Bulkhead/">The Bulkhead</a></li>
     </ul>
 </div>
+
 
 
 
