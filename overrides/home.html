@@ -1,137 +1,148 @@
-{% extends "main.html" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Saros Wiki</title>
+  <style>
+    /* 
+      Uncomment and replace the URL in the background if you want a full background image:
+      body {
+        background: url("YOUR_BACKGROUND_IMAGE_URL") no-repeat center center fixed;
+        background-size: cover;
+      }
+    */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      /* Fallback background color (if no image is used) */
+      background-color: #f0f0f0; 
+    }
 
-{% block tabs %}
-{{ super() }}
+    /* Header */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: #1e1e1e;
+      padding: 1rem 2rem;
+    }
+    header h1 {
+      color: #fff;
+      margin: 0;
+      font-size: 1.5rem;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin-left: 1rem;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
 
-<style>
-    .md-main {
-        flex-grow: 0;
+    /* Hero Section */
+    .hero {
+      text-align: center;
+      padding: 2rem 1rem;
+      background-color: #ffffff;
     }
-    .md-main__inner {
-        display: flex;
-        height: 100%;
+    .hero img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 1rem;
     }
-    .tx-container {
-        padding-top: 0rem;
-        background: linear-gradient(
-            to bottom,
-            var(--md-primary-fg-color),
-            {{ config.extra.home_gradient_hsla | string }} 99%,
-            #fff 99%
-        );
-    }
-    .tx-hero {
-        margin: 32px 2.8rem;
-        color: var(--md-primary-bg-color);
-        justify-content: center;
-    }
-    .tx-hero h1 {
-        margin-bottom: 1rem;
-        color: currentColor;
-        font-weight: 700;
-    }
-    .tx-hero__content {
-        padding-bottom: 1rem;
-        margin: 0 auto;
-    }
-    .tx-hero__image {
-        width: 17rem;
-        height: 17rem;
-        order: 1;
-        padding-right: 2.5rem;
-    }
-    /* Buttons in hero: display flex so they align horizontally */
-    .button-container {
-        display: flex;
-        gap: 0.5rem;
-        margin-top: 1rem;
-        flex-wrap: wrap;       /* so they don't overflow on small screens */
-        align-items: center;
-    }
-    .tx-hero .md-button {
-        color: var(--md-primary-bg-color);
-    }
-    .tx-hero .md-button--primary {
-        background-color: var(--md-primary-bg-color);
-        color: hsla(280deg, 37%, 48%, 1);
-        border-color: var(--md-primary-bg-color);
-    }
-    .tx-hero .md-button:focus,
-    .tx-hero .md-button:hover {
-        background-color: var(--md-accent-fg-color);
-        color: var(--md-default-bg-color);
-        border-color: var(--md-accent-fg-color);
-    }
-    /* Just an example for a horizontal rule/line if needed */
-    .top-hr {
-        margin-top: 42px;
-    }
-    .hr {
-        border-bottom: 1px solid #eee;
-        width: 100%;
-        margin: 20px 0;
-    }
-</style>
 
-<section class="tx-container">
-    <div class="md-grid md-typeset">
-        <div class="tx-hero">
-            <!-- Custom Image -->
-            <div class="tx-hero__image">
-                <img src="{{ config.extra.home_cover_image | string }}" draggable="false">
-            </div>
-            <!-- Main Tagline -->
-            <div class="tx-hero__content">
-                <h1>{{ config.extra.home_tagline | string }}</h1>
-                <p>{{ config.extra.home_description | string }}</p>
+    /* Buttons Section */
+    .buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .buttons a {
+      background-color: #1e1e1e;
+      color: #fff;
+      padding: 0.8rem 1.2rem;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+    }
+    .buttons a:hover {
+      background-color: #333;
+    }
 
-                <!-- Added Buttons (up to 3), horizontally aligned -->
-                <div class="button-container">
-                  {%- if config.extra.home_button1_name -%}
-                  <a href="{{ config.extra.home_button1_url | string }}"
-                     class="{{ config.extra.home_button1_theme | string }}">
-                    {{ config.extra.home_button1_name | string }}
-                  </a>
-                  {%- endif -%}
+    /* Text Content Section */
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1rem 2rem;
+      background-color: #ffffff;
+      border-radius: 4px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+    .content h2 {
+      margin-top: 0;
+    }
+    .content p {
+      line-height: 1.6;
+    }
 
-                  {%- if config.extra.home_button2_name -%}
-                  <a href="{{ config.extra.home_button2_url | string }}"
-                     class="{{ config.extra.home_button2_theme | string }}">
-                    {{ config.extra.home_button2_name | string }}
-                  </a>
-                  {%- endif -%}
+    /* Footer */
+    footer {
+      background-color: #1e1e1e;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
 
-                  {%- if config.extra.home_button3_name -%}
-                  <a href="{{ config.extra.home_button3_url | string }}"
-                     class="{{ config.extra.home_button3_theme | string }}">
-                    {{ config.extra.home_button3_name | string }}
-                  </a>
-                  {%- endif -%}
-                </div>
-            </div>
-        </div>
+  <!-- Header Section -->
+  <header>
+    <h1>Saros Wiki</h1>
+    <nav>
+      <a href="#link1">Link 1</a>
+      <a href="#link2">Link 2</a>
+      <a href="#link3">Link 3</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <!-- Replace with your hero image -->
+    <img src="YOUR_HERO_IMAGE_URL" alt="Saros Wiki Hero Image" />
+    
+    <!-- Buttons Section -->
+    <div class="buttons">
+      <a href="#button1">Button 1</a>
+      <a href="#button2">Button 2</a>
+      <a href="#button3">Button 3</a>
     </div>
-</section>
+  </section>
 
-<!-- Remove the second set of buttons (the "feature-item" blocks) by commenting them out or deleting them entirely
-<div class="top-hr">
-    <div class="hr"></div>
-    ... repeated buttons were here ...
-</div>
--->
+  <!-- Text Content Section -->
+  <section class="content">
+    <h2>Welcome to Saros Wiki</h2>
+    <p>
+      This is a placeholder for your main text. You can write about your project,
+      its goals, and provide any other important information you’d like visitors
+      to know. Use this area to introduce your wiki and guide readers on how to
+      use it.
+    </p>
+    <p>
+      You can also add additional images, bullet points, or even embed videos
+      if needed. Make this section as rich or as simple as you want!
+    </p>
+  </section>
 
-{%- if config.extra.home_execute_js -%}
-<script>
-document$.subscribe(function() {
-  console.log("'home_execute_js' is enabled:");
-  {{ config.extra.home_execute_js | string }}
-}).unsubscribe();
-</script>
-{%- endif -%}
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Saros Wiki. All rights reserved.</p>
+    <p>Created by <a href="https://github.com/spankadin" style="color: #fff;">spankadin</a></p>
+  </footer>
 
-{% endblock %}
-
-{# Re-enable the default footer #}
-{% block footer %}
-{{ super() }}
-{% endblock %}
+</body>
+</html>
