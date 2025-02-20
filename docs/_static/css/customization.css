@@ -3,23 +3,23 @@
     float: right;
     width: 400px; /* Larger size for desktop */
     margin-left: 0px;
-    padding: 10px;
     border: 1px solid #ccc;
     background-color: white;
     text-align: center;
     font-size: 12px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
 /* Remove bullets from the unordered list in the infobox */
 .infobox ul {
     list-style-type: none; /* Removes bullet points */
-    padding: 0; /* Removes padding */
+    padding: 10px; /* Apply padding only to the text area */
     margin: 0; /* Removes margin */
 }
 
 /* Image inside the infobox */
 .infobox img {
+    display: block; /* Ensures no extra space */
     max-width: 100%;
     height: auto;
     width: 100%;
@@ -28,14 +28,8 @@
 /* Make the infobox smaller for mobile devices */
 @media (max-width: 768px) {
     .infobox {
-        width: 40%; /* Adjust width for mobile to be 80% of the screen */
-        margin-left: 0; /* Remove left margin on mobile */
-        margin-right: 2%; /* Optional: Add right margin to keep it from touching the edges */
-        padding: 5px; /* Optional: Reduce padding for mobile */
-    }
-
-    /* Optionally, you can also adjust the image size for mobile */
-    .infobox img {
-        width: 100%; /* Ensure the image fits within the box */
+        width: 40%; /* Adjust width for mobile */
+        margin-left: 0;
+        margin-right: 2%;
     }
 }
