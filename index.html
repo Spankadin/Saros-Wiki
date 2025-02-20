@@ -198,64 +198,6 @@
 </nav>
 </header>
 <div class="md-container" data-md-component="container">
-<style>
-    .md-main { flex-grow: 0; }
-    .md-main__inner { display: flex; height: 100%; }
-    .tx-container {
-        padding-top: 0;
-        background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(0deg,47%,55%,1) 99%, #fff 99%);
-    }
-    .tx-hero {
-        margin: 32px auto;
-        color: var(--md-primary-bg-color);
-        text-align: center;
-    }
-    .tx-hero img {
-        max-width: 100%;
-        height: auto;
-    }
-    .tx-hero h1 { font-weight: 700; }
-    .tx-hero__content { padding-bottom: 1rem; }
-    .button-container { display: flex; justify-content: center; gap: 1rem; }
-    .button-container a {
-        padding: 10px 15px;
-        background: var(--md-primary-bg-color);
-        color: white;
-        text-decoration: none;
-        border-radius: 5px;
-    }
-    .feature-section { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 20px; }
-    .feature-item {
-        background: var(--md-primary-bg-color);
-        padding: 15px;
-        border-radius: 10px;
-        text-align: center;
-        max-width: 300px;
-    }
-</style>
-<section class="tx-container">
-<div class="md-grid md-typeset">
-<div class="tx-hero">
-<img alt="Hero Image" src="docs/_assets/Saros_Hex_Map.webp"/>
-<div class="tx-hero__content">
-<h1>Sarosian Wiki</h1>
-<p>A wiki for all things Saros.
-</p>
-<div class="button-container"><a href="https://spankadin.github.io/Saros-Wiki/Dataview/NPCs/">NPC Table</a><a href="https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R1.-House-Rules/">House Rules</a><a href="https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R2.-Table-Etiquette/">Table Rules</a></div>
-</div>
-</div>
-</div>
-</section>
-<div class="feature-section"><div class="feature-item">
-<h2>NPC Table</h2>
-<p></p>
-</div><div class="feature-item">
-<h2>House Rules</h2>
-<p></p>
-</div><div class="feature-item">
-<h2>Table Rules</h2>
-<p></p>
-</div></div>
 <main class="md-main" data-md-component="main">
 <div class="md-main__inner md-grid">
 <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
@@ -1817,54 +1759,71 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<!--
-  Copyright (c) 2016-2023 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-<!-- Tags -->
-<nav class="md-tags">
-</nav>
-<!-- Actions -->
-<!--
-  Hack: check whether the content contains a h1 headline. If it doesn't, the
-  page title (or respectively site name) is used as the main headline.
--->
-<h1>Home</h1>
-<!-- Page content -->
-<!-- Source file information -->
-<!-- taken from 
-https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/partials/source-file.html -->
-<hr/>
-<div class="md-source-file">
-<small>
-<!-- mkdocs-git-revision-date-localized-plugin -->
-<u>Last update</u> :
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 10, 2025</span>
-<!-- mkdocs-git-revision-date-plugin -->
-<br/>
-<u>Created</u> :
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 10, 2025</span>
-</small>
+<style>
+    .md-main { flex-grow: 0; }
+    .md-main__inner { display: flex; height: 100%; }
+    .tx-container {
+        padding-top: 0;
+        background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(0deg,47%,55%,1) 99%, #fff 99%);
+    }
+    .tx-hero {
+        margin: 32px auto;
+        color: var(--md-primary-bg-color);
+        text-align: center;
+    }
+    .tx-hero img {
+        max-width: 100%;
+        height: auto;
+    }
+    .tx-hero h1 { font-weight: 700; }
+    .tx-hero__content { padding-bottom: 1rem; }
+    .button-container { display: flex; justify-content: center; gap: 1rem; }
+    .button-container a {
+        padding: 10px 15px;
+        background: var(--md-primary-bg-color);
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    .feature-section { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 20px; }
+    .feature-item {
+        background: var(--md-primary-bg-color);
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        max-width: 300px;
+    }
+</style>
+<section class="tx-container">
+<div class="md-grid md-typeset">
+<div class="tx-hero">
+<img alt="Hero Image" src="docs/_assets/Saros_Hex_Map.webp"/>
+<div class="tx-hero__content">
+<h1>Sarosian Wiki</h1>
+<p>A wiki for all things Saros.
+</p>
+<div class="button-container"><a href="https://spankadin.github.io/Saros-Wiki/Dataview/NPCs/">
+                                NPC Table
+                            </a><a href="https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R1.-House-Rules/">
+                                House Rules
+                            </a><a href="https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R2.-Table-Etiquette/">
+                                Table Rules
+                            </a></div>
 </div>
-<!-- Was this page helpful? -->
-<!-- Comment system -->
+</div>
+</div>
+</section>
+<!-- Remove the feature-section if you don’t want to repeat buttons -->
+<div class="feature-section"><div class="feature-item">
+<h2>NPC Table</h2>
+<p></p>
+</div><div class="feature-item">
+<h2>House Rules</h2>
+<p></p>
+</div><div class="feature-item">
+<h2>Table Rules</h2>
+<p></p>
+</div></div>
 </article>
 </div>
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
