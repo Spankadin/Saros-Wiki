@@ -16,7 +16,7 @@ share: "true"
         <li><strong>Race:</strong> Halfling</li>
         <li><strong>Faction:</strong> None</li>
         <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
-        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Toad/">The Bulkhead</a></li>
+        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Toad/">The Toad</a></li>
     </ul>
 </div>
 
