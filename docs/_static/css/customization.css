@@ -1,7 +1,7 @@
 /* Default infobox styling for larger screens */
 .infobox {
     float: right;
-    width: 400px; /* Larger size for desktop */
+    width: 400px; /* Keep it same as image width */
     margin: 0;
     padding: 0;
     border: 1px solid #ccc;
@@ -10,6 +10,7 @@
     font-size: 12px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     display: block;
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
 }
 
 /* Ensure text section is properly aligned */
@@ -18,9 +19,10 @@
     padding: 10px;
     margin: 0;
     width: 100%;
-    box-sizing: border-box;
-    background-color: white; /* Ensures it's not stacking another white box */
+    box-sizing: border-box; /* Ensures it doesn't overflow */
+    background-color: white; /* Ensures no extra white box */
     border-top: 1px solid #ccc; /* Optional: Separate text from image */
+    text-align: left; /* Aligns text properly */
 }
 
 /* Image inside the infobox */
@@ -37,6 +39,6 @@
 @media (max-width: 768px) {
     .infobox {
         width: 40%; /* Adjust width for mobile */
-        margin: 0; /* Reset margin to ensure proper alignment */
+        margin: 0 auto; /* Center the box on mobile */
     }
 }
