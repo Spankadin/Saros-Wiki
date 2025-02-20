@@ -9,7 +9,6 @@ share: "true"
 links:
   mdlinks: true
   convert: true
-  internals: true
 ---
 
 
@@ -17,10 +16,10 @@ links:
 <div class="infobox">
     <img src="/_assets/Jarvis_Pic.png" alt="Jarvis Aucien">
     <ul>
-        <li><strong>Race:</strong> Half-Elf</li>
-        <li><strong>Faction:</strong> None</li>
-        <li><strong>Location:</strong> <a href="[Goslow](../Goslow.md)">Goslow</a></li>
-        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-&-NPCs/Cities-&-Towns/Goslow/The-Bulkhead/">The Bulkhead</a></li>
+        <li>
+            <strong>Race:</strong> Half-Elf</li> <li>
+            <strong>Faction:</strong> None</li> <li>
+            <strong>Location:</strong> <a href="../Goslow.md">Goslow</a></li> <li><strong>Building:</strong> <a href="../Locations/The-Bulkhead.md">The Bulkhead</a></li>
     </ul>
 </div>
 
