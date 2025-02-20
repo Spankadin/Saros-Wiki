@@ -9,6 +9,7 @@
     margin-bottom: 10px;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    display: block !important;  /* Ensures it's not a table */
 }
 .infobox img {
     width: 100%;
@@ -22,13 +23,6 @@
     margin: 5px 0;
     font-size: 14px;
 }
-
-/* Default Image for Broken or Missing Images */
-.infobox img[src=""], .infobox img:not([src]) {
-    content: url("/_assets/placeholder.png"); /* Change this path to your actual placeholder */
-}
-
-/* Mobile-friendly */
 @media (max-width: 768px) {
     .infobox {
         float: none;
