@@ -9,8 +9,18 @@
     margin-bottom: 10px;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-    display: block !important;  /* Ensures it's not a table */
+    display: block !important;  /* Forces it to behave like a sidebar */
 }
+
+/* Ensure it's not treated as a table */
+.md-typeset table.infobox {
+    display: block !important;
+    width: auto !important;
+    border: none !important;
+    background: transparent !important;
+}
+
+/* Image Styling */
 .infobox img {
     width: 100%;
     max-height: 250px;
@@ -19,10 +29,14 @@
     padding-bottom: 5px;
     border-radius: 6px 6px 0 0;
 }
+
+/* Text Formatting */
 .infobox p {
     margin: 5px 0;
     font-size: 14px;
 }
+
+/* Mobile-Friendly: Stack Instead of Float */
 @media (max-width: 768px) {
     .infobox {
         float: none;
