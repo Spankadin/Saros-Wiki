@@ -4,14 +4,14 @@ tags:
   - NPC
 Role: Minister of Arcane Affairs
 Faction:
-  - "[Queen's Council](../../../../Factions-&%20Clans/The%20Queen's%20Council/The-Queen's-Council.md)"
-  - "[The Aegis Legion](The%20Aegis%20Legion.md)"
+  - "[[../../../../Factions-& Clans/The Queen's Council/The-Queen's-Council|Queen's Council]]"
+  - "[[The Aegis Legion|The Aegis Legion]]"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"
 share: "true"
 ---
 
-[Queen's Council](../../../../Factions-&%20Clans/The%20Queen's%20Council/The-Queen's-Council.md) member Roland Ironclad
+[[../../../../Factions-& Clans/The Queen's Council/The-Queen's-Council|Queen's Council]] member Roland Ironclad
 
 Role: Supreme Commander of the Military
 
