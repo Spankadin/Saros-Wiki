@@ -2,13 +2,13 @@
 .infobox {
     float: right;
     width: 400px; /* Larger size for desktop */
-    margin-left: 10px;
+    margin-left: 0px;
     padding: 10px;
     border: 1px solid #ccc;
     background-color: white;
     text-align: center;
     font-size: 12px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0);
 }
 
 /* Remove bullets from the unordered list in the infobox */
@@ -28,7 +28,7 @@
 /* Make the infobox smaller for mobile devices */
 @media (max-width: 768px) {
     .infobox {
-        width: 60%; /* Adjust width for mobile to be 80% of the screen */
+        width: 40%; /* Adjust width for mobile to be 80% of the screen */
         margin-left: 0; /* Remove left margin on mobile */
         margin-right: 2%; /* Optional: Add right margin to keep it from touching the edges */
         padding: 5px; /* Optional: Reduce padding for mobile */
