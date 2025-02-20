@@ -1,5 +1,5 @@
 .infobox {
-    float: right;
+    float: right; /* Makes it sit on the right side */
     width: 250px;
     background: #f9f9f9;
     border: 1px solid #ccc;
@@ -9,10 +9,10 @@
     margin-bottom: 10px;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-    display: block !important;  /* Forces it to behave like a sidebar */
+    display: block !important; /* Prevent MkDocs from overriding */
 }
 
-/* Ensure it's not treated as a table */
+/* Make sure it's not treated as a table */
 .md-typeset table.infobox {
     display: block !important;
     width: auto !important;
