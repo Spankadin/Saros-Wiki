@@ -3,11 +3,11 @@ aliases: Toad, The Toad
 tags:
   - Building
   - Tavern
-Location: "[[Goslow]]"
+Location: "[[../Goslow|Goslow]]"
 share: "true"
 ---
 
-[[The-Toad|The Toad]] is a two-story half-timber and brick building with smooth stone floors and a warm breeze from the massive blazing fireplace that invites the weary traveler inside on a cold evening. Filled with elf-wrought tables and chairs, It was once a massive mansion that fell to ruin with age and was bought and restored by [[../NPCs/Perla-Mudridge|Perla]]. The main hall houses a large collection of priceless artwork from all across [[../../../../History-& Lore/A-Brief-Saros-History|Saros]]. Accommodations range from small, modestly priced rooms with a soft woolen mattress, to huge luxury suites that rival small houses.
+[[The-Toad|The Toad]] is a two-story half-timber and brick building with smooth stone floors and a warm breeze from the massive blazing fireplace that invites the weary traveler inside on a cold evening. The largest and busiest tavern and Inn in [[../Goslow|Goslow]], filled with elf-wrought tables and chairs, it was once a massive mansion that fell to ruin with age and was bought and restored by [[../NPCs/Perla-Mudridge|Perla]]. The main hall houses a large collection of priceless artwork from all across [[../../../../History-& Lore/A-Brief-Saros-History|Saros]]. Accommodations range from small, modestly priced rooms with a soft woolen mattress, to huge luxury suites that rival small houses.
 
 The owner and innkeeper of the Toad is a tall female halfling named [[../NPCs/Perla-Mudridge|Perla]]. She was once an adventurer, but was maimed by a dragon and lost her left leg. She loves details and rumors, and she's often seen sitting at a table sharing tall drinks and even taller tales with adventurers that come into the Toad.
 
