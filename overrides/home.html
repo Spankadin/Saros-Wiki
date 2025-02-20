@@ -1,0 +1,71 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+
+<style>
+    .md-main { flex-grow: 0; }
+    .md-main__inner { display: flex; height: 100%; }
+    .tx-container {
+        padding-top: 0;
+        background: linear-gradient(to bottom, var(--md-primary-fg-color), {{ config.home_gradient_hsla }} 99%, #fff 99%);
+    }
+    .tx-hero {
+        margin: 32px auto;
+        color: var(--md-primary-bg-color);
+        text-align: center;
+    }
+    .tx-hero img {
+        max-width: 100%;
+        height: auto;
+    }
+    .tx-hero h1 { font-weight: 700; }
+    .tx-hero__content { padding-bottom: 1rem; }
+    .button-container { display: flex; justify-content: center; gap: 1rem; }
+    .button-container a {
+        padding: 10px 15px;
+        background: var(--md-primary-bg-color);
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    .feature-section { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 20px; }
+    .feature-item {
+        background: var(--md-primary-bg-color);
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        max-width: 300px;
+    }
+</style>
+
+<section class="tx-container">
+    <div class="md-grid md-typeset">
+        <div class="tx-hero">
+            <img src="{{ config.home_cover_image }}" alt="Hero Image">
+            <div class="tx-hero__content">
+                <h1>{{ config.home_tagline }}</h1>
+                <p>{{ config.home_description }}</p>
+                <div class="button-container">
+                    {%- for i in range(1, 4) -%}
+                        {%- if config["home_button" ~ i ~ "_name"] -%}
+                            <a href="{{ config["home_button" ~ i ~ "_url"] }}">{{ config["home_button" ~ i ~ "_name"] }}</a>
+                        {%- endif -%}
+                    {%- endfor -%}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="feature-section">
+    {%- for i in range(1, 4) -%}
+        {%- if config["home_button" ~ i ~ "_name"] -%}
+            <div class="feature-item">
+                <h2>{{ config["home_button" ~ i ~ "_name"] }}</h2>
+                <p>{{ config["home_button" ~ i ~ "_blurb"] }}</p>
+            </div>
+        {%- endif -%}
+    {%- endfor -%}
+</div>
+
+{% endblock %}
