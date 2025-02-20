@@ -1,27 +1,32 @@
+/* Default infobox styling for larger screens */
 .infobox {
     float: right;
-    width: 250px;
+    width: 400px; /* Larger size for desktop */
     margin-left: 20px;
     padding: 10px;
     border: 1px solid #ccc;
-    background-color: #515151;
-    text-align: left;
+    background-color: white;
+    text-align: center;
     font-size: 14px;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+/* Image inside the infobox */
 .infobox img {
     max-width: 100%;
-    border-radius: 5px;
+    height: auto;
+    width: 100%;
 }
 
-.infobox ul {
-    list-style: none;
-    padding: 0;
-    margin: 10px 0 0;
-}
+/* Make the infobox smaller for mobile devices */
+@media (max-width: 768px) {
+    .infobox {
+        width: 100%; /* Full width on smaller screens */
+        margin-left: 0; /* Remove left margin on mobile */
+    }
 
-.infobox li {
-    padding: 5px 0;
-    font-weight: bold;
+    /* Optionally, you can also adjust the image size for mobile */
+    .infobox img {
+        width: 100%; /* Make image take up the full width of the infobox */
+    }
 }
