@@ -21,12 +21,14 @@
 /* Make the infobox smaller for mobile devices */
 @media (max-width: 768px) {
     .infobox {
-        width: 100%; /* Full width on smaller screens */
+        width: 40%; /* Adjust width for mobile to be 80% of the screen */
         margin-left: 0; /* Remove left margin on mobile */
+        margin-right: 10%; /* Optional: Add right margin to keep it from touching the edges */
+        padding: 5px; /* Optional: Reduce padding for mobile */
     }
 
     /* Optionally, you can also adjust the image size for mobile */
     .infobox img {
-        width: 100%; /* Make image take up the full width of the infobox */
+        width: 100%; /* Ensure the image fits within the box */
     }
 }
