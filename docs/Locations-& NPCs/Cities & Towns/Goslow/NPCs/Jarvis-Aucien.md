@@ -12,7 +12,7 @@ share: "true"
 
 <div class="infobox">
     <!-- Image is not a link now and made larger -->
-    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Jarvis_Pic.png" alt="Jarvis Aucien" style="display:block; max-width: 100%; height: auto; width: 500px;">
+    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Jarvis_Pic.png" alt="Jarvis Aucien" style="display:block; max-width: 100%; height: auto; width: 400px;">
     <ul style="color: #333; background-color: white; padding: 10px; border-radius: 5px;">
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>
