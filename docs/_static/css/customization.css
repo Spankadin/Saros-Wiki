@@ -2,34 +2,35 @@
 .infobox {
     float: right;
     width: 400px; /* Larger size for desktop */
-    margin: 0; /* Reset margin to remove any unwanted spacing */
-    padding: 0; /* Remove padding */
+    margin: 0;
+    padding: 0;
     border: 1px solid #ccc;
-    background-color: #d7d7d9;
+    background-color: white;
     text-align: center;
     font-size: 12px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     display: block;
 }
 
-/* Remove bullets from the unordered list in the infobox */
+/* Ensure text section is properly aligned */
 .infobox ul {
     list-style-type: none; /* Removes bullet points */
-    padding: 10px; /* Keep some padding inside the text box */
-    margin: 0; /* Removes margin */
-    width: 100%; /* Ensure full width */
-    box-sizing: border-box; /* Makes sure padding doesn't affect width */
-    background-color: white;
+    padding: 10px;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white; /* Ensures it's not stacking another white box */
+    border-top: 1px solid #ccc; /* Optional: Separate text from image */
 }
 
 /* Image inside the infobox */
 .infobox img {
-    display: block; /* Ensures no extra space below the image */
+    display: block; /* Prevents extra space issues */
     max-width: 100%;
     height: auto;
     width: 100%;
-    margin: 0; /* Remove any margin that might be affecting alignment */
-    padding: 0; /* Remove padding */
+    margin: 0;
+    padding: 0;
 }
 
 /* Make the infobox smaller for mobile devices */
