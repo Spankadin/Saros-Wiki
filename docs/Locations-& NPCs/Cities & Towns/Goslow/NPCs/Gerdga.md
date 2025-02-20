@@ -12,11 +12,11 @@ share: "true"
 <div class="infobox">
     <!-- Image is not a link now and made larger -->
     <img src="https://spankadin.github.io/Saros-Wiki/_assets/Gerdga_Pic.png" alt="Gerdga" style="display:block; max-width: 100%; height: auto; width: 500px;">
-    <ul style="color: #333; background-color: white; padding: 10px; border-radius: 5px;">
-        <li><strong>Race:</strong> Half-Elf</li>
+    <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+        <li><strong>Race:</strong> Halfling</li>
         <li><strong>Faction:</strong> None</li>
-        <li><strong>Location:</strong> <"[[Goslow]]">Goslow</a></li>
-        <li><strong>Building:</strong> <"[[../Locations/The-Toad|The Toad]]">The Bulkhead</a></li>
+        <li><strong>Location:</strong> <"/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
+        <li><strong>Building:</strong> <"/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Toad/">The Bulkhead</a></li>
     </ul>
 </div>
 
