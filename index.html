@@ -25,55 +25,73 @@
 <link href="_static/css/custom_images.css" rel="stylesheet"/>
 <link href="assets/stylesheets/custom.css" rel="stylesheet"/>
 <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+<link href="https://unpkg.com/tippy.js@6/animations/scale-subtle.css" rel="stylesheet"/>
+<link href="https://unpkg.com/tippy.js@6/themes/translucent.css" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://spankadin.github.io/Saros-Wiki/_assets/meta/logo.png" property="og:image"/>
+<meta content="https://spankadin.github.io/Saros-Wiki/_assets/meta/logo.png" name="twitter:image"/>
+<meta content="https://spankadin.github.io/Saros-Wiki/" name="site_url"/>
+<meta content="Home" property="og:title"/>
+<meta content="Home" name="twitter:title"/>
+<meta content="Saros Wiki" name="og:description"/>
+<meta content="Saros Wiki" name="twitter:description"/>
+<script> document.title = "Home" </script>
 <style>
-        /* Optional: Full background image */
-        /* Uncomment & replace the URL if desired */
-        /* body {
-            background: url("YOUR_BACKGROUND_IMAGE_URL") no-repeat center center fixed;
-            background-size: cover;
-        } */
+      /* ✅ Hide sidebar navigation only on the homepage */
+      body.home .md-sidebar {
+          display: none;
+      }
 
-        /* Hero Section */
-        .hero {
-            text-align: center;
-            padding: 2rem 1rem;
-            background-color: #ffffff;
-        }
-        .hero img {
-            max-width: 100%;
-            height: auto;
-            margin-bottom: 1rem;
-        }
+      /* Optional: Full background image (uncomment & update URL if desired) */
+      /* body {
+          background: url("YOUR_BACKGROUND_IMAGE_URL") no-repeat center center fixed;
+          background-size: cover;
+      } */
 
-        /* Buttons Section */
-        .buttons {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin-bottom: 2rem;
-        }
-        .buttons a {
-            background-color: #1e1e1e;
-            color: #fff;
-            padding: 0.8rem 1.2rem;
-            text-decoration: none;
-            border-radius: 4px;
-            transition: background-color 0.3s;
-        }
-        .buttons a:hover {
-            background-color: #333;
-        }
+      /* Hero Section */
+      .hero {
+          text-align: center;
+          padding: 2rem 1rem;
+          background-color: #ffffff;
+      }
+      .hero img {
+          max-width: 100%;
+          height: auto;
+          margin-bottom: 1rem;
+      }
 
-        /* Custom Content Section */
-        .content {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 1rem 2rem;
-            background-color: #ffffff;
-            border-radius: 4px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            margin-bottom: 2rem;
-        }
+      /* Buttons Section */
+      .buttons {
+          display: flex;
+          justify-content: center;
+          gap: 1rem;
+          margin-bottom: 2rem;
+      }
+      .buttons a {
+          background-color: #1e1e1e;
+          color: #fff;
+          padding: 0.8rem 1.2rem;
+          text-decoration: none;
+          border-radius: 4px;
+          transition: background-color 0.3s;
+      }
+      .buttons a:hover {
+          background-color: #333;
+      }
+
+      /* Custom Content Section */
+      .custom-content {
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 1rem 2rem;
+          background-color: #ffffff;
+          border-radius: 4px;
+          box-shadow: 0 0 10px rgba(0,0,0,0.1);
+          margin-bottom: 2rem;
+      }
     </style>
  <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
     html.glightbox-open { overflow: initial; height: 100%; }
@@ -1807,28 +1825,63 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
+<!--
+  Copyright (c) 2016-2023 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+<!-- Tags -->
+<nav class="md-tags">
+</nav>
+<!-- Actions -->
+<!--
+  Hack: check whether the content contains a h1 headline. If it doesn't, the
+  page title (or respectively site name) is used as the main headline.
+-->
+<h1>Home</h1>
+<!-- Page content -->
+<!-- Source file information -->
+<!-- Was this page helpful? -->
+<!-- Comment system -->
 <!-- Hero Section -->
 <section class="hero">
+<!-- Replace with your hero image URL -->
 <img alt="Saros Wiki Hero Image" src="YOUR_HERO_IMAGE_URL"/>
 <!-- Buttons Section -->
 <div class="buttons">
-<a href="https://spankadin.github.io/Saros-Wiki/Dataview/NPCs/">NPC Table</a>
-<a href="https://spankadin.github.io/Saros-Wiki/Dataview/Towns/">Towns Table</a>
-<a href="https://spankadin.github.io/Saros-Wiki/Rules-%26%20Tools/R1.-House-Rules/">House Rules</a>
+<a href="#button1">Button 1</a>
+<a href="#button2">Button 2</a>
+<a href="#button3">Button 3</a>
 </div>
 </section>
 <!-- Custom Text Content Section -->
-<section class="content">
+<section class="custom-content">
 <h2>Welcome to Saros Wiki</h2>
 <p>
-            This is a placeholder for your main text. You can write about your project,
-            its goals, and provide any other important information you’d like visitors
-            to know.
-        </p>
+        This is a placeholder for your main text. You can write about your project,
+        its goals, and provide any other important information you’d like visitors
+        to know.
+      </p>
 <p>
-            You can also add additional images, bullet points, or even embed videos
-            if needed. Make this section as rich or as simple as you want!
-        </p>
+        You can also add additional images, bullet points, or even embed videos
+        if needed. Make this section as rich or as simple as you want!
+      </p>
 </section>
 </article>
 </div>
