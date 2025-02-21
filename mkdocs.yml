@@ -164,31 +164,8 @@ extra:
       file: "file.svg"
       folder: "folder-open.svg"
       index: "index.svg"
+  hide:
+    - title
 
-  # Custom Homepage Elements
-  home_cover_image: "docs/_assets/Saros_Hex_Map.webp"
-  home_tagline: "Sarosian Wiki"
-  home_description: |
-    A wiki for all things Saros.
-
-  # Gradient Color
-  home_gradient_hsla: "hsla(0deg,47%,55%,1)"
-
-  # Custom Homepage Button(s)
-  home_button1_name: "NPC Table"
-  home_button1_url: "https://spankadin.github.io/Saros-Wiki/Dataview/NPCs/"
-  home_button1_theme: "md-button md-button--primary"
-
-  home_button2_name: "House Rules"
-  home_button2_url: "https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R1.-House-Rules/"
-  home_button2_theme: "md-button"
-
-  home_button3_name: "Table Rules"
-  home_button3_url: "https://spankadin.github.io/Saros-Wiki/Tables-%26%20Tools/R2.-Table-Etiquette/"
-  home_button3_theme: "md-button"
-
-  # Homepage Code Execution
-  home_execute_js: |
-    console.log("This is an example!");
-
+    
 copyright: "Copyright &copy; 2025 James McB"
