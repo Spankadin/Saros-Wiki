@@ -14,7 +14,7 @@ share: "true"
     <img src="https://spankadin.github.io/Saros-Wiki/_assets/Gerdga_Pic.png" alt="Gerdga" style="display:block; max-width: 100%; height: auto; width: 400px;">
     <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <li><strong>Race:</strong> Halfling</li>
-        <li><strong>Faction:</strong> None</li>
+        <li><strong>Faction:</strong> <a href="/Saros-Wiki/Factions-%26%20Clans/Merchant%27s%20Guild/Merchant%27s-Guild/">Merchant's Guild</a></li>
         <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
         <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Toad/">The Toad</a></li>
     </ul>
