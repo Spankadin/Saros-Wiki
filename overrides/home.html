@@ -79,7 +79,7 @@
           margin-bottom: 1rem;
       }
 
-      /* ✅ Custom Content Section */
+      /* ✅ Custom Content Section (Improved Readability) */
       .custom-content {
           max-width: 800px;
           margin: 2rem auto;
@@ -87,6 +87,16 @@
           background-color: #ffffff;
           border-radius: 4px;
           box-shadow: 0 0 10px rgba(0,0,0,0.1);
+          color: #222; /* Darker text for better contrast */
+          font-weight: 500;
+      }
+
+      /* ✅ Ensure all text inside `.custom-content` is readable */
+      .custom-content h2,
+      .custom-content p {
+          color: #222; /* Make sure headings and paragraphs are dark */
+          font-size: 1rem;
+          line-height: 1.6;
       }
     </style>
 {% endblock %}
@@ -114,7 +124,7 @@
         Near Four thousand and two hundred years in the past, a formidable wizard named Caelum uttered a wish in desperation, seeking salvation for the remnants of his devastated people from the doomed choice of his greatest pupil. The wish, granted with a mysterious benevolence, whisked them away from their familiar realm of Mystara to an entirely uncharted continent — a pristine land they christened "Saros". This new territory unfolded as a tapestry of richness, brimming with wonders, beauty, magic, and peril. Since their arrival, Saros has become the backdrop for countless fantastical tales, shared in hushed tones around campfires and echoing through the halls of hearths across the known world.
       </p>
       <p>
-        Welcome to Saros!
+        Delve right in!
       </p>
     </section>
 {% endblock %}
