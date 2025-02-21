@@ -3,7 +3,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (headerTitle) {
         const homeLink = document.createElement("a");
-        homeLink.href = "/";
+
+        // Use the correct GitHub Pages URL
+        homeLink.href = "/Saros-Wiki/"; // Adjust for GitHub Pages
         homeLink.innerHTML = headerTitle.innerHTML;
         homeLink.style.textDecoration = "none";
         homeLink.style.color = "inherit";
