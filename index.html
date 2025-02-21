@@ -28,7 +28,16 @@
 <style>
       /* ✅ Hide sidebar navigation only on the homepage */
       [data-md-component="sidebar"] {
-          display: none !important;
+          visibility: hidden; /* Hide visually instead of removing */
+          position: absolute;
+          left: -9999px; /* Move offscreen */
+      }
+
+      /* ✅ Show sidebar when hamburger menu is clicked */
+      body[data-md-state="drawer"] [data-md-component="sidebar"] {
+          visibility: visible;
+          position: relative;
+          left: 0;
       }
 
       /* ✅ Hide the page title ("Home") only on the homepage */
