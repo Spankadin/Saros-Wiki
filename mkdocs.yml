@@ -132,6 +132,7 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
   - _static/js/snippets.js
   - https://cdn.jsdelivr.net/gh/Enveloppe/_static@refs/heads/master/dist/index.js
+  - _static/js/fix-header.js
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
