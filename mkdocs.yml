@@ -147,7 +147,7 @@ extra:
   SEO: '_assets/meta/logo.png'
   comments: False
   attachments: '_assets/img/'
-  no-auto-h1: True
+  no-auto-h1: False
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Enveloppe/
