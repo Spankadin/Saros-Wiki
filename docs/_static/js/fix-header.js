@@ -7,16 +7,26 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // ✅ Ensure "Saros" in Header is Clickable
-    const headerTitle = document.querySelector(".md-header__title");
-    if (headerTitle) {
-        const homeLink = document.createElement("a");
-        homeLink.href = "/Saros-Wiki/"; // Corrected homepage link for GitHub Pages
-        homeLink.innerHTML = headerTitle.innerHTML;
-        homeLink.style.textDecoration = "none";
-        homeLink.style.color = "inherit";
+    // ✅ Ensure "Saros" in Header is Clickable (Desktop + Mobile)
+    function makeHeaderClickable() {
+        const headerTitle = document.querySelector(".md-header__title");
 
-        headerTitle.innerHTML = "";
-        headerTitle.appendChild(homeLink);
+        if (headerTitle && !headerTitle.querySelector("a")) {
+            const homeLink = document.createElement("a");
+            homeLink.href = "/Saros-Wiki/"; // Corrected homepage link for GitHub Pages
+            homeLink.innerHTML = headerTitle.innerHTML;
+            homeLink.style.textDecoration = "none";
+            homeLink.style.color = "inherit";
+            homeLink.style.display = "block"; // Ensure full clickable area
+
+            headerTitle.innerHTML = "";
+            headerTitle.appendChild(homeLink);
+        }
     }
+
+    // Run on page load
+    makeHeaderClickable();
+
+    // Run again after MkDocs loads (for mobile support)
+    document.addEventListener("DOMContentLoaded", makeHeaderClickable);
 });
