@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     function removeHomeTitle() {
-        if (window.location.pathname === "/Saros-Wiki/" || window.location.pathname === "/Saros-Wiki/index.html") {
+        if (window.location.pathname.includes("/Saros-Wiki/") || window.location.pathname.includes("/Saros-Wiki/index.html")) {
             const pageTitle = document.querySelector(".md-content__inner h1:first-of-type");
             if (pageTitle) {
-                pageTitle.remove(); // ✅ Completely remove the title from the DOM
+                pageTitle.remove(); // ✅ Completely removes the title
             }
         }
     }
@@ -17,26 +17,17 @@ document.addEventListener("DOMContentLoaded", function () {
             homeLink.innerHTML = headerTitle.innerHTML;
             homeLink.style.textDecoration = "none";
             homeLink.style.color = "inherit";
-            homeLink.style.display = "block";
-
-            if (window.innerWidth < 768) {
-                homeLink.style.fontSize = "1.2rem";
-                homeLink.style.padding = "10px"; // Improve tap target
-            }
+            homeLink.style.display = "inline";  // Ensure it doesn't shift down
 
             headerTitle.innerHTML = "";
             headerTitle.appendChild(homeLink);
         }
     }
 
-    // ✅ Remove the title immediately on page load
+    // ✅ Remove the title immediately & continuously
     removeHomeTitle();
-
-    // ✅ Run again to check if MkDocs re-renders it
-    setTimeout(removeHomeTitle, 500);
-    setTimeout(removeHomeTitle, 1000);
+    setInterval(removeHomeTitle, 300);  // Keeps checking & removing if it reappears
 
     // ✅ Ensure "Saros" remains a clickable header link
     makeHeaderClickable();
-    setTimeout(makeHeaderClickable, 500);
 });
