@@ -1,13 +1,13 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // ✅ Hide Homepage Title Immediately (Removes it from DOM)
-    if (window.location.pathname === "/Saros-Wiki/" || window.location.pathname === "/Saros-Wiki/index.html") {
-        const pageTitle = document.querySelector(".md-content__inner h1:first-of-type");
-        if (pageTitle) {
-            pageTitle.remove(); // Completely removes the element instead of just hiding it
+    function removeHomeTitle() {
+        if (window.location.pathname === "/Saros-Wiki/" || window.location.pathname === "/Saros-Wiki/index.html") {
+            const pageTitle = document.querySelector(".md-content__inner h1:first-of-type");
+            if (pageTitle) {
+                pageTitle.remove(); // ✅ Completely remove the title from the DOM
+            }
         }
     }
 
-    // ✅ Ensure "Saros" in Header is Clickable (Desktop + Mobile)
     function makeHeaderClickable() {
         let headerTitle = document.querySelector(".md-header__title");
 
@@ -17,11 +17,11 @@ document.addEventListener("DOMContentLoaded", function () {
             homeLink.innerHTML = headerTitle.innerHTML;
             homeLink.style.textDecoration = "none";
             homeLink.style.color = "inherit";
-            homeLink.style.display = "block"; // Full clickable area
+            homeLink.style.display = "block";
 
             if (window.innerWidth < 768) {
                 homeLink.style.fontSize = "1.2rem";
-                homeLink.style.padding = "10px"; // Increase tap target size
+                homeLink.style.padding = "10px"; // Improve tap target
             }
 
             headerTitle.innerHTML = "";
@@ -29,9 +29,14 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // ✅ Run on page load
-    makeHeaderClickable();
+    // ✅ Remove the title immediately on page load
+    removeHomeTitle();
 
-    // ✅ Run again after MkDocs finishes loading (for dynamic changes)
+    // ✅ Run again to check if MkDocs re-renders it
+    setTimeout(removeHomeTitle, 500);
+    setTimeout(removeHomeTitle, 1000);
+
+    // ✅ Ensure "Saros" remains a clickable header link
+    makeHeaderClickable();
     setTimeout(makeHeaderClickable, 500);
 });
