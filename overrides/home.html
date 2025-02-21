@@ -1,6 +1,23 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+    <style>
+      /* ✅ Hide sidebar navigation only on the homepage */
+      [data-md-component="sidebar"] {
+          display: none !important;
+      }
+
+      /* ✅ Hide the page title ("Home") only on the homepage */
+      .md-content__inner h1:first-of-type {
+          display: none;
+      }
+
+      /* Expand main content area when sidebar is hidden */
+      .md-grid {
+          grid-template-columns: 1fr !important;
+      }
+    </style>
+
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
     <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
     <link
