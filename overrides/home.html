@@ -4,16 +4,14 @@
     <style>
       /* ✅ Hide sidebar navigation only on the homepage */
       [data-md-component="sidebar"] {
-          visibility: hidden; /* Hide visually instead of removing */
-          position: absolute;
-          left: -9999px; /* Move offscreen */
+          position: fixed;
+          left: -9999px; /* Moves sidebar offscreen */
+          transition: left 0.3s ease-in-out; /* Smooth animation */
       }
 
       /* ✅ Show sidebar when hamburger menu is clicked */
       body[data-md-state="drawer"] [data-md-component="sidebar"] {
-          visibility: visible;
-          position: relative;
-          left: 0;
+          left: 0; /* Bring sidebar back onscreen */
       }
 
       /* ✅ Hide the page title ("Home") only on the homepage */
@@ -38,11 +36,11 @@
       .buttons a {
           background-color: #1e1e1e;
           color: #fff;
-          padding: 0.8rem 1.5rem; /* Adjusted for better text fit */
+          padding: 0.8rem 1.5rem;
           text-decoration: none;
           border-radius: 4px;
           transition: background-color 0.3s;
-          white-space: nowrap; /* Prevents button text from wrapping */
+          white-space: nowrap;
           display: inline-block;
           text-align: center;
           font-size: 1rem;
@@ -55,8 +53,8 @@
               justify-content: center;
           }
           .buttons a {
-              width: auto; /* Prevents full-width stretching */
-              min-width: 120px; /* Ensures buttons don't shrink too much */
+              width: auto;
+              min-width: 120px;
               padding: 0.8rem 1.2rem;
           }
       }
