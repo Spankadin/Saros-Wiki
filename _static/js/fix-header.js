@@ -2,9 +2,9 @@ document.addEventListener("DOMContentLoaded", function () {
     function removeHomeTitle() {
         const pageTitle = document.querySelector(".md-content__inner h1:first-of-type");
 
-        if (pageTitle && window.location.pathname.endsWith("/Saros-Wiki/")) {
-            // ✅ Remove title ONLY on the homepage
-            pageTitle.remove();
+        // ✅ Ensure ONLY the homepage title is hidden
+        if (pageTitle && document.body.getAttribute("data-md-page") === "home") {
+            pageTitle.style.display = "none";  // Hide instead of removing to prevent flicker
         }
     }
 
@@ -24,11 +24,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
-    // ✅ Only remove homepage title, without touching other pages
-    if (window.location.pathname.endsWith("/Saros-Wiki/")) {
-        removeHomeTitle();
-    }
+    // ✅ Remove title ONLY on the homepage (home.md), without affecting other pages
+    removeHomeTitle();
 
-    // ✅ Ensure "Saros" header remains clickable
+    // ✅ Ensure "Saros" remains clickable in the header
     makeHeaderClickable();
 });
