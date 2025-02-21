@@ -3,10 +3,12 @@
 {% block extrahead %}
     <style>
 
-      /* ✅ Instantly hide homepage title before JavaScript runs */
+      /* ✅ Instantly hide the homepage title before JavaScript runs */
       [data-md-page="index"] .md-content__inner h1:first-of-type {
-          visibility: hidden;
+          opacity: 0; /* Hide it instantly but keep space occupied to avoid layout shift */
+          visibility: hidden; /* Ensure it remains hidden */
       }
+
         
       /* ✅ Hide sidebar navigation only on the homepage */
       [data-md-component="sidebar"] {
