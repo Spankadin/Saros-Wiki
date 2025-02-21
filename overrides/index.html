@@ -19,13 +19,18 @@
         referrerpolicy="no-referrer"
     />
     {% include "partials/meta.html" %}
+    
     <style>
-      /* Optional: Full background image (uncomment & update URL if desired)
-      body {
+      /* ✅ Hide sidebar navigation only on the homepage */
+      body.home .md-sidebar {
+          display: none;
+      }
+
+      /* Optional: Full background image (uncomment & update URL if desired) */
+      /* body {
           background: url("YOUR_BACKGROUND_IMAGE_URL") no-repeat center center fixed;
           background-size: cover;
-      }
-      */
+      } */
 
       /* Hero Section */
       .hero {
