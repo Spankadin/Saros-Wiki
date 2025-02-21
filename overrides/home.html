@@ -3,10 +3,10 @@
 {% block extrahead %}
     <style>
 
-      /* ✅ Instantly hide the homepage title before JavaScript runs */
+      /* ✅ Instantly hide the homepage title while maintaining space */
       [data-md-page="index"] .md-content__inner h1:first-of-type {
-          opacity: 0; /* Hide it instantly but keep space occupied to avoid layout shift */
-          visibility: hidden; /* Ensure it remains hidden */
+          color: transparent !important;  /* Make text invisible */
+          pointer-events: none;           /* Prevent interaction */
       }
 
         
