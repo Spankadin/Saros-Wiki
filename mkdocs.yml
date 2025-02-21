@@ -165,8 +165,6 @@ extra:
       file: "file.svg"
       folder: "folder-open.svg"
       index: "index.svg"
-  hide:
-    - title
   site_name: Saros
 
     
