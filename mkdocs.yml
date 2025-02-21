@@ -146,7 +146,7 @@ extra:
   SEO: '_assets/meta/logo.png'
   comments: False
   attachments: '_assets/img/'
-  no-auto-h1: False
+  no-auto-h1: True
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Enveloppe/
@@ -166,6 +166,7 @@ extra:
       index: "index.svg"
   hide:
     - title
+  site_name: Saros
 
     
 copyright: "Copyright &copy; 2025 James McB"
