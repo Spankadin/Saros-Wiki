@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
-    // ✅ Fix Homepage Title Issue (Hide Title on Homepage)
+    // ✅ Hide Homepage Title Immediately (Removes it from DOM)
     if (window.location.pathname === "/Saros-Wiki/" || window.location.pathname === "/Saros-Wiki/index.html") {
         const pageTitle = document.querySelector(".md-content__inner h1:first-of-type");
         if (pageTitle) {
-            pageTitle.style.display = "none"; // Hide homepage title
+            pageTitle.remove(); // Completely removes the element instead of just hiding it
         }
     }
 
@@ -19,9 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
             homeLink.style.color = "inherit";
             homeLink.style.display = "block"; // Full clickable area
 
-            // ✅ Special handling for mobile header
             if (window.innerWidth < 768) {
-                homeLink.style.fontSize = "1.2rem"; // Ensure visibility on mobile
+                homeLink.style.fontSize = "1.2rem";
                 homeLink.style.padding = "10px"; // Increase tap target size
             }
 
