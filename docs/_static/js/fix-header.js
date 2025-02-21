@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     function removeHomeTitle() {
-        if (window.location.pathname.includes("/Saros-Wiki/") || window.location.pathname.includes("/Saros-Wiki/index.html")) {
+        if (window.location.pathname === "/Saros-Wiki/" || window.location.pathname === "/Saros-Wiki/index.html") {
             const pageTitle = document.querySelector(".md-content__inner h1:first-of-type");
-            if (pageTitle) {
-                pageTitle.remove(); // ✅ Completely removes the title
+            if (pageTitle && pageTitle.innerText.trim() === "") {
+                pageTitle.remove(); // ✅ Completely remove the empty title
             }
         }
     }
@@ -17,16 +17,16 @@ document.addEventListener("DOMContentLoaded", function () {
             homeLink.innerHTML = headerTitle.innerHTML;
             homeLink.style.textDecoration = "none";
             homeLink.style.color = "inherit";
-            homeLink.style.display = "inline";  // Ensure it doesn't shift down
+            homeLink.style.display = "inline";  
 
             headerTitle.innerHTML = "";
             headerTitle.appendChild(homeLink);
         }
     }
 
-    // ✅ Remove the title immediately & continuously
+    // ✅ Prevent flickering by checking every 200ms
     removeHomeTitle();
-    setInterval(removeHomeTitle, 300);  // Keeps checking & removing if it reappears
+    setInterval(removeHomeTitle, 200);
 
     // ✅ Ensure "Saros" remains a clickable header link
     makeHeaderClickable();
