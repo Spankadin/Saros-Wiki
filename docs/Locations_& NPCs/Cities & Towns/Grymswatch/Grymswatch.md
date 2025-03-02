@@ -10,7 +10,7 @@ links:
   convert: true
 ---
 
-Headquarters and home of [The Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md). Grymswatch serves as the realm's military training ground, and it's main defense against the pirate factions of [Karastos](../Karastos/Karastos.md). 
+Headquarters and home of [The Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md). Grymswatch serves as the realm's military training ground, and it's main defense against the pirate factions of [Karastos](../Karastos/Karastos.md), specifically [The Bloodmarked](../../../Factions_&%20Clans/Pirates/Bloodmarked/Bloodmarked.md) pirates.
 
 Population - 1000
 
