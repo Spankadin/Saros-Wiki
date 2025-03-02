@@ -55,7 +55,8 @@ jobs:
       - name: Install dependencies
         run: |
           uv sync --no-dev
-          uv pip install mkdocs-redirects  # ✅ Ensures the redirects plugin is installed
+          pip install mkdocs-redirects  # ✅ Force install using pip
+          uv pip install mkdocs-redirects  # ✅ Ensure it's also installed in uv's environment
 
       - name: Build
         run: |
