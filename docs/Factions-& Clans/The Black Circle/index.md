@@ -1,4 +1,5 @@
 ---
+title: The Black Circle
 aliases:
   - Circle
   - The Circle
