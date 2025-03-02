@@ -7,7 +7,7 @@ Location: Unknown
 share: "true"
 ---
 
-When [[../../../History_& Lore/Legends/Caelum|Caelum]] and [[../../../Locations_& NPCs/Cities & Towns/Pyrris/NPCs/Queen_Amara|Amara]] became aware of their student Silas' malevolent machinations, it was too late... He had already began the ritual to open the rift to the outer planes, granting his wish for immortality while simultaneously dooming him.
+When [Caelum](../../../History_&%20Lore/Legends/Caelum.md) and [Amara](../../../Locations_&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Queen_Amara.md) became aware of their student Silas' malevolent machinations, it was too late... He had already began the ritual to open the rift to the outer planes, granting his wish for immortality while simultaneously dooming him.
 
 Silas Voss's immortality is shrouded in the Veil of Desolation, a curse that disconnects him from the fundamental energies of life. Unable to feel joy, love, or any positive emotion, he exists in a perpetual state of emotional desolation. The curse also taints his magical abilities, turning the benevolent spells he once wielded into conduits of despair and decay.
 
