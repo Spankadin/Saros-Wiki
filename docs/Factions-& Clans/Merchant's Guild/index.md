@@ -1,4 +1,5 @@
 ---
+title: Merchant's Guild
 tags:
   - Faction
 share: "true"
