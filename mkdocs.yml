@@ -45,7 +45,7 @@ theme:
     - search.share
     - toc.follow
 
-use_directory_urls: true
+#use_directory_urls: true
 
 markdown_extensions:
   - footnotes
