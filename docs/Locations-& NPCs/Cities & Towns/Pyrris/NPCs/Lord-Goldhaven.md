@@ -2,7 +2,7 @@
 Race: Human
 tags:
   - NPC
-Role: Minister of Arcane Affairs
+Role: Treasurer and Keeper of Wealth
 Faction: "[[../../../../Factions-& Clans/The Queen's Council/index|Queen's Council]]"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"
