@@ -20,6 +20,7 @@ dependencies = [
     "mkdocs-obsidian-links",
     "beautifulsoup4",
     "babel"
+    "mkdocs-redirects"
 ]
 
 [tool.ruff.lint]
