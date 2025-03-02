@@ -1,4 +1,5 @@
 ---
+title: Locations & NPCs
 share: "true"
 "": Locations & NPCs
 ---
