@@ -4,14 +4,14 @@ tags:
   - NPC
 Role: Supreme Commander of the Military
 Faction:
-  - "[[../../../../Factions_& Clans/The Queen's Council/index|Queen's Council]]"
-  - "[[The Aegis Legion|The Aegis Legion]]"
+  - "[Queen's Council](../../../../Factions_&%20Clans/The%20Queen's%20Council/index.md)"
+  - "[The Aegis Legion](The%20Aegis%20Legion.md)"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"
 share: "true"
 ---
 
-[[../../../../Factions_& Clans/The Queen's Council/index|Queen's Council]] member Roland Ironclad
+[Queen's Council](../../../../Factions_&%20Clans/The%20Queen's%20Council/index.md) member Roland Ironclad
 
 Role: Supreme Commander of the Military
 
