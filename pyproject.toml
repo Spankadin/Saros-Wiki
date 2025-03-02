@@ -19,7 +19,7 @@ dependencies = [
     "mkdocs-glightbox",
     "mkdocs-obsidian-links",
     "beautifulsoup4",
-    "babel"
+    "babel",
     "mkdocs-redirects"
 ]
 
