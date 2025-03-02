@@ -1,4 +1,5 @@
 ---
+title: The Aegis Legion
 aliases:
   - The Legion
   - Legion
