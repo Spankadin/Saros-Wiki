@@ -8,11 +8,12 @@ links:
 
 | Location                                                                    | Population |
 | --------------------------------------------------------------------------- | ---------- |
-| [Karastos](../Maps-&%20Geography/Cities%20&%20Towns/Karastos/Karastos.md)          | Unknown    |
-| [Goslow](../Maps-&%20Geography/Cities%20&%20Towns/Goslow/Goslow.md)                | 1500       |
-| [Grymswatch](../Maps-&%20Geography/Cities%20&%20Towns/Grymswatch/Grymswatch.md)    | 1000       |
-| [Port Quartz](../Maps-&%20Geography/Cities%20&%20Towns/Port%20Quartz/Port-Quartz.md) | 750        |
-| [Pyrris](../Maps-&%20Geography/Cities%20&%20Towns/Pyrris/Pyrris.md)                | 500        |
-| [Kylor](../Maps-&%20Geography/Cities%20&%20Towns/Kylor/Kylor.md)                   | 450        |
-| [Skaggerty](../Maps-&%20Geography/Cities%20&%20Towns/Skaggerty/Skaggerty.md)       | 150        |
+| [Karastos](../Locations-&%20NPCs/Cities%20&%20Towns/Karastos/index.md)          | Unknown    |
+| [Goslow](../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/index.md)                | 1500       |
+| [Grymswatch](../Locations-&%20NPCs/Cities%20&%20Towns/Grymswatch/index.md)    | 1000       |
+| [Port Quartz](../Locations-&%20NPCs/Cities%20&%20Towns/Port%20Quartz/index.md) | 750        |
+| [Pyrris](../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md)                | 500        |
+| [Kylor](../Locations-&%20NPCs/Cities%20&%20Towns/Kylor/index.md)                   | 450        |
+| [Skaggerty](../Locations-&%20NPCs/Cities%20&%20Towns/Skaggerty/index.md)       | 280        |
+
 
