@@ -1,4 +1,5 @@
 ---
+title: Dwarven Clans
 aliases: Dwarven Clan, Dwarf Clan, Dwarves, Dwarfs, Dwarven
 tags:
   - Race
