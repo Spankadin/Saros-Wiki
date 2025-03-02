@@ -2,7 +2,7 @@
 Race: Human
 tags:
   - NPC
-Role: Minister of Arcane Affairs
+Role: Supreme Commander of the Military
 Faction:
   - "[[../../../../Factions-& Clans/The Queen's Council/index|Queen's Council]]"
   - "[[The Aegis Legion|The Aegis Legion]]"
