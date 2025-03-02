@@ -126,9 +126,10 @@ plugins:
 
   - redirects:
       redirect_maps:
-        "Locations_& NPCs/Cities & Towns/Grymswatch/": "Locations_& NPCs/Cities & Towns/Grymswatch/Grymswatch.md"
-        "Locations_& NPCs/Cities & Towns/Goslow/": "Locations_& NPCs/Cities & Towns/Goslow/Goslow.md"
-        "Factions_& Clans/The Aegis Legion/": "Factions_& Clans/The Aegis Legion/The Aegis Legion.md"
+        "Locations_& NPCs/Cities & Towns/Grymswatch/index.md": "Locations_& NPCs/Cities & Towns/Grymswatch/Grymswatch.md"
+        "Locations_& NPCs/Cities & Towns/Goslow/index.md": "Locations_& NPCs/Cities & Towns/Goslow/Goslow.md"
+        "Factions_& Clans/The Aegis Legion/index.md": "Factions_& Clans/The Aegis Legion/The Aegis Legion.md"
+
 
 
 hooks:
