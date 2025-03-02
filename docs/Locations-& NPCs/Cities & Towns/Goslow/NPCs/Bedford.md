@@ -3,13 +3,15 @@ Race: Human
 aliases: Bedford's
 tags:
   - NPC
+Faction:
+  - "[[Merchant's Guild|Merchant's Guild]]"
 Location: "[[Goslow]]"
 Building: "[[../Locations/Bedford's-Forge|Bedford's Forge]]"
 share: "true"
 ---
 
 <div class="infobox">
-    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Jarvis_Pic.png" alt="Jarvis Aucien">
+    <img src="LINK" alt="Bedford">
     <ul>
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>

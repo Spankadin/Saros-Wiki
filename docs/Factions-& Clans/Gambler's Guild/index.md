@@ -14,4 +14,4 @@ The Gamblers Guild is a faction of wealthy investors, loan-sharks, and thugs who
 ##### -NPCs in this Faction-
 | Name                                                                                | Race  | Location                                                     | Building                                                                                   |
 | ----------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| [Lone-Wolf Louie](../../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/NPCs/Lone-Wolf-Louie.md) | Human | [Goslow](../../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/Goslow.md) | [The Silver Drake](../../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/Locations/The-Silver-Drake.md) |
+| [Lone-Wolf Louie](../../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/NPCs/Lone-Wolf-Louie.md) | Human | [Goslow](../../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/index.md) | [The Silver Drake](../../Locations-&%20NPCs/Cities%20&%20Towns/Goslow/Locations/The-Silver-Drake.md) |

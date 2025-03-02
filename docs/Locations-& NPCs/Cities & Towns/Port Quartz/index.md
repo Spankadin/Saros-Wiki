@@ -17,4 +17,4 @@ Population - 750
 #### NPCs Found Here
 | NPC                                                                                    | Race     | Building                                                                                            | Factions                                                                    |
 | -------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Prance Mondrel](./NPCs/Prance-Mondrel.md) | Half-elf | [The Fourty Knights](./Locations/The-Fourty-Knights.md) | [Merchant's Guild](../../../Factions-&%20Clans/Merchant's%20Guild/Merchant's-Guild.md) |
+| [Prance Mondrel](./NPCs/Prance-Mondrel.md) | Half-elf | [The Fourty Knights](./Locations/The-Fourty-Knights.md) | [Merchant's Guild](../../../Factions-&%20Clans/Merchant's%20Guild/index.md) |
