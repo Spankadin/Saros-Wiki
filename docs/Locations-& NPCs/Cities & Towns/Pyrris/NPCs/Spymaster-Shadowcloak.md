@@ -2,7 +2,7 @@
 Race: Drow
 tags:
   - NPC
-Role: Minister of Arcane Affairs
+Role: Minister of Espionage and Intelligence
 Faction: "[[../../../../Factions-& Clans/The Queen's Council/index|Queen's Council]]"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"

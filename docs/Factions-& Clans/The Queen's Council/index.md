@@ -1,4 +1,5 @@
 ---
+title: The Queen's Council
 aliases:
   - The Council
   - Council
@@ -18,6 +19,6 @@ A cabal of five of the most powerful influencers in all of [Saros](../../History
 | ----------------------------------------------------------------------------------------------- | ---------------------------------------- | ----- | ----------------------------------------------------- |
 | [Ambassador Skylark](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Ambassador-Skylark.md)       | Envoy of Public Relations (Queen's Hand) | Elf   | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
 | [Archmage Starweaver](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Archmage-Starweaver.md)     | Minister of Arcane Affairs               | Elf   | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
-| [General Ironclad](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/General-Ironclad.md)           | Minister of Arcane Affairs               | Human | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
-| [Lord Goldhaven](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Lord-Goldhaven.md)               | Minister of Arcane Affairs               | Human | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
-| [Spymaster Shadowcloak](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Spymaster-Shadowcloak.md) | Minister of Arcane Affairs               | Drow  | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
+| [General Ironclad](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/General-Ironclad.md)           | Supreme Commander of the Military        | Human | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
+| [Lord Goldhaven](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Lord-Goldhaven.md)               | Treasurer and Keeper of Wealth           | Human | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |
+| [Spymaster Shadowcloak](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Spymaster-Shadowcloak.md) | Minister of Espionage and Intelligence   | Drow  | [Pyrris](../../Locations-&%20NPCs/Cities%20&%20Towns/Pyrris/index.md) |

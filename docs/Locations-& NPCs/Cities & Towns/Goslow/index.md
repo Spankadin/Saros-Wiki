@@ -1,4 +1,5 @@
 ---
+title: Goslow
 tags:
   - Town
   - Port

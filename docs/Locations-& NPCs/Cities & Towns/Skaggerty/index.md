@@ -1,4 +1,5 @@
 ---
+title: Skaggerty
 tags:
   - Town
 Population: 280
