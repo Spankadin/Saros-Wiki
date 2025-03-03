@@ -15,8 +15,8 @@ share: "true"
     <ul>
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>
-        <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
-        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Bulkhead/">The Bulkhead</a></li>
+        <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations_%26 NPCs/Cities %26 Towns/Goslow/Goslow/">Goslow</a></li>
+        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations_%26 NPCs/Cities %26 Towns/Goslow/Locations/Bedford's_Forge/">Bedford's Forge</a></li>
     </ul>
 </div>
 
