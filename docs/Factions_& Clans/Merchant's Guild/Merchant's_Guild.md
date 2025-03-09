@@ -9,7 +9,7 @@ links:
   convert: true
 ---
 
-A web of connected merchants and smiths across [Saros](../../History_&%20Lore/A_Brief_Saros_History.md).
+A web of connected merchants and smiths across [Saros](../../History_&%20Lore/A_Brief_Saros_History.md) with exclusive established trade routes and contracts between guild members.
 
 ##### -NPCs in this Faction-
 | Name                                                                                   | Race     | Location                                                                    | Building                                                                                            |
