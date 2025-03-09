@@ -2,6 +2,9 @@
 share: true
 tags:
   - Delve
+location: "[[Goslow]]"
+truname: 
+rfaction: 
 ---
 
 Recently re-discovered and unsealed by an unknown source, a dwarf at [[../Cities & Towns/Goslow/Locations/The_Toad|The Toad]] has been leading adventurers into the cave entrance to the [[./Delves|Delve]] under the assumption that his original party is all but lost down there. 
