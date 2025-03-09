@@ -14,8 +14,8 @@ share: "true"
     <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>
-        <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
-        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Sphinx's-Spellbook/">The Sphinx's Spellbook</a></li>
+        <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations_%26 NPCs/Cities %26 Towns/Goslow/Goslow/">Goslow</a></li>
+        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations_%26 NPCs/Cities %26 Towns/Goslow/Locations/The_Sphinx's_Spellbook/">The Sphinx's Spellbook</a></li>
     </ul>
 </div>
 
