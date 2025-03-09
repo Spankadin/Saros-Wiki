@@ -11,7 +11,9 @@ share: "true"
 ---
 
 <div class="infobox">
-    <img src="LINK" alt="Bedford">
+    <img src="LINK" alt="Bedford"
+          style="display:block; max-width: 100%; height: auto; width: 400px;">
+    <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
     <ul>
         <li><strong>Race:</strong> Half-Elf</li>
         <li><strong>Faction:</strong> None</li>
