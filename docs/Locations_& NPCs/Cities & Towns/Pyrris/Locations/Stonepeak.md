@@ -7,4 +7,4 @@ Location:
 share: "true"
 ---
 
-[The Aegis Legion](../../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md) garrison at [Pyrris](../Pyrris.md), overseen by [General Ironclad](../NPCs/General_Ironclad.md).
+[[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|The Aegis Legion]] garrison at [[../Pyrris|Pyrris]], overseen by [[../NPCs/General_Ironclad|General Ironclad]]. Stonepeak lies at the foot of [[./The_Radiant_Citadel|The Radiant Citadel]] and anyone passing through the gates must first pass it's checkpoint.
