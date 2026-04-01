@@ -22,7 +22,7 @@ permissions:
 
 env:
   FETCH_SUBMODULE: false
-  UV_PYTHON: 3.12
+  UV_PYTHON: 3.13
 
 jobs:
   deploy:
@@ -36,10 +36,10 @@ jobs:
           fetch-depth: 0
           submodules: recursive
 
-      - name: Set up Python 3.12
+      - name: Set up Python 3.13
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.13'
 
       - name: Install uv
         uses: astral-sh/setup-uv@v4
@@ -63,7 +63,7 @@ jobs:
           git push || echo "No changes to push"
 
       - name: Install dependencies
-        run: uv sync --no-dev --python 3.12
+        run: uv sync --no-dev --python 3.13
 
       - name: Deploy
-        run: uv run --python 3.12 mkdocs gh-deploy --force
+        run: uv run --python 3.13 mkdocs gh-deploy --force
