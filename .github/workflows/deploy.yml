@@ -11,6 +11,8 @@ on:
       - 'docs/**'
       - 'mkdocs.yml'
       - 'uv.lock'
+      - 'pyproject.toml'
+      - '.python-version'
       - '.github/workflows/**'
   repository_dispatch:
     types: [build]
@@ -20,6 +22,7 @@ permissions:
 
 env:
   FETCH_SUBMODULE: false
+  UV_PYTHON: 3.12
 
 jobs:
   deploy:
@@ -33,7 +36,7 @@ jobs:
           fetch-depth: 0
           submodules: recursive
 
-      - name: Install Python 3.12
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -43,6 +46,11 @@ jobs:
         with:
           enable-cache: true
           cache-dependency-glob: "uv.lock"
+
+      - name: Show Python versions
+        run: |
+          python --version
+          uv python list
 
       - name: Submodule fetching
         continue-on-error: true
@@ -55,7 +63,7 @@ jobs:
           git push || echo "No changes to push"
 
       - name: Install dependencies
-        run: uv sync --no-dev
+        run: uv sync --no-dev --python 3.12
 
       - name: Deploy
-        run: uv run mkdocs gh-deploy --force
+        run: uv run --python 3.12 mkdocs gh-deploy --force
