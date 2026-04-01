@@ -5,59 +5,57 @@ on:
   push:
     branches:
       - main
-    paths: 
+    paths:
       - 'README.md'
       - 'overrides/**'
       - 'docs/**'
       - 'mkdocs.yml'
       - 'uv.lock'
+      - '.github/workflows/**'
   repository_dispatch:
     types: [build]
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 env:
-  FETCH_SUBMODULE: false # change this to true if you use submodule for the docs
+  FETCH_SUBMODULE: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-          submodules: 'recursive'
+          submodules: recursive
+
+      - name: Install Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
       - name: Install uv
         uses: astral-sh/setup-uv@v4
         with:
-            enable-cache: true
-            cache-dependency-glob: "uv.lock"
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
 
-      - name: "Submodule fetching"
+      - name: Submodule fetching
         continue-on-error: true
-        if: ${{ env.FETCH_SUBMODULE }}
+        if: ${{ env.FETCH_SUBMODULE == 'true' }}
         run: |
           git submodule update --init --recursive --checkout -f --remote -- "docs"
           git config --global user.name "GitHub Action"
           git config --global user.email "noreply@github.com"
-          git commit -am "chore (update): fetch submodule"
-          git push
-
-      - name: Install python
-        run: uv python install
+          git commit -am "chore(update): fetch submodule" || echo "No changes to commit"
+          git push || echo "No changes to push"
 
       - name: Install dependencies
-        run: |
-          uv sync --no-dev
-          pip install mkdocs-redirects  # ✅ Force install using pip
-          uv pip install mkdocs-redirects  # ✅ Ensure it's also installed in uv's environment
+        run: uv sync --no-dev
 
-      - name: Build
-        run: |
-         uv run mkdocs gh-deploy --force
+      - name: Deploy
+        run: uv run mkdocs gh-deploy --force
