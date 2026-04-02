@@ -1,22 +1,15 @@
 .saros-connections-panel {
-  position: fixed;
-  top: 9rem;
-  right: 1.5rem;
-  width: 16rem;
-  z-index: 20;
+  margin-top: 1rem;
 }
 
 .saros-connections {
-  padding: 1rem;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.5rem;
-  background: var(--md-default-bg-color);
-  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.15);
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
 }
 
 .saros-connections__title {
   font-weight: 700;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .saros-connections__list {
@@ -32,8 +25,8 @@
 
 .saros-connections__link {
   display: block;
-  padding: 0.35rem 0;
-  font-size: 0.75rem;
+  padding: 0.2rem 0;
+  font-size: 0.7rem;
   line-height: 1.4;
   text-decoration: none;
   opacity: 0.92;
@@ -41,10 +34,4 @@
 
 .saros-connections__link:hover {
   opacity: 1;
-}
-
-@media screen and (max-width: 1400px) {
-  .saros-connections-panel {
-    display: none;
-  }
 }
