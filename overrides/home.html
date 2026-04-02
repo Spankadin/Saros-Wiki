@@ -26,6 +26,11 @@
     display: none !important;
   }
 
+  /* Center top navigation tabs */
+  .md-tabs__list {
+    justify-content: center !important;
+  }
+
   .saros-home {
     color: var(--md-default-fg-color);
   }
@@ -124,58 +129,6 @@
     margin: 0 auto;
   }
 
-  .saros-header {
-    max-width: 760px;
-    margin-bottom: 2rem;
-  }
-
-  .saros-header h2 {
-    margin: 0 0 0.75rem;
-    font-size: clamp(1.8rem, 4vw, 2.5rem);
-  }
-
-  .saros-header p {
-    margin: 0;
-    line-height: 1.7;
-    opacity: 0.92;
-  }
-
-  .saros-grid {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 1.25rem;
-  }
-
-  .saros-card {
-    display: block;
-    padding: 1.4rem;
-    border-radius: 1rem;
-    background: rgba(255,255,255,0.04);
-    border: 1px solid rgba(255,255,255,0.08);
-    color: inherit !important;
-    text-decoration: none !important;
-    box-shadow: 0 10px 24px rgba(0,0,0,0.15);
-    transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
-  }
-
-  .saros-card:hover {
-    transform: translateY(-4px);
-    border-color: rgba(127,166,196,0.5);
-    background: rgba(255,255,255,0.06);
-  }
-
-  .saros-card h3 {
-    margin: 0 0 0.5rem;
-    font-size: 1.1rem;
-  }
-
-  .saros-card p {
-    margin: 0;
-    line-height: 1.65;
-    font-size: 0.95rem;
-    opacity: 0.9;
-  }
-
   .saros-story {
     display: grid;
     grid-template-columns: 1.25fr 0.75fr;
@@ -204,8 +157,11 @@
     text-decoration: none !important;
   }
 
+  .saros-server-link {
+    margin-top: 1.25rem;
+  }
+
   @media screen and (max-width: 960px) {
-    .saros-grid,
     .saros-story {
       grid-template-columns: 1fr;
     }
@@ -234,7 +190,7 @@
       <div class="saros-kicker">Campaign Setting • Saros Wiki</div>
       <h1 class="saros-title">A world of lost delves, old magic, and dangerous frontiers.</h1>
       <p class="saros-subtitle">
-        Explore Saros through its towns, factions, lore, ruins, legends, and the people shaping its future.
+        Explore the continent of Saros through its towns, factions, lore, ruins, legends, and the characters shaping its future.
       </p>
 
       <div class="saros-actions">
@@ -246,49 +202,6 @@
   </section>
 
   <section class="saros-section saros-section--surface">
-    <div class="saros-container">
-      <div class="saros-header">
-        <h2>Start here</h2>
-        <p>
-          Jump straight into the parts of the wiki most useful for players, GMs, and browsing the setting.
-        </p>
-      </div>
-
-      <div class="saros-grid">
-        <a class="saros-card" href="{{ config.site_url }}Dataview/NPCs/">
-          <h3>NPC Table</h3>
-          <p>Browse notable characters, recurring figures, and important names across Saros.</p>
-        </a>
-
-        <a class="saros-card" href="{{ config.site_url }}Dataview/Towns/">
-          <h3>Towns Table</h3>
-          <p>Quick access to settlements, regions, and the places adventurers are most likely to hear about first.</p>
-        </a>
-
-        <a class="saros-card" href="{{ config.site_url }}Factions_%26%20Clans/">
-          <h3>Factions &amp; Clans</h3>
-          <p>See who holds power, who wants more of it, and who may become a problem.</p>
-        </a>
-
-        <a class="saros-card" href="{{ config.site_url }}Locations_%26%20NPCs/">
-          <h3>Locations &amp; NPCs</h3>
-          <p>Explore cities, towns, delves, landmarks, and the people connected to them.</p>
-        </a>
-
-        <a class="saros-card" href="{{ config.site_url }}History_%26%20Lore/">
-          <h3>History &amp; Lore</h3>
-          <p>Dig into the older stories, migrations, betrayals, mysteries, and magical foundations of the setting.</p>
-        </a>
-
-        <a class="saros-card" href="http://24.178.246.196:30000/game/">
-          <h3>Delve Right In</h3>
-          <p>Jump to the game-facing portal and head straight from reading into play.</p>
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <section class="saros-section">
     <div class="saros-container saros-story">
       <div class="saros-panel">
         <h3>Welcome to Saros</h3>
@@ -316,6 +229,10 @@
           <li><a href="{{ config.site_url }}Rules_%26%20Tools/">Review rules and tools</a></li>
           <li><a href="{{ config.site_url }}blog/">Read campaign updates</a></li>
         </ul>
+
+        <div class="saros-server-link">
+          <a class="saros-btn saros-btn--primary" href="http://24.178.246.196:30000/game/">Enter the Server</a>
+        </div>
       </div>
     </div>
   </section>
