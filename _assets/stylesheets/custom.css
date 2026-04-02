@@ -1,0 +1,37 @@
+.saros-connections {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.saros-connections__title {
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.saros-connections__list {
+  margin: 0;
+  padding: 0;
+}
+
+.saros-connections__item {
+  list-style: none;
+}
+
+.saros-connections__link {
+  display: block;
+  padding: 0.35rem 0;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  opacity: 0.92;
+}
+
+.saros-connections__link:hover {
+  opacity: 1;
+}
+
+@media screen and (max-width: 1219px) {
+  .saros-connections {
+    display: none;
+  }
+}
