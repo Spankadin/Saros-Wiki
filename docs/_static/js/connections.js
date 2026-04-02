@@ -2,11 +2,10 @@ document$.subscribe(() => {
   const oldPanel = document.querySelector(".saros-connections-panel");
   if (oldPanel) oldPanel.remove();
 
-  const mainInner = document.querySelector(".md-main__inner");
-  const content = document.querySelector(".md-content");
-  if (!mainInner || !content) return;
+  const contentInner = document.querySelector(".md-content__inner");
+  if (!contentInner) return;
 
-  const links = Array.from(content.querySelectorAll(".md-content__inner a[href]"))
+  const links = Array.from(contentInner.querySelectorAll("a[href]"))
     .map((a) => {
       const href = a.getAttribute("href") || "";
       const text = (a.textContent || "").trim();
@@ -57,5 +56,5 @@ document$.subscribe(() => {
     list.appendChild(item);
   });
 
-  mainInner.appendChild(panel);
+  document.body.appendChild(panel);
 });
