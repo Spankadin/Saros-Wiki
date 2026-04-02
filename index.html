@@ -50,7 +50,6 @@
     display: none !important;
   }
 
-  /* Center top navigation tabs */
   .md-tabs__list {
     justify-content: center !important;
   }
@@ -61,58 +60,66 @@
 
   .saros-hero {
     position: relative;
-    min-height: 70vh;
+    min-height: 72vh;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 5rem 1.5rem 4rem;
     text-align: center;
     background:
-      linear-gradient(rgba(10, 15, 26, 0.72), rgba(10, 15, 26, 0.84)),
+      linear-gradient(rgba(10, 15, 26, 0.74), rgba(10, 15, 26, 0.86)),
       url("https://images.unsplash.com/photo-1511497584788-876760111969?q=80&w=2200&auto=format&fit=crop");
     background-size: cover;
     background-position: center;
   }
 
   .saros-hero__inner {
-    max-width: 900px;
+    max-width: 960px;
   }
 
   .saros-kicker {
     display: inline-block;
     margin-bottom: 1rem;
-    padding: 0.35rem 0.85rem;
+    padding: 0.45rem 1rem;
     border-radius: 999px;
     background: rgba(255,255,255,0.08);
     border: 1px solid rgba(255,255,255,0.14);
-    color: rgba(255,255,255,0.85);
-    font-size: 0.75rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
+    color: rgba(255,255,255,0.92);
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: none;
   }
 
   .saros-title {
     margin: 0 0 1rem;
-    font-size: clamp(2.5rem, 6vw, 4.8rem);
+    font-size: clamp(2.7rem, 6vw, 5rem);
     line-height: 1.05;
     color: #fff;
     font-weight: 800;
   }
 
   .saros-subtitle {
-    max-width: 760px;
-    margin: 0 auto 1.75rem;
-    color: rgba(255,255,255,0.9);
+    max-width: 780px;
+    margin: 0 auto 2rem;
+    color: rgba(255,255,255,0.92);
     font-size: 1.1rem;
     line-height: 1.7;
   }
 
   .saros-actions {
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.9rem;
+    margin-top: 1.5rem;
+  }
+
+  .saros-actions__row {
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 0.9rem;
-    margin-top: 1.5rem;
   }
 
   .saros-btn {
@@ -122,6 +129,8 @@
     text-decoration: none !important;
     font-weight: 700;
     transition: transform 0.18s ease, opacity 0.18s ease, background 0.18s ease;
+    min-width: 180px;
+    text-align: center;
   }
 
   .saros-btn:hover {
@@ -149,18 +158,12 @@
   }
 
   .saros-container {
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 0 auto;
   }
 
-  .saros-story {
-    display: grid;
-    grid-template-columns: 1.25fr 0.75fr;
-    gap: 1.5rem;
-  }
-
   .saros-panel {
-    padding: 1.5rem;
+    padding: 2rem;
     border-radius: 1rem;
     background: rgba(255,255,255,0.04);
     border: 1px solid rgba(255,255,255,0.08);
@@ -169,38 +172,34 @@
 
   .saros-panel h3 {
     margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
   }
 
-  .saros-list {
-    margin: 0;
-    padding-left: 1.1rem;
+  .saros-panel p {
     line-height: 1.8;
+    margin-bottom: 1.1rem;
+    font-size: 1rem;
   }
 
-  .saros-list a {
-    text-decoration: none !important;
+  .saros-panel p:last-child {
+    margin-bottom: 0;
   }
 
-  .saros-server-link {
-    margin-top: 1.25rem;
-  }
-
-  @media screen and (max-width: 960px) {
-    .saros-story {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  @media screen and (max-width: 600px) {
-    .saros-actions {
+  @media screen and (max-width: 700px) {
+    .saros-actions__row {
       flex-direction: column;
       align-items: center;
+      width: 100%;
     }
 
     .saros-btn {
       width: 100%;
       max-width: 320px;
-      text-align: center;
+    }
+
+    .saros-panel {
+      padding: 1.5rem;
     }
   }
 </style>
@@ -2043,48 +2042,50 @@
 <div class="saros-home">
 <section class="saros-hero">
 <div class="saros-hero__inner">
-<div class="saros-kicker">Campaign Setting • Saros Wiki</div>
+<div class="saros-kicker">Saros Wiki</div>
 <h1 class="saros-title">A world of lost delves, old magic, and dangerous frontiers.</h1>
 <p class="saros-subtitle">
         Explore the continent of Saros through its towns, factions, lore, ruins, legends, and the characters shaping its future.
       </p>
 <div class="saros-actions">
+<div class="saros-actions__row">
 <a class="saros-btn saros-btn--primary" href="https://spankadin.github.io/Saros-Wiki/Locations_%26%20NPCs/">Explore the World</a>
 <a class="saros-btn saros-btn--secondary" href="https://spankadin.github.io/Saros-Wiki/History_%26%20Lore/">Read the Lore</a>
 <a class="saros-btn saros-btn--secondary" href="https://spankadin.github.io/Saros-Wiki/Rules_%26%20Tools/R1._House_Rules/">House Rules</a>
 </div>
+<div class="saros-actions__row">
+<a class="saros-btn saros-btn--secondary" href="https://spankadin.github.io/Saros-Wiki/Dataview/">Data View</a>
+<a class="saros-btn saros-btn--primary" href="http://24.178.246.196:30000/game/">Enter the Server</a>
+</div>
+</div>
 </div>
 </section>
 <section class="saros-section saros-section--surface">
-<div class="saros-container saros-story">
+<div class="saros-container">
 <div class="saros-panel">
 <h3>Welcome to Saros</h3>
 <p>
           Near four thousand and two hundred years ago, the wizard Caelum made a desperate wish to save what remained
-          of his people from the consequences of his greatest pupil’s choice.
+          of his people from the consequences of his greatest pupil’s choice. That wish carried them away from Mystara
+          to an uncharted continent — a place of beauty, peril, fey-line power, forgotten delves, and scattered opportunity.
         </p>
 <p>
-          That wish carried them away from Mystara to an uncharted continent — a place of beauty, peril, fey-line
-          power, forgotten delves, and scattered opportunity. Over time, Saros became a land where dwarven ruins,
-          elven magic, frontier towns, and dangerous ambition all meet.
+          Over time, Saros became a land where dwarven ruins, elven magic, dangerous frontiers, and rising settlements
+          all overlap. Ancient delves lie hidden beneath the earth, many of them once shaped by the cooperation of dwarves
+          and elves who learned to harness the magical currents known as fey-lines. Some of those sites are now lost,
+          others are known only in rumor, and a few have grown into the foundations of towns, trade routes, and conflict.
         </p>
 <p>
-          It is a setting built for discovery: old roads, hidden strongholds, rising settlements, faction conflict,
-          strange magic, and stories waiting to be pulled out of the dark.
+          Across the continent, major cities and isolated communities alike are shaped by old legends, faction ambition,
+          merchant interests, political pressure, and the constant pull of the unknown. From ports and frontier towns to
+          mountain strongholds, sacred places, barrows, landmarks, and delves, Saros is a setting built for discovery.
         </p>
-</div>
-<div class="saros-panel">
-<h3>Recommended first stops</h3>
-<ul class="saros-list">
-<li><a href="https://spankadin.github.io/Saros-Wiki/Tags/">Browse tags</a></li>
-<li><a href="https://spankadin.github.io/Saros-Wiki/Dataview/">Open dataview pages</a></li>
-<li><a href="https://spankadin.github.io/Saros-Wiki/Locations_%26%20NPCs/Cities%20%26%20Towns/">Visit major settlements</a></li>
-<li><a href="https://spankadin.github.io/Saros-Wiki/Rules_%26%20Tools/">Review rules and tools</a></li>
-<li><a href="https://spankadin.github.io/Saros-Wiki/blog/">Read campaign updates</a></li>
-</ul>
-<div class="saros-server-link">
-<a class="saros-btn saros-btn--primary" href="http://24.178.246.196:30000/game/">Enter the Server</a>
-</div>
+<p>
+          This wiki is meant to serve as a living record of that world — its history, locations, NPCs, clans, factions,
+          rules, and mysteries. Whether you are looking for a town, a legend, a person of influence, a point of lore, or
+          a path into the campaign itself, Saros is meant to feel like a world with depth beneath every road and story
+          around every fire.
+        </p>
 </div>
 </div>
 </section>
