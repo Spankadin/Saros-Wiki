@@ -1,18 +1,12 @@
 document$.subscribe(() => {
-  const oldPanel = document.querySelector(".saros-connections");
+  const oldPanel = document.querySelector(".saros-connections-panel");
   if (oldPanel) oldPanel.remove();
 
-  const tocSidebar =
-    document.querySelector(".md-sidebar--secondary .md-sidebar__scrollwrap") ||
-    document.querySelector("[data-md-component='toc'] .md-sidebar__scrollwrap") ||
-    document.querySelector(".md-sidebar--secondary");
-
-  if (!tocSidebar) return;
-
+  const mainInner = document.querySelector(".md-main__inner");
   const content = document.querySelector(".md-content");
-  if (!content) return;
+  if (!mainInner || !content) return;
 
-  const links = Array.from(content.querySelectorAll("a[href]"))
+  const links = Array.from(content.querySelectorAll(".md-content__inner a[href]"))
     .map((a) => {
       const href = a.getAttribute("href") || "";
       const text = (a.textContent || "").trim();
@@ -23,7 +17,7 @@ document$.subscribe(() => {
       if (link.href.startsWith("http")) return false;
       if (link.href.startsWith("mailto:")) return false;
       if (link.href.startsWith("#")) return false;
-      if (link.href.includes(".png") || link.href.includes(".jpg") || link.href.includes(".svg")) return false;
+      if (link.href.includes(".png") || link.href.includes(".jpg") || link.href.includes(".jpeg") || link.href.includes(".svg")) return false;
       return true;
     });
 
@@ -39,24 +33,23 @@ document$.subscribe(() => {
 
   if (!unique.length) return;
 
-  const panel = document.createElement("div");
-  panel.className = "saros-connections md-nav md-nav--secondary";
+  const panel = document.createElement("aside");
+  panel.className = "saros-connections-panel";
   panel.innerHTML = `
-    <label class="md-nav__title saros-connections__title">
-      <span class="md-nav__icon md-icon"></span>
-      Connections
-    </label>
-    <ul class="md-nav__list saros-connections__list"></ul>
+    <div class="saros-connections">
+      <div class="saros-connections__title">Connections</div>
+      <ul class="saros-connections__list"></ul>
+    </div>
   `;
 
   const list = panel.querySelector(".saros-connections__list");
 
   unique.slice(0, 12).forEach((link) => {
     const item = document.createElement("li");
-    item.className = "md-nav__item saros-connections__item";
+    item.className = "saros-connections__item";
 
     const anchor = document.createElement("a");
-    anchor.className = "md-nav__link saros-connections__link";
+    anchor.className = "saros-connections__link";
     anchor.href = link.href;
     anchor.textContent = link.text;
 
@@ -64,5 +57,5 @@ document$.subscribe(() => {
     list.appendChild(item);
   });
 
-  tocSidebar.appendChild(panel);
+  mainInner.appendChild(panel);
 });
