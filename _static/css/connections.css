@@ -1,0 +1,49 @@
+.saros-connections-panel {
+  width: 16rem;
+  margin-left: 2rem;
+  flex: 0 0 16rem;
+}
+
+.saros-connections {
+  position: sticky;
+  top: 5rem;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.saros-connections__title {
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.saros-connections__list {
+  margin: 0;
+  padding: 0;
+}
+
+.saros-connections__item {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.saros-connections__link {
+  display: block;
+  padding: 0.35rem 0;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  text-decoration: none;
+  opacity: 0.92;
+}
+
+.saros-connections__link:hover {
+  opacity: 1;
+}
+
+@media screen and (max-width: 1219px) {
+  .saros-connections-panel {
+    display: none;
+  }
+}
