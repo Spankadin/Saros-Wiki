@@ -1,16 +1,17 @@
 .saros-connections-panel {
+  position: fixed;
+  top: 9rem;
+  right: 1.5rem;
   width: 16rem;
-  margin-left: 2rem;
-  flex: 0 0 16rem;
+  z-index: 20;
 }
 
 .saros-connections {
-  position: sticky;
-  top: 5rem;
   padding: 1rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 0.5rem;
-  background: rgba(255, 255, 255, 0.02);
+  background: var(--md-default-bg-color);
+  box-shadow: 0 0.2rem 0.8rem rgba(0, 0, 0, 0.15);
 }
 
 .saros-connections__title {
@@ -42,7 +43,7 @@
   opacity: 1;
 }
 
-@media screen and (max-width: 1219px) {
+@media screen and (max-width: 1400px) {
   .saros-connections-panel {
     display: none;
   }
