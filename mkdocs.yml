@@ -154,6 +154,7 @@ extra_css:
   - https://cdn.jsdelivr.net/gh/Enveloppe/_static@refs/heads/master/dist/styles.css
   - _static/css/custom_images.css
   - assets/stylesheets/custom.css
+  - _static/css/connections.css
 
 extra:
   SEO: '_assets/meta/logo.png'
