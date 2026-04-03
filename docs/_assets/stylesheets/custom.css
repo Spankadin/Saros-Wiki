@@ -1,49 +1,218 @@
-.saros-connections-panel {
-  width: 16rem;
-  margin-left: 2rem;
-  flex: 0 0 16rem;
+/* =========================
+   Saros / Obsidian-inspired theme pass
+   ========================= */
+
+/* Wider layout, but keep reading column comfortable */
+.md-grid {
+  max-width: 1500px;
 }
 
-.saros-connections {
-  position: sticky;
-  top: 5rem;
-  padding: 1rem;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.5rem;
+.md-main__inner {
+  max-width: 1500px;
+}
+
+.md-content__inner {
+  max-width: 980px;
+  margin: 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+/* Header / tabs a little flatter */
+.md-header,
+.md-tabs {
+  box-shadow: none;
+}
+
+/* Page title */
+.md-typeset h1 {
+  font-size: 2.65rem;
+  line-height: 1.08;
+  font-weight: 700;
+  color: #d85a5a;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+/* Section headings */
+.md-typeset h2 {
+  font-size: 1.75rem;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #d85a5a;
+  margin-top: 2.4rem;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 4px solid rgba(104, 132, 194, 0.25);
+}
+
+.md-typeset h3 {
+  font-size: 1.15rem;
+  line-height: 1.25;
+  font-weight: 700;
+  margin-top: 1.4rem;
+  margin-bottom: 0.45rem;
+  color: var(--md-default-fg-color);
+}
+
+/* Body copy */
+.md-typeset p,
+.md-typeset li {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+/* Horizontal rules closer to Obsidian feel */
+.md-typeset hr {
+  margin: 2rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Links */
+.md-typeset a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+/* Tags / chips */
+.md-tag {
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.72rem;
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 2rem;
+  background: rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.md-typeset table:not([class]) th {
+  color: #d85a5a;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: left;
+  padding: 0.72rem 0.85rem;
+  background: rgba(30, 10, 15, 0.45);
+  border-bottom: 2px solid #d85a5a;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.68rem 0.85rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  vertical-align: top;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) td {
   background: rgba(255, 255, 255, 0.02);
 }
 
-.saros-connections__title {
+/* Admonitions / callouts */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.45rem;
+  box-shadow: none;
+  border: 1px solid rgba(0, 187, 255, 0.45);
+  background: rgba(10, 38, 58, 0.35);
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
   font-weight: 700;
-  margin-bottom: 0.75rem;
 }
 
-.saros-connections__list {
-  margin: 0;
-  padding: 0;
+/* Nav styling */
+.md-nav__link {
+  border-radius: 0.3rem;
 }
 
-.saros-connections__item {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.md-nav__link:hover {
+  background: rgba(255, 255, 255, 0.035);
 }
 
-.saros-connections__link {
-  display: block;
-  padding: 0.35rem 0;
-  font-size: 0.75rem;
-  line-height: 1.4;
-  text-decoration: none;
-  opacity: 0.92;
+/* Active nav item a bit more visible */
+.md-nav__link--active,
+.md-nav__item .md-nav__link[href]:focus,
+.md-nav__item .md-nav__link[href]:hover {
+  font-weight: 600;
 }
 
-.saros-connections__link:hover {
-  opacity: 1;
+/* Left sidebar spacing */
+.md-sidebar__scrollwrap {
+  padding-top: 0.5rem;
 }
 
-@media screen and (max-width: 1219px) {
-  .saros-connections-panel {
-    display: none;
+/* TOC styling */
+.md-sidebar--secondary .md-nav__title {
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.md-sidebar--secondary .md-nav__link {
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+/* Make dashboard-style pages feel more centered */
+[data-md-page*="Dataview"] .md-content__inner,
+[data-md-page*="dashboard"] .md-content__inner,
+[data-md-page*="Dashboard"] .md-content__inner {
+  max-width: 1080px;
+}
+
+/* Optional faux properties block */
+.saros-properties {
+  display: grid;
+  gap: 0.45rem;
+  margin: 1rem 0 2rem;
+  padding: 1rem 1.2rem;
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.saros-properties strong {
+  color: #9fb7dd;
+}
+
+/* Images and infoboxes look cleaner */
+.md-typeset img {
+  border-radius: 0.4rem;
+}
+
+.infobox,
+.saros-infobox {
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+/* Homepage hero support, if present */
+.saros-kicker {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.saros-title {
+  letter-spacing: -0.02em;
+}
+
+/* Mobile adjustments */
+@media screen and (max-width: 1000px) {
+  .md-content__inner {
+    max-width: 100%;
+    padding-top: 1.25rem;
+  }
+
+  .md-typeset h1 {
+    font-size: 2.2rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.45rem;
   }
 }
