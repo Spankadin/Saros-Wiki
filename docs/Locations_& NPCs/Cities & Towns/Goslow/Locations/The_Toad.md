@@ -3,6 +3,7 @@ aliases: Toad, The Toad
 tags:
   - Building
   - Tavern
+  - Published
 Location: "[[../Goslow|Goslow]]"
 share: "true"
 ---
