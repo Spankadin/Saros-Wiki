@@ -3,6 +3,7 @@ Race: Sphinx
 tags:
   - NPC
   - Legend
+  - Published
 Location: Unknown
 share: "true"
 ---
