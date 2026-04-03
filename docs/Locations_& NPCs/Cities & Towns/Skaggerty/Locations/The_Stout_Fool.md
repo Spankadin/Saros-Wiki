@@ -3,6 +3,7 @@ aliases: The Stout Fool
 tags:
   - Building
   - Tavern
+  - Published
 Location:
   - - Skaggerty
 share: "true"
