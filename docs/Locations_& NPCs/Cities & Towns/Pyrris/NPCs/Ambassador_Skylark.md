@@ -2,6 +2,7 @@
 Race: Elf
 tags:
   - NPC
+  - Published
 Role: Envoy of Public Relations (Queen's Hand)
 Faction: "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]]"
 Location: "[[Pyrris]]"
