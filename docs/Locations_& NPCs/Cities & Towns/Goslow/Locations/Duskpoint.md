@@ -2,6 +2,7 @@
 tags:
   - Building
   - Garrison
+  - Published
 Location: "[[Goslow]]"
 share: "true"
 ---
