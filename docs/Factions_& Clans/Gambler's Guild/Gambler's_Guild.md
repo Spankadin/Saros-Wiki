@@ -3,6 +3,7 @@ title: Gambler's Guild
 aliases: The Nine-Fingers, The Nine, The Fingers, Gambler's Den, Den, Casino
 tags:
   - Faction
+  - Published
 share: "true"
 dataview: true
 links:

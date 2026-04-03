@@ -3,6 +3,7 @@ title: Karastos
 tags:
   - Town
   - Port
+  - Published
 Population: Unknown
 share: "true"
 dataview: true

@@ -3,6 +3,7 @@ Race: Snake-Man
 tags:
   - NPC
   - Legend
+  - Published
 Location: "[[../../Locations_& NPCs/Dungeons/Tomb_of_The_Serpent_King|Tomb of The Serpent King]]"
 share: "true"
 ---

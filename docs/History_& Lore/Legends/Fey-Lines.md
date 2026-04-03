@@ -2,6 +2,7 @@
 aliases: Feyline, Fey-Line
 tags:
   - Legend
+  - Published
 share: "true"
 ---
 

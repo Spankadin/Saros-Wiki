@@ -4,6 +4,7 @@ Faction:
   - "[[Merchant's Guild|Merchant's Guild]]"
 tags:
   - NPC
+  - Published
 Location: "[[../Skaggerty|Skaggerty]]"
 Building: "[[../Locations/The_Stout_Fool|The Stout Fool]]"
 share: "true"

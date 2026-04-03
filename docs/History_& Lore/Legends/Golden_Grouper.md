@@ -1,6 +1,7 @@
 ---
 tags:
   - Legend
+  - Published
 Location: Unknown
 share: "true"
 ---

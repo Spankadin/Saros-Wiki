@@ -2,6 +2,7 @@
 aliases: Masys, Masys Mountain, Masys Mountains
 tags:
   - mountain
-elevation: 
+  - Published
+elevation:
 share: "true"
 ---

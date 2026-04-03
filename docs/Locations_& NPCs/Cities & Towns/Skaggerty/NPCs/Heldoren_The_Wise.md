@@ -3,6 +3,7 @@ Race: Human
 tags:
   - NPC
   - Sage
+  - Published
 Location: "[[../Skaggerty|Skaggerty]]"
 Building: "[[../Locations/Temple_of_Austerus|Temple of Austerus]]"
 share: "true"

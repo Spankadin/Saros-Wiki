@@ -3,6 +3,7 @@ tags:
   - Bank
   - Building
   - Gambler's Den
+  - Published
 Location: "[[../Goslow|Goslow]]"
 share: "true"
 ---

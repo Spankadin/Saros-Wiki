@@ -2,6 +2,7 @@
 tags:
   - Building
   - Temple
+  - Published
 Location: "[[Goslow]]"
 share: "true"
 ---

@@ -2,6 +2,7 @@
 Race: Elf
 tags:
   - NPC
+  - Published
 Role: Minister of Arcane Affairs
 Faction: "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]]"
 Location: "[[Pyrris]]"

@@ -2,6 +2,7 @@
 aliases: Vytung, The Tungs, The Tounges
 tags:
   - mountain
-elevation: 
+  - Published
+elevation:
 share: "true"
 ---

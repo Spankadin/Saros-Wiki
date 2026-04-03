@@ -2,6 +2,7 @@
 title: The Prism
 tags:
   - Faction
+  - Published
 share: "true"
 dataview: true
 links:

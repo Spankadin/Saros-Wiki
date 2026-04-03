@@ -3,6 +3,7 @@ Race: Human
 aliases: Vostin
 tags:
   - NPC
+  - Published
 Faction: "[[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|The Aegis Legion]]"
 Location: "[[../Goslow|Goslow]]"
 Building: "[[../Locations/Duskpoint|Duskpoint]]"

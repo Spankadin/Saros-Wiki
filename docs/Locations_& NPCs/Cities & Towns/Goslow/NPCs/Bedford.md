@@ -3,6 +3,7 @@ Race: Human
 aliases: Bedford's
 tags:
   - NPC
+  - Published
 Faction:
   - "[[Merchant's Guild|Merchant's Guild]]"
 Location: "[[Goslow]]"

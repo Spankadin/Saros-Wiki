@@ -4,6 +4,7 @@ Faction:
   - "[[Merchant's Guild|Merchant's Guild]]"
 tags:
   - NPC
+  - Published
 Location: "[[../Port_Quartz|Port Quartz]]"
 Building: "[[../Locations/The_Fourty_Knights|The Fourty Knights]]"
 share: "true"

@@ -2,6 +2,7 @@
 share: true
 tags:
   - Delve
+  - Published
 location: "[[../Cities & Towns/Port Quartz/Port_Quartz|Port Quartz]]"
 ---
 

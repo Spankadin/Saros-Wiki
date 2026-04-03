@@ -2,6 +2,7 @@
 title: Skaggerty
 tags:
   - Town
+  - Published
 Population: 280
 share: "true"
 dataview: true

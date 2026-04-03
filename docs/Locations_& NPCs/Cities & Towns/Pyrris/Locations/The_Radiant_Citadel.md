@@ -2,6 +2,7 @@
 aliases: Radiant Citadel, Citadel, The Citadel, The White Citadel, The Radiant White Citadel, The White Tower
 tags:
   - Building
+  - Published
 Location: "[[../Pyrris|Pyrris]]"
 share: "true"
 ---

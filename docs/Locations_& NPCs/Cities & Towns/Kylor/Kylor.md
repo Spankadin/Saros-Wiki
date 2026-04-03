@@ -3,6 +3,7 @@ title: Kylor
 tags:
   - Town
   - Port
+  - Published
 Population: 450
 share: "true"
 dataview: true

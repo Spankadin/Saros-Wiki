@@ -3,6 +3,7 @@ title: Goslow
 tags:
   - Town
   - Port
+  - Published
 Population: 1500
 share: "true"
 dataview: true

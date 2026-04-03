@@ -2,6 +2,7 @@
 Race: Human
 tags:
   - NPC
+  - Published
 Faction: "[[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|The Aegis Legion]]"
 Location: "[[../Grymswatch|Grymswatch]]"
 Building: "[[Mira's Wall]]"

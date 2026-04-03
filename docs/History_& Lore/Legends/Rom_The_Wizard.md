@@ -4,6 +4,7 @@ aliases: Rom, Old Rom
 tags:
   - NPC
   - Legend
+  - Published
 Location: Unknown
 share: "true"
 ---

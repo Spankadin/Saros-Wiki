@@ -3,6 +3,7 @@ title: Bloodmarked
 aliases: The Bloodmarked, Bloody Boys
 tags:
   - Faction
+  - Published
 share: "true"
 dataview: true
 links:

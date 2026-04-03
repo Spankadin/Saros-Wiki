@@ -2,6 +2,7 @@
 tags:
   - Building
   - Garrison
+  - Published
 Location:
   - - Pyrris
 share: "true"

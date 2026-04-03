@@ -3,6 +3,7 @@ aliases: Austerus
 tags:
   - Building
   - Temple
+  - Published
 Location:
   - - Skaggerty
 share: "true"

@@ -3,6 +3,7 @@ title: Port Quartz
 tags:
   - Town
   - Port
+  - Published
 Population: 750
 share: "true"
 dataview: true

@@ -3,6 +3,7 @@ Race: Penguin
 aliases: Chibby, Chib-Chib, Chib-Chibs
 tags:
   - NPC
+  - Published
 Location: "[[Goslow]]"
 Building: "[[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]]"
 share: "true"

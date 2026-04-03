@@ -7,6 +7,7 @@ aliases:
   - Aegis Legion
 tags:
   - Faction
+  - Published
 share: "true"
 dataview: true
 links:

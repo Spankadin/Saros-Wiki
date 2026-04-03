@@ -4,6 +4,7 @@ Faction:
   - "[[Merchant's Guild|Merchant's Guild]]"
 tags:
   - NPC
+  - Published
 Location: "[[Goslow]]"
 Building: "[[../Locations/The_Toad|The Toad]]"
 share: "true"

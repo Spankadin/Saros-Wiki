@@ -2,6 +2,7 @@
 tags:
   - Building
   - Blacksmith
+  - Published
 Location: "[[../Goslow|Goslow]]"
 share: "true"
 ---

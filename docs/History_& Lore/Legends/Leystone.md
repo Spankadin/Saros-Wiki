@@ -1,6 +1,7 @@
 ---
 tags:
   - Item
+  - Published
 share: "true"
 ---
 
