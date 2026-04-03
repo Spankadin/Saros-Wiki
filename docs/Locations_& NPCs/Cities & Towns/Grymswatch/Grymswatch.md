@@ -2,6 +2,7 @@
 title: Grymswatch
 tags:
   - Town
+  - Published
 Population: 1000
 share: "true"
 dataview: true
