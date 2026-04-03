@@ -2,6 +2,7 @@
 tags:
   - Building
   - Apothecary
+  - Published
 Location: "[[../Goslow|Goslow]]"
 share: "true"
 ---
