@@ -2,6 +2,7 @@
 aliases: Silvervein, The Summits
 tags:
   - mountain
-elevation: 
+  - Published
+elevation:
 share: "true"
 ---
