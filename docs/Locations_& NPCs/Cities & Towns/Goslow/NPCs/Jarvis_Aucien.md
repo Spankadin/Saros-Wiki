@@ -3,6 +3,7 @@ Race: Half-Elf
 aliases: Jarvis, Mr. Aucien, Jarv
 tags:
   - NPC
+  - Published
 Location: "[[../Goslow|Goslow]]"
 Building: "[[../Locations/The_Bulkhead|The Bulkhead]]"
 share: "true"
