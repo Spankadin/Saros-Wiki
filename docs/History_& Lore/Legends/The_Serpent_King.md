@@ -4,6 +4,7 @@ aliases: Serpent King
 tags:
   - NPC
   - Legend
+  - Published
 Location: Deceased
 share: "true"
 ---
