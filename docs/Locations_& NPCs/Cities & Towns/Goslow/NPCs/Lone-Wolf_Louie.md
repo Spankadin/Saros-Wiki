@@ -2,6 +2,7 @@
 Race: Human
 tags:
   - NPC
+  - Published
 Faction: "[[../../../../Factions_& Clans/Gambler's Guild/Gambler's_Guild|Gambler's Guild]]"
 Location: "[[Goslow]]"
 Building: "[[../Locations/The_Silver_Drake|The Silver Drake]]"
