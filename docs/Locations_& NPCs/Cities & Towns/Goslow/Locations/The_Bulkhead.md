@@ -3,6 +3,7 @@ aliases: Bulkhead
 tags:
   - Building
   - Shipwright
+  - Published
 Location: "[[Goslow]]"
 share: "true"
 ---
