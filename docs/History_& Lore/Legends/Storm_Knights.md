@@ -3,6 +3,7 @@ aliases: Storm Knight
 tags:
   - Legend
   - Faction
+  - Published
 share: "true"
 ---
 
