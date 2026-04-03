@@ -57,19 +57,23 @@ links:
 
 ## Recent File Updates
 
-- [The Spring Harvest Festival](../History_&%20Lore/Events/The_Spring_Harvest_Festival.md)
-- [Gormley](../Locations_&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Gormley.md)
-- [Saros Dashboard](Saros_Dashboard.md)
-- [Locations & NPCs](../Locations_&%20NPCs/Locations_&_NPCs.md)
-- [The Aegis Legion](../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md)
-- [The Radiant Citadel](../Locations_&%20NPCs/Cities%20&%20Towns/Pyrris/Locations/The_Radiant_Citadel.md)
-- [Major Cities, Towns, and Ports](../../Major%20Cities,%20Towns,%20and%20Ports.md)
-- [Dwarven Clans](../Factions_&%20Clans/Dwarven%20Clans/Dwarven_Clans.md)
+- [R2. Table Etiquette](../Rules_&%20Tools/R2._Table_Etiquette.md)
+- [R1. House Rules](../Rules_&%20Tools/R1._House_Rules.md)
+- [The Sparkling Sea](../Locations_&%20NPCs/Landmarks/Waters/The_Sparkling_Sea.md)
+- [The Sea of Myth](../Locations_&%20NPCs/Landmarks/Waters/The_Sea_of_Myth.md)
+- [Lake Runa](../Locations_&%20NPCs/Landmarks/Waters/Lake_Runa.md)
+- [Lake of Lament](../Locations_&%20NPCs/Landmarks/Waters/Lake_of_Lament.md)
+- [Bishop's Bay](../Locations_&%20NPCs/Landmarks/Waters/Bishop's_Bay.md)
+- [The High Road](../Locations_&%20NPCs/Landmarks/Roads/The_High_Road.md)
 
 
 ## Saros at a Glance
 
 <div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">3</span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td>144</td></tr><tr><td><span></span></td><td>35</td></tr><tr><td><span></span></td><td>7</td></tr></tbody></table></div>
+
+
+
+
 
 ## Featured Peoples of Saros
 
@@ -85,3 +89,9 @@ links:
 - [Merchant's Guild](../Factions_&%20Clans/Merchant's%20Guild/Merchant's_Guild.md)
 - [Fey-Lines](../History_&%20Lore/Legends/Fey-Lines.md)
 - [Lost Delves](../Locations_&%20NPCs/Delves/Delves.md)
+
+  
+```markdown id="4jloht"  
+## Saros at a Glance  
+  
+{{ SAROS_AT_A_GLANCE }}
