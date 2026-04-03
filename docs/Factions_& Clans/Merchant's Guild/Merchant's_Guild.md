@@ -2,6 +2,7 @@
 title: Merchant's Guild
 tags:
   - Faction
+  - Published
 share: "true"
 dataview: true
 links:
