@@ -2,6 +2,7 @@
 Race: Half-elf
 tags:
   - NPC
+  - Published
 Faction: "[[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|The Aegis Legion]]"
 Location: "[[Grymswatch]]"
 Building: "[[Mira's Wall]]"
