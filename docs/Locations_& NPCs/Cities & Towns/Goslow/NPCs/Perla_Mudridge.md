@@ -3,6 +3,7 @@ Race: Halfling
 aliases: Mudridge, Perla
 tags:
   - NPC
+  - Published
 Location: "[[Goslow]]"
 Building: "[[../Locations/The_Toad|The Toad]]"
 share: "true"
