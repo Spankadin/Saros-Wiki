@@ -2,6 +2,7 @@
 Race: Human
 tags:
   - NPC
+  - Published
 Location: "[[../Goslow|Goslow]]"
 Building: "[[../Locations/Temple_of_Torm|Temple of Torm]]"
 share: "true"
