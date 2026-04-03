@@ -3,6 +3,7 @@ aliases: Gormley The Bard
 Race: Halfling
 tags:
   - NPC
+  - Published
 Faction:
 Location: "[[Pyrris]]"
 Building: "[[../Locations/The_Radiant_Citadel|The Radiant Citadel]]"
