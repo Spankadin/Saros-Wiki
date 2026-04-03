@@ -2,6 +2,7 @@
 Race: Human
 tags:
   - NPC
+  - Published
 Role: Supreme Commander of the Military
 Faction:
   - "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]]"
