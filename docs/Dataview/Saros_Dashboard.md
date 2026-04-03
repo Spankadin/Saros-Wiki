@@ -57,14 +57,14 @@ links:
 
 ## Recent File Updates
 
-- [Saros Dashboard](Saros_Dashboard.md)
-- [The Aegis Legion](../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md)
+- [The Spring Harvest Festival](../History_&%20Lore/Events/The_Spring_Harvest_Festival.md)
 - [Gormley](../Locations_&%20NPCs/Cities%20&%20Towns/Pyrris/NPCs/Gormley.md)
+- [Saros Dashboard](Saros_Dashboard.md)
+- [Locations & NPCs](../Locations_&%20NPCs/Locations_&_NPCs.md)
+- [The Aegis Legion](../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md)
 - [The Radiant Citadel](../Locations_&%20NPCs/Cities%20&%20Towns/Pyrris/Locations/The_Radiant_Citadel.md)
 - [Major Cities, Towns, and Ports](../../Major%20Cities,%20Towns,%20and%20Ports.md)
 - [Dwarven Clans](../Factions_&%20Clans/Dwarven%20Clans/Dwarven_Clans.md)
-- [Ages of Saros](../History_&%20Lore/Ages_of_Saros.md)
-- [Marial](../../Marial.md)
 
 
 ## Saros at a Glance
