@@ -3,6 +3,7 @@ aliases: The Knight's, The Knight, The Fourty Knights
 tags:
   - Building
   - Tavern
+  - Published
 Location: "[[../Port_Quartz|Port Quartz]]"
 share: "true"
 ---
