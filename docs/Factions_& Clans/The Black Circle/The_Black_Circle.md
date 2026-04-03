@@ -5,6 +5,7 @@ aliases:
   - The Circle
 tags:
   - Faction
+  - Published
 share: "true"
 dataview: true
 links:
