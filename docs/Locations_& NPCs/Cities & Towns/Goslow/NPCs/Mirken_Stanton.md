@@ -3,6 +3,7 @@ Race: Human
 aliases: Mirken, Stanton
 tags:
   - NPC
+  - Published
 Location: "[[Goslow]]"
 share: "true"
 ---
