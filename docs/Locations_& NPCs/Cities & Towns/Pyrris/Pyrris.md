@@ -2,6 +2,7 @@
 Title: Pyrris
 tags:
   - Town
+  - Published
 Population: 500
 share: true
 dataview: true
@@ -15,10 +16,11 @@ The majestic capital of [Saros](../../../History_&%20Lore/A_Brief_Saros_History.
 Population - 500
 
 #### NPCs Found Here
-| NPC                                                                                             | Race  | Building                                                                                         | Factions                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ambassador Skylark](./NPCs/Ambassador_Skylark.md)       | Elf   | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
-| [Archmage Starweaver](./NPCs/Archmage_Starweaver.md)     | Elf   | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
-| [General Ironclad](./NPCs/General_Ironclad.md)           | Human | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md), [The Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md) |
-| [Lord Goldhaven](./NPCs/Lord_Goldhaven.md)               | Human | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
-| [Spymaster Shadowcloak](./NPCs/Spymaster_Shadowcloak.md) | Drow  | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
+| NPC                                                                                             | Race     | Building                                                                                         | Factions                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ambassador Skylark](./NPCs/Ambassador_Skylark.md)       | Elf      | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
+| [Archmage Starweaver](./NPCs/Archmage_Starweaver.md)     | Elf      | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
+| [General Ironclad](./NPCs/General_Ironclad.md)           | Human    | [Stonepeak](./Locations/Stonepeak.md)                     | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md), [The Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md) |
+| [Gormley](./NPCs/Gormley.md)                             | Halfling | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | \-                                                                                                                                                                |
+| [Lord Goldhaven](./NPCs/Lord_Goldhaven.md)               | Human    | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
+| [Spymaster Shadowcloak](./NPCs/Spymaster_Shadowcloak.md) | Drow     | [The Radiant Citadel](./Locations/The_Radiant_Citadel.md) | [The Queen's Council](../../../Factions_&%20Clans/The%20Queen's%20Council/The_Queen's_Council.md)                                                                              |
