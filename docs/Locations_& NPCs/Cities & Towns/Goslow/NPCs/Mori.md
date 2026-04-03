@@ -3,6 +3,7 @@ Race: Half-Elf
 aliases: Mori,
 tags:
   - NPC
+  - Published
 Location: "[[Goslow]]"
 Building: "[[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]]"
 share: "true"
