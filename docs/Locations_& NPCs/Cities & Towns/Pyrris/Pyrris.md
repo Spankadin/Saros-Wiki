@@ -3,7 +3,7 @@ Title: Pyrris
 tags:
   - Town
   - Published
-Population: 500
+Population: 425
 share: true
 dataview: true
 links:
