@@ -4,7 +4,7 @@ tags:
   - Town
   - Port
   - Published
-Population: 450
+Population: 650
 share: "true"
 dataview: true
 links:
