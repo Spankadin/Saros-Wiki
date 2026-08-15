@@ -1,12 +1,42 @@
 ---
+title: Festin Dontel
+ccType: npc
+ccId: npc-festin-dontel
 Race: Human
+aliases: []
 tags:
   - NPC
   - Published
-Faction: "[[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|The Aegis Legion]]"
 Location: "[[../Grymswatch|Grymswatch]]"
-Building: "[[Mira's Wall]]"
-share: "true"
+Building: "[[../Locations/Mira's_Wall|Mira's Wall]]"
+Faction:
+  - "[[The Aegis Legion]]"
+Role: Lieutenant to Admiral Thainan
+ccTags:
+  - Lieutenant to Admiral Thainan
+ccAssociates: []
+share: true
 ---
 
-Sworn sword of [[./Admiral_Thainan|Admiral Thainan]], guard and Lieutenant of [[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|The Aegis Legion]], and Second in Command at [[../Grymswatch|Grymswatch]]. Festin is not nearly as mean spirited as his counterpart. Many wish he was in command, as he garners more respect and camaraderie from his troops than Thainan ever could.
+[[Festin_Dontel|Festin Dontel]] is the principal lieutenant of [[./Admiral_Thainan|Admiral Thainan]] at [[../Locations/Mira's_Wall|Mira's Wall]] in [[../Grymswatch|Grymswatch]].
+
+Festin handles much of the administrative and operational work that allows Thainan's naval command to function.
+
+## Duties
+
+He coordinates:
+
+- Crew assignments
+- Patrol schedules
+- Supply requests
+- Ship readiness
+- Officer briefings
+- Orders moving between shore and fleet
+
+## Personality
+
+Festin is organized, loyal, and much less theatrical than the Admiral he serves.
+
+He has learned to translate Thainan's broad decisions into detailed orders that captains can actually follow.
+
+People seeking access to the Admiral often discover that convincing Festin is the real first step.

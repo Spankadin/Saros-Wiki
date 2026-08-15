@@ -1,23 +1,65 @@
 ---
-aliases: Delve, delve, Delving
-dataview: true
-links:
-  mdlinks: true
-  convert: true
+title: Delves
+ccType: entry
+ccId: entry-delve-index
+aliases:
+  - Delve
+  - Delving
+tags:
+  - Lore
+  - Index
+  - Published
+ccTags:
+  - Delves
 share: true
+dataview: true
 ---
 
-Long ago in the 2nd [Age](../../History_&%20Lore/Ages_of_Saros.md) when magical knowledge was crude at best, the [Dwarves](../../Factions_&%20Clans/Dwarven%20Clans/Dwarven_Clans.md) and Elves worked together to harness the powers emanating from the earth at specific points known as [Fey-Lines](../../History_&%20Lore/Legends/Fey-Lines.md). These fey-lines were loosely connected magical streams that seemed to flow between one another and converge at specific points all across [Saros](../../History_&%20Lore/A_Brief_Saros_History.md). Where any lines met there would form great places of magical energy.
+During the [[../../History_& Lore/Ages_of_Saros|Second Age]], dwarven and elven understanding of the [[../../History_& Lore/Legends/Fey-Lines|Fey-Lines]] changed how both peoples interacted with the land.
 
-The elves used this magical power to spread life and abundance upon the lands, to keep their realms hidden from unknown dangers and eventually other races as their distrust grew. The dwarves used their great knowledge of architecture and geometry to set up massive "[Delves](Delves.md)" to both mine the Sarosian soil for the wonderous gems and "[Fey-stone](../../History_&%20Lore/Legends/Fey-stone.md)", and to set up remote bases of operations for each mountain-home's ruling clan.
+Elven traditions used concentrations of fey-line power to cultivate life, conceal domains, and protect forests.
 
-Many of these "delves" are now lost to time and ruin, likely occupied by denizens of the deeps that the dwarves unleased by digging too greedily. Once a delve inevitably goes too deep it is sealed, yet there is rumor of great untold treasure and magic to be uncovered by any who happen to discover these once majestic dwarven structures hidden underground, should they make it back to see the suns again.
+The [[../../Factions_& Clans/Dwarven Clans/Dwarven_Clans|Dwarven Clans]] built vast underground complexes at or near powerful convergences. Modern Sarosians call these structures **Delves**.
 
-There are a few delves in Saros whose locations are known, and even one delve that has caused an entire town to spring up around it. Once a delve has been re-found, it isn't long before adventurers of all types come seeking gold and glory, which usually sees traders and merchant-types follow along to pick up the scraps.
+## Purpose
 
-| Known Delve                                                                           | True Name | Location                                                                    | Ruling Faction |
-| ------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------- | -------------- |
-| [07 The Silvervein Secret](../../../The%20Silvervein%20Secret.md) | \-        | \-                                                                          | \-             |
-| [Goslow Delve](./Goslow_Delve.md)                             | \-        | [Goslow](../Cities%20&%20Towns/Goslow/Goslow.md)                | \-             |
-| [Port Quartz Delve](./Port_Quartz_Delve.md)                   | \-        | [Port Quartz](../Cities%20&%20Towns/Port%20Quartz/Port_Quartz.md) | \-             |
+A Delve could combine:
+
+- Mine
+- Fortress
+- Clan settlement
+- Workshop
+- Storehouse
+- Fey-line installation
+- Access to deeper underworld passages
+
+The dwarves sought valuable stone, metal, and [[../../History_& Lore/Legends/Fey-stone|Fey-stone]] while also establishing defensible underground centers.
+
+## The Danger of Depth
+
+Many delves were eventually sealed.
+
+Dwarven stories repeatedly warn that a delve can go **too deep**, reaching places or creatures that should not be disturbed.
+
+A large number of known delves are now abandoned, ruined, occupied, or lost entirely.
+
+## Light and Abandonment
+
+Working delves once used lamps, forge light, reflected shafts, luminous materials, or magic suited to their inhabitants. When those systems fail, the deeper works become truly lightless.
+
+Explorers should not expect a centuries-sealed gallery to reveal more than their torch, spell, shard, or ritual light can reach. Beyond that small island of illumination, architecture and danger may remain completely unseen.
+
+## Modern Delving
+
+When a delve is rediscovered, adventurers arrive quickly.
+
+Merchants, guards, laborers, scholars, and opportunists usually follow.
+
+Some towns have grown around profitable old workings.
+
+| Known Delve                                                         | True Name | Region                                                                                     | Ruling Faction |
+| ------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------ | -------------- |
+| [[./Goslow_Delve\|Goslow Delve]]           | \-        | \-                                                                                         | \-             |
+| [[./Port_Quartz_Delve\|Port Quartz Delve]] | \-        | [[../Cities & Towns/Port Quartz/Port_Quartz\|Port Quartz]]                | \-             |
+| [[../../../Silvervein Delve\|Silvervein Delve]]   | \-        | [[../Landmarks/Mountains/The_Silvervein_Summits\|The Silvervein Summits]] | \-             |
 

@@ -1,65 +1,62 @@
 ---
 title: Hesta Vane
-Race: Human
 ccType: npc
-ccId: saros-hesta-vane
-Faction:
-  - "[[../Port_Quartz|Mooring Council]]"
+ccId: npc-hesta-vane
+Race: Human
+aliases: []
 tags:
   - NPC
   - Published
 Location: "[[../Port_Quartz|Port Quartz]]"
-Building: "[[../Locations/Hall of Moorings|Hall of Moorings]]"
+Building: "[[Hall of Moorings]]"
+Faction:
+  - "[[../../../../Factions_& Clans/Mooring_Council|Mooring Council]]"
 Role: First Mooring
-share: "true"
-foundry: true
+ccTags:
+  - Civic Leader
+  - Riverfolk
+  - First Mooring
+ccAssociates: []
+share: true
 ---
 
-# Hesta Vane
+[[Hesta_Vane|Hesta Vane]] is the **First Mooring** of [[../Port_Quartz|Port Quartz]] and the presiding official of the [[../../../../Factions_& Clans/Mooring_Council|Mooring Council]].
 
-Hesta Vane is the First Mooring of [[../Port_Quartz|Port Quartz]] and the most powerful civic official in town.
+A former ferry captain in her late fifties, Hesta is broad-shouldered, weathered, and missing two fingers from an old chain accident. She dresses plainly for ordinary work.
 
-A former ferry captain in her late fifties, Hesta is broad-shouldered, weathered, and missing two fingers from a chain accident. She dresses plainly and wears the ceremonial white cloak of office only when law or tradition demands it.
-
-She is a direct descendant of [[../../../../History_& Lore/People/Edric_Vane|Edric Vane]], who led the famous expedition toward Masys centuries ago.
+When ceremony demands formal office dress, she wears the **purple cloak of office** traditionally associated with Crown-recognized civic authority in Saros.
 
 ## Personality
 
-Hesta is practical rather than warm. She believes nearly every political dispute eventually becomes a problem of food, transport, labor, or access.
+Hesta is practical rather than charming. She has spent too many years around river accidents, cargo disputes, bad weather, and ambitious merchants to be impressed by titles alone.
 
-She dislikes the heroic mythology surrounding Edric because she knows the cost of his expedition.
+She tends to reduce political arguments to material questions: who is being fed, who is doing the work, what is moving, what is blocked, and who will pay when something fails.
+
+## Edric Vane
+
+Hesta is a direct descendant of [[../../../../History_& Lore/People/Edric_Vane|Edric Vane]], whose expedition toward [[../../../Landmarks/Mountains/The_Masys_Mountains|The Masys Mountains]] became one of Port Quartz's great frontier stories.
+
+She dislikes romantic retellings that erase the expedition's cost.
 
 > “Edric Vane went west with sixty people. Seven returned. The statues always leave that part off.”
 
+The Vane family helped preserve the material that eventually became the [[../Locations/Vane_Archive|Vane Archive]].
+
 ## Authority
 
-Hesta:
-- Presides over the Mooring Council
-- Confirms major ferry and salvage decisions
-- Commands the Chain Watch through civic officers
-- Controls access to protected expedition records
-- Defends the town’s charter against Legion overreach
+As First Mooring, Hesta presides over matters involving:
 
-She is not anti-Crown, but her loyalty is to Port Quartz before the Council, guilds, or Legion.
+- Ferry and quay regulation
+- Salvage and [[../../../../History_& Lore/Trade & Economy/Fall_Casks|fall-cask claims]]
+- Customs disputes
+- Emergency stores
+- Civic hearings
+- Town-charter conflicts with outside authorities
 
-## Current conflict
+She recognizes the Crown but is fiercely protective of the legal rights granted to Port Quartz.
 
-Since Queen Amara’s disappearance, Captain Serin Holt has received orders encouraging broader emergency powers.
+## Relationships
 
-Hesta refuses to let the garrison:
-- Seize private boats without due process
-- Read the full expedition registry
-- Arrest residents solely for anti-Crown speech
-- Confiscate salvage without a hearing
-- Replace civic law with military convenience
+[[./Captain_Serin_Holt|Captain Serin Holt]] commands the local Legion garrison. The two cooperate when necessary and argue whenever military convenience threatens to become civic law.
 
-## Adventure use
-
-Hesta can provide:
-- Edric’s journal passage
-- A letter to Oren Bale
-- A Port Quartz writ
-- Access to private cargo records
-- Political protection from Captain Holt
-
-She responds to competence, evidence, and honesty rather than claims of urgency.
+[[./Nelra_Vossin|Nelra Vossin]] manages the Vane Archive, while [[./Oren_Bale|Oren Bale]] is one of the ferrymasters Hesta trusts most.

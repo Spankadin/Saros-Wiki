@@ -1,46 +1,53 @@
 ---
 title: Nelra Vossin
-Race: Human
 ccType: npc
-ccId: saros-nelra-vossin
-Faction:
-  - "[[../Port Quartz|Mooring Council]]"
+ccId: npc-nelra-vossin
+Race: Human
+aliases: []
 tags:
   - NPC
   - Published
-Location: "[[../Port Quartz|Port Quartz]]"
+Location: "[[../Port_Quartz|Port Quartz]]"
 Building: "[[../Locations/Vane_Archive|Vane Archive]]"
+Faction:
+  - "[[Mooring Council]]"
 Role: Archivist
-share: "true"
-foundry: true
+ccTags:
+  - Archivist
+  - Scholar
+ccAssociates: []
+share: true
 ---
 
-# Nelra Vossin
+[[Nelra_Vossin|Nelra Vossin]] is the keeper of the [[../Locations/Vane_Archive|Vane Archive]] in [[../Port_Quartz|Port Quartz]].
 
-Nelra Vossin keeps the [[../Locations/Vane_Archive|Vane Archive]].
-
-She is meticulous, soft-spoken, and much more interested in whether a story is independent than whether it is dramatic.
+She is soft-spoken, exacting, and far more interested in whether a story can be independently supported than whether it is exciting.
 
 ## Work
 
 Nelra compares:
+
 - Expedition journals
 - Ferry declarations
-- Missing-person notices
+- Missing-person records
+- Cargo logs
 - Old maps
 - Merchant ledgers
-- Tavern accounts recorded by clerks
-- Repeated legends under different names
+- Travelers' accounts
+- Copies of documents whose originals have vanished
 
-She believes the scattered stories of Rom refer to one real individual who appeared in the Masys records only within the last eighty years.
+Her work makes the archive useful to explorers, merchants, historians, and officials who need to know whether a route or story has appeared before.
 
-## What she knows
+## Rom and the Moving Hill
 
-- Edric Vane’s records are incomplete.
-- Several missing pages were copied before disappearing.
-- Accounts from the last eight decades describe a moving habitation near Hex 75.86.
-- Recent magical failures can be traced through expedition reports from the last few years.
-- Recent northwest accounts describe healthy clearings inside corrupted land.
-- Different witnesses from the last eighty years use several names for the same strange wizard.
+Nelra is careful about chronology.
 
-Nelra can turn recent rumors into a usable route clue and expose false merchant paperwork. Edric Vane’s much older journals are useful for geography and crossings only; she explicitly rejects attempts to attribute old “moving hill” legends to Rom or Mossback.
+[[../../../../History_& Lore/People/Edric_Vane|Edric Vane]] lived centuries before stories of [[../../../../History_& Lore/People/Rom_The_Wizard|Rom]] appeared in the Masys region, and his surviving records contain nothing about wandering homes or moving hills.
+
+Accounts resembling the modern Rom legend appear only within roughly the last eighty years.
+
+That distinction is important to Nelra because it separates old geography from newer folklore.
+
+## Personality
+
+She is patient with ignorance and impatient with carelessness. Wet fingers on an old page will offend her more reliably than an insult.

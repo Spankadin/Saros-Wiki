@@ -1,12 +1,18 @@
 ---
+title: Bedford's Forge
+ccType: entry
+ccId: entry-bedford-s-forge
+aliases: []
 tags:
   - Building
   - Blacksmith
   - Published
-Location: "[[../Goslow|Goslow]]"
-share: "true"
+Region: "[[../Goslow|Goslow]]"
+ccTags:
+  - Building
+  - Blacksmith
+share: true
 ---
-
 
 Known for the finest craftsmanship this side of [[../../../Landmarks/Mountains/Vy'Tungavor|Vy'Tungavor]], Bedford's Forge is the local [[../Goslow|Goslow]] smithy where you can get anything you desire made if you are willing to both pay the high price, and wait patiently on the list behind high-priority clientele. Heat bellows out of the doorway and permeates the entire colossal structure of The Forge. Many humans tend to the forges that fill the interior, and the sounds of metal being worked drowns out all but the loudest voices.
 

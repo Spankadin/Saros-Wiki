@@ -1,23 +1,49 @@
 ---
+title: Mori
+ccType: npc
+ccId: npc-mori
 Race: Half-Elf
-aliases: Mori,
+aliases:
+  - Mori
 tags:
   - NPC
   - Published
-Location: "[[Goslow]]"
+Location: "[[../Goslow|Goslow]]"
 Building: "[[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]]"
-share: "true"
+Faction: []
+Role: Apothecary
+ccTags:
+  - Alchemist
+  - Apothecary
+ccAssociates: []
+share: true
 ---
 
-<div class="infobox">
-    <!-- Image is not a link now and made larger -->
-    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Mori_Chibs_Pic.png" alt="Mori & Chibs" style="display:block; max-width: 100%; height: auto; width: 400px;">
-    <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-        <li><strong>Race:</strong> Half-Elf</li>
-        <li><strong>Faction:</strong> None</li>
-        <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations_%26 NPCs/Cities %26 Towns/Goslow/Goslow/">Goslow</a></li>
-        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations_%26 NPCs/Cities %26 Towns/Goslow/Locations/The_Sphinx's_Spellbook/">The Sphinx's Spellbook</a></li>
-    </ul>
-</div>
+[[Mori|Mori]] owns [[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]], the cramped apothecary and arcane shop near the docks of [[../Goslow|Goslow]].
 
-The owner of [[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]] is a short female Half-Elf named Mori; a timid but extremely intelligent young woman with purple hair and alchemical tattoos all over her visible skin - except her face which is almost free of ink. Mori lives above the shop on the 2nd story with her pet penguin [[./Chibs|Chibs]], who she rescued and healed after finding him alone, lost, and hurt in [[../../../Landmarks/Waters/Bishop's_Bay|Bishop's Bay]] several years ago.
+She is a short young half-elf with purple hair and alchemical tattoos across much of her visible skin, leaving her face comparatively unmarked.
+
+## Personality
+
+Mori is timid around forceful strangers but becomes much more confident when discussing herbs, alchemy, magical ingredients, or unusual physical effects.
+
+She is far more intelligent than her nervous manner initially suggests.
+
+## Work
+
+Mori buys, studies, and sells:
+
+- Herbs
+- Reagents
+- Potions
+- Minor charms
+- Unusual books
+- Collected magical oddities
+
+Her stock changes constantly because travelers bring her things she has never seen before.
+
+## Chibs
+
+Mori lives above the shop with [[./Chibs|Chibs]], the penguin she rescued near [[../../../Landmarks/Waters/Bishop's_Bay|Bishop's Bay]].
+
+She created his frost-rune pendant herself.

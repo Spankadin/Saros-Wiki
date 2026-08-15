@@ -1,134 +1,123 @@
 ---
 title: Port Quartz
-ccType: location
-ccId: saros-port-quartz
+ccType: region
+ccId: region-port-quartz
+aliases: []
 tags:
   - Town
   - Port
   - Published
+Region: "[Saros](../../../History_&%20Lore/A_Brief_Saros_History.md)"
+Government: "[Mooring Council](../../../Factions_&%20Clans/Mooring_Council.md)"
+Leader: "[Hesta Vane](./NPCs/Hesta_Vane.md)"
 Population: 5250
-Government: Mooring Council
-Leader: "[First Mooring Hesta Vane](./NPCs/Hesta_Vane.md)"
-share: "true"
-foundry: true
+ccTags:
+  - Town
+  - Port
+share: true
 dataview: true
 links:
   mdlinks: true
   convert: true
 ---
 
-# Port Quartz
+[Port Quartz](Port_Quartz.md) is one of the great transfer points of northern [Saros](../../../History_&%20Lore/A_Brief_Saros_History.md), built around an immense river crossing that cannot be bridged by present-day Sarosian engineering. Ferries, cargo craft, warehouses, customs offices, and river crews shape nearly every part of daily life.
 
-Port Quartz is a crowded river town of approximately **5,250 permanent residents** and one of the most important trade intersections in northern Saros.
+The town is also the last dependable concentration of civilization for anyone turning northwest toward [The Masys Mountains](../../Landmarks/Mountains/The_Masys_Mountains.md).
 
-It stands where established roads, immense rivers, ferry traffic, and southern shipping meet. There is no bridge across the principal river; Sarosian builders cannot practically span its width and current. Ferries are therefore the foundation of the town’s economy.
+## Geography and Routes
 
-Port Quartz is the last dependable center of civilization before the isolated country northwest toward the Masys Mountains.
+The principal safe commercial road runs east toward [Trystn](../Trystn/Trystn.md), where freight can continue north toward [Lilya](../Lilya/Lilya.md) or southeast toward [Rore](../Rore/Rore.md).
 
-## Geography and routes
+There is **no ordinary safe commercial road southwest to [Goslow](../Goslow/Goslow.md) or [Kylor](../Kylor/Kylor.md)**. Enormous rivers divide the regions. The normal Goslow connection is a shipping route through [Bishop's Bay](../../Landmarks/Waters/Bishop's_Bay.md) and then upstream to Port Quartz.
 
-The principal safe roads are:
+There is **no charted safe road north from Port Quartz to [Lake of Lament](../../Landmarks/Waters/Lake_of_Lament.md)**.
 
-- Southwest toward Goslow and Kylor
-- East toward Trystyn
-- North from Trystyn toward Lilya
+The lake lies far above Port Quartz in the high basin around [The Silvervein Summits](../../Landmarks/Mountains/The_Silvervein_Summits.md). At its southwestern edge, the water plunges over an enormous cataract before joining the river that eventually reaches Port Quartz. No ordinary vessel can travel upstream through that fall.
 
-There is **no charted safe road north from Port Quartz to the Lake of Lament**.
+Explorers may cross west at [Westwater Ferry](./Locations/Westwater_Ferry.md) and turn toward the Masys country, but maintained paths disappear quickly.
 
-The Lake of Lament lies far above Port Quartz in the high basin around the Silvervein Summits. At its southwestern edge, the lake pours over an immense waterfall and feeds the southern river.
+## Travel and Connections
 
-No vessel can travel from Port Quartz to the lake.
+| Destination | Route | Working Distance and Time |
+| --- | --- | --- |
+| [Goslow](../Goslow/Goslow.md) | River and coastal shipping | **70-90 water miles**; ordinarily 2-3 days toward Port Quartz and 1-2 days returning |
+| [Trystn](../Trystn/Trystn.md) | Maintained road | **45-50 miles**; 2-3 days walking or 3-4 by heavy wagon |
+| [Lilya](../Lilya/Lilya.md) | Via [Trystn](../Trystn/Trystn.md) | **110-120 road miles**; about 6 days walking or 7-9 by heavy commercial wagon |
+| [Masys country](../../Landmarks/Mountains/The_Masys_Mountains.md) | [Westwater Ferry](./Locations/Westwater_Ferry.md) and unmaintained routes | Expedition travel; no dependable commercial time |
 
-Explorers may cross west at [Westwater Ferry](./Locations/Westwater_Ferry.md) and turn northwest toward Masys, but maintained paths disappear quickly.
+See [Saros - Distances, Travel, Trade, and Population](../../../History_&%20Lore/Trade%20&%20Economy/Saros_-_Distances,_Travel,_Trade,_and_Population.md) for the canonical route model.
 
 ## Government
 
-Port Quartz is governed under royal charter by the **Mooring Council**, presided over by [First Mooring Hesta Vane](./NPCs/Hesta_Vane.md).
+Port Quartz is governed under royal charter by the [Mooring Council](../../../Factions_&%20Clans/Mooring_Council.md), presided over by [Hesta Vane](./NPCs/Hesta_Vane.md), the **First Mooring**.
 
-The five traditional responsibilities are:
+The local [Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md) garrison is commanded by [Captain Serin Holt](./NPCs/Captain_Serin_Holt.md). The garrison protects the crossing and regional routes, but it does not legally govern the town.
 
-- First Mooring
-- Master of Ferries
-- Warden of the River Works
-- First Factor
-- Ward Speaker
+The disappearance of [Queen Amara](../Pyrris/NPCs/Queen_Amara.md) has made the boundary between civic and military authority increasingly important.
 
-The Mooring Council regulates ferries, salvage, warehouses, tariffs, guide licenses, emergency stores, and civic justice.
+## Trade and Economy
 
-The local Aegis garrison is commanded by [Captain Serin Holt](./NPCs/Captain_Serin_Holt.md). The garrison does not legally govern the town, though the Queen’s disappearance has encouraged increasingly broad claims of emergency authority.
-
-## Trade and economy
-
-Port Quartz’s wealth comes from movement rather than production.
+Port Quartz makes most of its wealth by moving, storing, insuring, and recovering goods.
 
 Major trades include:
 
 - Ferry operation
-- Warehousing
-- Customs and cargo brokerage
+- Warehousing and customs
+- Cargo brokerage
 - Rivercraft repair
 - Cartage and animal handling
-- Rope, pitch, barrels, and tackle
+- Rope, pitch, tackle, and cooperage
 - Salvage
-- Northern expedition supply
-- Transfer of goods between Goslow, Trystyn, Lilya, and Rore
+- Expedition supply
+- Trade moving between [Goslow](../Goslow/Goslow.md), [Trystn](../Trystn/Trystn.md), [Lilya](../Lilya/Lilya.md), and [Rore](../Rore/Rore.md)
 
-### Fall casks
+One of the strangest parts of the economy is the **[fall-cask trade](../../../History_&%20Lore/Trade%20&%20Economy/Fall_Casks.md)**. Durable goods from Lilya and the Lake of Lament basin can be packed into reinforced barrels and intentionally sent over the great waterfall for recovery downstream.
 
-Certain durable goods from Lilya and the Lake of Lament basin are packed into reinforced barrels known as **fall casks**.
-
-The casks are sealed, padded, iron-banded, and sent down the waterfall. Catch crews recover survivors from the river near Port Quartz.
-
-Typical cargo includes:
-
-- Ingots and ore samples
-- Durable tools
-- Stonework
-- Sealed pigments
-- Dried herbs
-- Alchemical substances
-- Small high-value goods
-
-Fragile goods, people, animals, and ordinary trade travel by road through Trystyn.
+See [fall-cask trade](../../../History_&%20Lore/Trade%20&%20Economy/Fall_Casks.md) for construction, registration, recovery fees, and the claim laws governing lost or unclaimed casks.
 
 ## Security
 
-Port Quartz has three overlapping armed forces:
+Port Quartz has several overlapping security forces:
 
-- **Chain Watch:** civic officers responsible for the town and quays
-- **Aegis garrison:** Crown soldiers responsible for military and regional threats
-- **Licensed quay guards:** private guards employed by merchants and warehouses
+- The civic Chain Watch
+- The local [Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md) garrison
+- Licensed private guards employed by merchants and warehouse owners
+- A militia that can be raised during a serious emergency
 
-During a serious attack, the town can raise a militia, close dock approaches, and coordinate ferries from [Chainwatch](./Locations/Chainwatch.md).
+The town's greatest everyday hazards are river accidents, cargo theft, smuggling, and disputes that become violent before anyone agrees who has jurisdiction.
 
-## Major NPCs
+## Places of Interest
 
-| NPC | Role | Affiliation |
-|---|---|---|
-| [Hesta Vane](./NPCs/Hesta_Vane.md) | First Mooring and civic leader | Mooring Council |
-| [Captain Serin Holt](./NPCs/Captain_Serin_Holt.md) | Aegis garrison commander | Aegis Legion |
-| [Prance Mondrel](NPCs/Prance%20Mondrel.md) | Owner of [The Fourty Knights](Locations/The%20Fourty%20Knights.md) | Merchant's Guild |
-| [Nelra Vossin](NPCs/Nelra%20Vossin.md) | Keeper of the Vane Archive | Mooring Council |
-| [Caldus Renn](NPCs/Caldus%20Renn.md) | Retired northwest expedition guide | Independent |
-| [Oren Bale](NPCs/Oren%20Bale.md) | Ferrymaster of Westwater | Ferry crews |
-
-## Places of interest
-
-| Location                           | Description              |                                                      |
-| ---------------------------------- | ------------------------ | ---------------------------------------------------- |
-| [ The Fourty Knights](Locations/The%20Fourty%20Knights.md)     | Largest tavern and inn in Port Quartz                |
-| [ Hall of Moorings](Locations/Hall%20of%20Moorings.md)       | Town hall, customs house, court, and archive offices |
-| [ White Quays](Locations/White%20Quays.md)            | Main pale-stone waterfront                           |
-| [ Cataract Yard](Locations/Cataract%20Yard.md)          | Fall-cask recovery and salvage complex               |
-| [ Vane Archive](Locations/Vane%20Archive.md)           | Expedition journals, maps, and disputed accounts     |
-| [ Westwater Ferry](Locations/Westwater%20Ferry.md)        | Western crossing and explorer departure point        |
-| [ Breakwater Registry](Locations/Breakwater%20Registry.md)    | Licenses ferries, guides, escorts, and expeditions   |
-| [ Quartz Vaults](Locations/Quartz%20Vaults.md)          | Secure storage cut into pale stone                   |
-| [ Shrine of the Last Oar](Locations/Shrine%20of%20the%20Last%20Oar.md) | Neutral riverside shrine to the lost                 |
-| [ Chainwatch](Locations/Chainwatch.md)             | Civic watch tower and ferry signal station           |
+- [The Fourty Knights](./Locations/The_Fourty_Knights.md) — the largest tavern and inn in town, operated by [Prance Mondrel](./NPCs/Prance_Mondrel.md)
+- [Hall of Moorings](./Locations/Hall_of_Moorings.md) — civic hall, customs house, and seat of [Hesta Vane](./NPCs/Hesta_Vane.md)
+- [White Quays](./Locations/White_Quays.md) — the pale commercial waterfront
+- [Cataract Yard](./Locations/Cataract_Yard.md) — [fall-cask](../../../History_&%20Lore/Trade%20&%20Economy/Fall_Casks.md) recovery and salvage works
+- [Vane Archive](./Locations/Vane_Archive.md) — expedition journals and maps kept by [Nelra Vossin](./NPCs/Nelra_Vossin.md)
+- [Westwater Ferry](./Locations/Westwater_Ferry.md) — the main western crossing, overseen by [Oren Bale](./NPCs/Oren_Bale.md)
+- [Breakwater Registry](./Locations/Breakwater_Registry.md) — licenses guides, surveyors, ferry crews, and declared expeditions
+- [Quartz Vaults](./Locations/Quartz_Vaults.md) — secured warehouses cut into pale stone
+- [Shrine of the Last Oar](./Locations/Shrine_of_the_Last_Oar.md) — riverside memorial to those lost on the water
+- [Chainwatch](./Locations/Chainwatch.md) — civic watch tower and ferry signal station
+- [The Quartz Cobra](./Locations/The_Quartz_Cobra.md) — chartered gambling hall and Bank of Saros, operated by [Lind Bergy](./NPCs/Lind_Bergy.md)
 
 ## Character
 
-Port Quartz is practical, crowded, loud, and accustomed to strangers.
+Port Quartz is crowded, loud, practical, and accustomed to strangers. Its people respect competence more than titles.
 
-Its residents respect competence more than rank. The river determines working hours, prices, law, and funerals. The town survives because its people understand that no authority—not the Crown, guilds, Legion, or Mooring Council—can command the water.
+The river decides working hours, prices, law, and funerals. No government has ever persuaded it otherwise.
+
+<!-- foundry-ignore-start -->
+#### NPCs Found Here
+| NPC                                                                                            | Race     | Building                                                                                            | Factions                                                                    |
+| ---------------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Caldus Renn](./NPCs/Caldus_Renn.md)               | Human    | \-                                                                                                  |                                                                             |
+| [Captain Serin Holt](./NPCs/Captain_Serin_Holt.md) | Human    | \-                                                                                                  | [The Aegis Legion](../../../Factions_&%20Clans/The%20Aegis%20Legion/The_Aegis_Legion.md) |
+| [Edric Vane](../../../History_&%20Lore/People/Edric_Vane.md)                                            | Human    | \-                                                                                                  |                                                                             |
+| [Hesta Vane](./NPCs/Hesta_Vane.md)                 | Human    | [Hall of Moorings](./Locations/Hall_of_Moorings.md)     | [Mooring Council](../../../Factions_&%20Clans/Mooring_Council.md)                    |
+| [Lind Bergy](./NPCs/Lind_Bergy.md)                 | Human    | [The Quartz Cobra](./Locations/The_Quartz_Cobra.md)     | [Gambler's Guild](../../../Factions_&%20Clans/Gambler's%20Guild/Gambler's_Guild.md)    |
+| [Nelra Vossin](./NPCs/Nelra_Vossin.md)             | Human    | [Vane Archive](./Locations/Vane_Archive.md)             | [Mooring Council](../../../Factions_&%20Clans/Mooring_Council.md)                    |
+| [Oren Bale](./NPCs/Oren_Bale.md)                   | Human    | [Westwater Ferry](./Locations/Westwater_Ferry.md)       | [Mooring Council](../../../Factions_&%20Clans/Mooring_Council.md)                    |
+| [Prance Mondrel](./NPCs/Prance_Mondrel.md)         | Half-Elf | [The Fourty Knights](./Locations/The_Fourty_Knights.md) | [Merchant's Guild](../../../Factions_&%20Clans/Merchant's%20Guild/Merchant's_Guild.md) |
+
+<!-- foundry-ignore-end -->

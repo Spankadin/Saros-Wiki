@@ -1,15 +1,65 @@
 ---
+title: Silas Voss
+ccType: npc
+ccId: npc-silas-voss
 Race: Human
+aliases:
+  - Silas
 tags:
   - NPC
   - Published
-Faction: "[[The Prism]]"
 Location: Unknown
-share: "true"
+Faction:
+  - "[[../The_Prism|The Prism]]"
+ccTags:
+  - Prism
+  - Wizard
+  - Historical
+ccAssociates:
+  - "[[../../../History_& Lore/People/Caelum|Caelum]]"
+  - "[[../../../Locations_& NPCs/Cities & Towns/Pyrris/NPCs/Queen_Amara|Amara]]"
+  - "[[Malgrim Darkshade]]"
+share: true
 ---
 
-When [[../../../History_& Lore/Legends/Caelum|Caelum]] and [[../../../Locations_& NPCs/Cities & Towns/Pyrris/NPCs/Queen_Amara|Amara]] became aware of their student Silas' malevolent machinations, it was too late... He had already began the ritual to open the rift to the outer planes, granting his wish for immortality while simultaneously dooming him.
+[[Silas_Voss|Silas Voss]] is a human wizard tied to both the destruction that preceded [[../../../History_& Lore/People/Caelum|Caelum]]'s Arrival and the modern cult called [[../The_Prism|The Prism]]. His current fate is unknown.
 
-Silas Voss's immortality is shrouded in the Veil of Desolation, a curse that disconnects him from the fundamental energies of life. Unable to feel joy, love, or any positive emotion, he exists in a perpetual state of emotional desolation. The curse also taints his magical abilities, turning the benevolent spells he once wielded into conduits of despair and decay.
+He was once a student of Caelum and [[../../../Locations_& NPCs/Cities & Towns/Pyrris/NPCs/Queen_Amara|Amara]].
 
-Driven by an insatiable desire to break free from this emotional abyss, Silas relentlessly searches for a cure. Rumors speak of an ancient artifact, hidden in the forgotten corners of Saros, that purportedly has the power to unravel the Veil of Desolation... a Multi-Chromatic Dragon's egg.
+## Mystara
+
+By the time Caelum and Amara understood the scale of Silas's ambitions, he had already begun dangerous work involving the outer planes and immortality.
+
+Later Sarosian accounts blame those experiments for helping create the catastrophe from which Caelum's people fled.
+
+## Immortality
+
+Silas is believed to have achieved a form of immortality at a terrible cost.
+
+The condition is often called the **Veil of Desolation**.
+
+Stories say it severed him from ordinary joy, affection, and other positive feeling while corrupting the magic he once used more freely.
+
+Whether every detail of that description is literally true is impossible to verify.
+
+## The Prism
+
+Silas is associated with the search for a Multi-Chromatic Dragon's egg.
+
+The cult believes such a dragon can grant a wish to the first being it sees after hatching.
+
+A wish powerful enough to alter an immortal curse would explain Silas's interest.
+
+## Caelum's End
+
+Roughly eight hundred years ago, [[../../../History_& Lore/People/Caelum|Caelum]] and [[../../../Locations_& NPCs/Cities & Towns/Pyrris/NPCs/Queen_Amara|Amara]] made a final attempt at the northern peak now called [[../../../Locations_& NPCs/Landmarks/Caelum's_End|Caelum's End]] to bring their former pupil back from the brink of evil.
+
+Only Amara witnessed the end. Caelum and Silas both went over the frozen edge into the sea.
+
+Amara returned alone. Neither man has been reliably seen since, and no accepted evidence proves that either survived.
+
+Amara has never given a complete public account of what caused the fall.
+
+Most Sarosians believe master and pupil fought their way to the end of the world and dragged one another over the cliffs. Court histories preserve Amara's claim that the journey began as a final attempt at redemption.
+
+The Prism nevertheless continues to recognize Silas as its true leader. Its members believe the recovery of the Multi-Chromatic Dragon's egg will cause his return, remove his curse, and permit him to claim the throne. The prophecy is evidence of Prism belief, not of Silas's survival.

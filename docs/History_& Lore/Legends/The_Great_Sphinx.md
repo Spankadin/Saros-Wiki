@@ -1,11 +1,56 @@
 ---
+title: The Great Sphinx
+ccType: npc
+ccId: npc-the-great-sphinx
 Race: Sphinx
+aliases:
+  - Great Sphinx
 tags:
   - NPC
   - Legend
   - Published
-Location: Unknown
-share: "true"
+Location: "[[../../Locations_& NPCs/Landmarks/The_Glimmering_Expanse|The Glimmering Expanse]]"
+Faction: []
+ccTags:
+  - Legend
+  - Sphinx
+ccAssociates: []
+share: true
 ---
 
-A Great Sphinx is rumored to reside somewhere in the deep deserted region of [[../../Locations_& NPCs/Landmarks/The_Glimmering_Expanse|The Glimmering Expanse]]. The Sphinx has the ability to grant wishes but only to those it deems "pure of heart". It is said that the Sphinx speaks with a new voice every sentence, sometimes that of a child, sometimes that of a horrifying banshee, and even possibly your own...
+[[The_Great_Sphinx|The Great Sphinx]] is one of the enduring legends of [[../../Locations_& NPCs/Landmarks/The_Glimmering_Expanse|The Glimmering Expanse]].
+
+The creature is said to dwell somewhere deep within the glass desert, far beyond routes most travelers can survive.
+
+## The Wish
+
+Stories claim the Sphinx can grant a wish.
+
+Unlike the legends surrounding a multi-chromatic dragon, the Sphinx supposedly chooses according to character rather than opportunity.
+
+Only someone it judges **pure of heart** is allowed to receive the gift.
+
+What the Sphinx considers pure is never explained consistently.
+
+## The Voices
+
+The strangest repeated detail is its speech.
+
+The Sphinx is said to use a different voice with every sentence.
+
+Witnesses in old stories describe hearing:
+
+- A child
+- An old woman
+- A soldier
+- A banshee
+- A loved one
+- Their own voice
+
+Whether the effect is illusion, prophecy, mind-reading, or storytelling embellishment is unknown.
+
+## Proof
+
+No widely accepted expedition record confirms the Sphinx exists.
+
+That has never stopped people from searching.

@@ -1,47 +1,50 @@
 ---
 title: Captain Serin Holt
-Race: Human
 ccType: npc
-ccId: saros-captain-serin-holt
-Faction:
-  - "[[../../../../Factions & Clans/The Aegis Legion/The Aegis Legion|The Aegis Legion]]"
+ccId: npc-captain-serin-holt
+Race: Human
+aliases: []
 tags:
   - NPC
   - Published
 Location: "[[../Port_Quartz|Port Quartz]]"
+Faction:
+  - "[[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|Aegis Legion]]"
 Role: Aegis Garrison Commander
-share: "true"
-foundry: true
+ccTags:
+  - Aegis Legion
+  - Captain
+ccAssociates: []
+share: true
 ---
 
-# Captain Serin Holt
+[[Captain_Serin_Holt|Captain Serin Holt]] commands the [[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|Aegis Legion]] garrison in [[../Port_Quartz|Port Quartz]].
 
-Captain Serin Holt commands the Aegis garrison in [[../Port_Quartz|Port Quartz]].
+He is controlled, observant, and more bureaucratic than [[../../Goslow/NPCs/Vostin_The_Mighty|Vostin The Mighty]]. Where Vostin tends to make a decision and accept responsibility for it, Holt prefers clear chains of command and written authority.
 
-Holt is controlled, observant, and trapped between the town’s charter and emergency orders issued since Queen Amara’s disappearance.
+## Role
 
-## Beliefs
+Holt is responsible for military security around one of northern Saros's most important river crossings.
 
-- The crossing is strategically essential.
-- Hesta Vane’s resistance creates dangerous delays.
-- The Black Circle uses civic disagreement as cover.
-- Unpleasant Council orders are preferable to disorder.
-- Captain Vostin interprets commands too freely.
+His garrison deals with:
 
-## Conflict with Hesta
-
-Holt claims authority over:
 - Crown threats
-- Smuggling
-- Sedition
 - Military cargo
+- Smuggling with strategic implications
 - Wanted fugitives
-- Emergency closures
+- Road and ferry emergencies
+- Support for Legion patrols outside town
 
-Hesta insists these powers do not erase Port Quartz law.
+Ordinary civil policing remains the responsibility of Port Quartz rather than the garrison.
 
-## Hidden uncertainty
+## Relationship with Hesta Vane
 
-Holt has seen northern orders that do not follow ordinary Legion procedure. He suspects corruption in the supply chain but fears admitting it will weaken the garrison.
+[[./Hesta_Vane|Hesta Vane]] and Holt agree that Port Quartz must remain secure. They frequently disagree about what security allows the Legion to do.
 
-He can become an obstacle, reluctant ally, record source, or antagonist. His danger comes from believing temporary authority can be surrendered later.
+Holt thinks Hesta sometimes lets charter procedure interfere with urgent action. Hesta thinks Holt sometimes treats urgency as a substitute for lawful authority.
+
+## Vostin
+
+Holt has a poor professional relationship with [[../../Goslow/NPCs/Vostin_The_Mighty|Vostin The Mighty]].
+
+He considers Vostin too locally minded and too comfortable interpreting orders rather than simply transmitting them. A token or personal coin bearing Vostin's mark may earn recognition and basic courtesy from Holt, but he does not treat it as a command, warrant, or special authority in Port Quartz.

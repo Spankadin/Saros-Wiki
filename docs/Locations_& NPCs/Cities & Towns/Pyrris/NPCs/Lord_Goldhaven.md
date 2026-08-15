@@ -1,19 +1,45 @@
 ---
+title: Lord Goldhaven
+ccType: npc
+ccId: npc-lord-goldhaven
 Race: Human
+aliases: []
 tags:
   - NPC
   - Published
-Role: Treasurer and Keeper of Wealth
-Faction: "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"
-share: "true"
+Faction:
+  - "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|The Queen's Council]]"
+Role: Treasurer and Keeper of Wealth
+ccTags:
+  - Treasurer and Keeper of Wealth
+ccAssociates: []
+share: true
 ---
 
-[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]] member Cedric Goldhaven
+[[Lord_Goldhaven|Cedric Goldhaven]] is the Treasurer and Keeper of Wealth on [[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|The Queen's Council]].
 
-Role: Treasurer and Keeper of Wealth
+## Appearance
 
-   - A distinguished older gentleman with salt-and-pepper hair, Lord Cedric wears finely tailored robes of deep burgundy. His piercing gaze hides a wealth of financial acumen, and his calm demeanor exudes an air of reliability.
+Cedric is an older human with salt-and-pepper hair, finely tailored clothing, and a habit of looking at expensive objects as though he can already see their entry in a ledger.
 
-   - *Responsibility:* Overseeing the kingdom's finances, managing the royal treasury, and ensuring economic stability.
+## Manner
+
+Goldhaven is calm, reliable in presentation, and rarely emotional about money.
+
+He treats finance as infrastructure: grain reserves, road contracts, garrison pay, debt, tariffs, and shipping all matter more to him than piles of coin in a vault.
+
+## Responsibility
+
+His office oversees:
+
+- The royal treasury
+- Major tax policy
+- Crown contracts
+- Garrison funding
+- Emergency reserves
+- Large infrastructure expenditures
+- Financial negotiations with guilds and towns
+
+Since [[./Queen_Amara|Queen Amara]] disappeared, Goldhaven has become increasingly important because political legitimacy is difficult to spend, while soldiers and grain merchants still expect payment.

@@ -1,22 +1,43 @@
 ---
+title: The Silver Drake
+ccType: entry
+ccId: entry-the-silver-drake
+aliases: []
 tags:
-  - Bank
   - Building
-  - Gambler's Den
+  - Bank
+  - Gambling Hall
   - Published
-Location: "[[../Goslow|Goslow]]"
-share: "true"
+Region: "[[../Goslow|Goslow]]"
+ccTags:
+  - Building
+  - Bank
+  - Gambling Hall
+share: true
 ---
 
+[[The_Silver_Drake|The Silver Drake]] is [[../Goslow|Goslow]]'s sole [[../../../../Factions_& Clans/Gambler's Guild/Gambler's_Guild|Guild-chartered]] gambling hall and a [[../../../../Factions_& Clans/Gambler's Guild/Bank_of_Saros|Bank of Saros]]. It is one of the most famous halls in Saros, surpassed in scale by [[../../Rore/Locations/The_Golden_Goose|The Golden Goose]] in [[../../Rore/Rore|Rore]].
 
-Overseen by [[../NPCs/Lone-Wolf_Louie|Lone-Wolf Louie]], [[The_Silver_Drake|The Silver Drake]] is one of the most famous [[../../../../Factions_& Clans/Gambler's Guild/Gambler's_Guild|Gambler's Guild]] halls in all of [[../../../../History_& Lore/A_Brief_Saros_History|Saros]], 2nd only to the massive hall in [[Rore|Rore]]. The Silver Drake is a tightly ran and well secured building where the foolhardy come from all over Saros to test their luck and their coin with hopes of leaving [[../Goslow|Goslow]] as rich as [[../../Pyrris/NPCs/Lord_Goldhaven|Lord Goldhaven]] himself!
+[[../NPCs/Lone-Wolf_Louie|Lone-Wolf Louie]] oversees the hall.
 
-**Bank**
-broby - 2000
-jiz - 4000
-geor - 2000
+## Gambling
 
+The Drake attracts travelers willing to risk serious coin.
 
+Licensed tables, private games, tournaments, and high-value wagers all operate under Guild rules.
 
-Ronnoc - 2000gp
-Helmaer - 5000gp
+Cheating that threatens the hall's reputation is treated much more seriously than simply losing badly.
+
+## Banking
+
+The Silver Drake also provides secure financial services.
+
+Merchants and adventurers can deposit coin, arrange withdrawals, and use the Drake's reputation to avoid carrying their entire wealth on dangerous roads.
+
+Individual account balances are private records and are not publicly posted.
+
+## Security
+
+The building is tightly controlled.
+
+Door staff, house guards, secure counting rooms, and Guild connections make robbery a much worse idea than the concentration of money might initially suggest.
