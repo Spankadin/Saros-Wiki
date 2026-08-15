@@ -1,16 +1,25 @@
 ---
-share: "true"
+title: Waters
+ccType: entry
+ccId: entry-water-index
+aliases: []
+tags:
+  - Index
+  - Published
+ccTags:
+  - Water
+  - Index
+share: true
 dataview: true
-links:
-  mdlinks: true
-  convert: true
 ---
 
+The seas, bays, lakes, and other named waters of [[../../../History_& Lore/A_Brief_Saros_History|Saros]] shape nearly every major trade route.
 
-| Body of Water                                                                 | Water Type |
-| ----------------------------------------------------------------------------- | ---------- |
-| [Bishop's Bay](./Bishop's_Bay.md)           | Gulf       |
-| [Lake of Lament](./Lake_of_Lament.md)       | Lake       |
-| [Lake Runa](./Lake_Runa.md)                 | Lake       |
-| [The Sea of Myth](./The_Sea_of_Myth.md)     | Sea        |
-| [The Sparkling Sea](./The_Sparkling_Sea.md) | Sea        |
+| Water                                                                         | Type | Region                                                                                     |
+| ----------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------ |
+| [[./Bishop's_Bay\|Bishop's Bay]]           | Bay  | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]]                                         |
+| [[./Lake_of_Lament\|Lake of Lament]]       | Lake | [[../Mountains/The_Silvervein_Summits\|The Silvervein Summits]] |
+| [[./Lake_Runa\|Lake Runa]]                 | Lake | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]]                                         |
+| [[./The_Sea_of_Myth\|The Sea of Myth]]     | Sea  | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]]                                         |
+| [[./The_Sparkling_Sea\|The Sparkling Sea]] | Sea  | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]]                                         |
+
