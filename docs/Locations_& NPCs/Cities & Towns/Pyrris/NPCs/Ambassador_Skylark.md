@@ -1,19 +1,48 @@
 ---
+title: Ambassador Skylark
+ccType: npc
+ccId: npc-ambassador-skylark
 Race: Elf
+aliases: []
 tags:
   - NPC
   - Published
-Role: Envoy of Public Relations (Queen's Hand)
-Faction: "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"
+Faction:
+  - "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|The Queen's Council]]"
+Role: Envoy of Public Relations — Queen's Hand
+ccTags:
+  - Envoy of Public Relations — Queen's Hand
+ccAssociates: []
 share: true
 ---
 
-[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]] member Leonora Skylark
+[[Ambassador_Skylark|Leonora Skylark]] is the diplomatic and public-facing member of [[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|The Queen's Council]].
 
-Role: Envoy of Public Relations (Queen's Hand)
+Her traditional office is often called the **Queen's Hand**, reflecting her role as the Crown's most visible representative in matters that require charm rather than force.
 
-   - A diplomatic and charismatic individual, Ambassador Leonora exudes warmth and friendliness. Her golden hair and bright smile give her a welcoming appearance, and her attire, adorned with symbols of diplomacy, reflects her commitment to fostering good relations.
+## Appearance
 
-   - Responsibility: Nurturing diplomatic relations with neighboring realms, handling foreign affairs, and managing the realm's image on the international stage.
+Leonora has golden hair, a bright smile, and the carefully welcoming appearance of a person who understands that every public gesture may be remembered.
+
+Her formal clothing favors diplomatic symbols and rich but restrained fabrics.
+
+## Manner
+
+Skylark is warm, articulate, and extremely difficult to surprise in public.
+
+She has a talent for making hostile conversations feel civilized without actually surrendering anything important.
+
+## Responsibility
+
+Her office handles:
+
+- Formal diplomacy
+- Relations with semi-independent settlements
+- Public statements
+- Ceremonial correspondence
+- Visiting dignitaries
+- Management of the Crown's image
+
+Since [[./Queen_Amara|Queen Amara]] disappeared, Skylark has had the impossible task of reassuring the realm without being able to produce the Queen herself.
