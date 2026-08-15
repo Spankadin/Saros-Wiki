@@ -1,23 +1,39 @@
 ---
+title: Chibs
+ccType: npc
+ccId: npc-chibs
 Race: Penguin
-aliases: Chibby, Chib-Chib, Chib-Chibs
+aliases:
+  - Chibby
+  - Chib-Chib
+  - Chib-Chibs
 tags:
   - NPC
   - Published
-Location: "[[Goslow]]"
+Location: "[[../Goslow|Goslow]]"
 Building: "[[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]]"
-share: "true"
+Faction: []
+Role: Shop Companion
+ccTags:
+  - Animal Companion
+ccAssociates: []
+share: true
 ---
 
-<div class="infobox">
-    <!-- Image is not a link now and made larger -->
-    <img src="https://spankadin.github.io/Saros-Wiki/_assets/Mori_Chibs_Pic.png" alt="Mori & Chibs" style="display:block; max-width: 100%; height: auto; width: 400px;">
-    <ul style="color: #333; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-        <li><strong>Race:</strong> Penguin</li>
-        <li><strong>Faction:</strong> None</li>
-        <li><strong>Location:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Goslow/">Goslow</a></li>
-        <li><strong>Building:</strong> <a href="/Saros-Wiki/Locations-%26%20NPCs/Cities%20%26%20Towns/Goslow/Locations/The-Sphinx's-Spellbook/">The Sphinx's Spellbook</a></li>
-    </ul>
-</div>
+[[Chibs|Chibs]] is the tiny penguin who lives with [[./Mori|Mori]] above [[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]] in [[../Goslow|Goslow]].
 
-A very small penguin who was rescued and healed by [[./Mori|Mori]] after finding him alone, lost, and hurt in [[../../../Landmarks/Waters/Bishop's_Bay|Bishop's Bay]] several years ago. Now residing in The [[../Locations/The_Sphinx's_Spellbook|The Sphinx's Spellbook]], Chibs wears a small magical frost rune pendant Mori made for him to keep his body chilly and he leaves small little puddles behind where he walks that melt away quickly.
+Mori found him alone, injured, and badly out of place near [[../../../Landmarks/Waters/Bishop's_Bay|Bishop's Bay]] several years ago. She nursed him back to health and eventually built a small frost-rune pendant that helps keep his body cool in Goslow's climate.
+
+## Behavior
+
+Chibs waddles freely through the shop and has learned exactly which shelves he is allowed to bump into without causing a disaster.
+
+The pendant leaves him cool enough that small beads of condensation and meltwater sometimes appear where he has been sitting.
+
+Regular customers tend to know Chibs almost as well as they know Mori.
+
+## Reputation
+
+Nobody agrees how a penguin ended up alone in Bishop's Bay.
+
+Mori has stopped pretending she knows.
