@@ -1,25 +1,44 @@
 ---
 title: Breakwater Registry
-ccType: location
-ccId: saros-breakwater-registry
+ccType: entry
+ccId: entry-breakwater-registry
+aliases: []
 tags:
-  - Location
   - Building
+  - Registry
   - Published
-Location: "[[../Port Quartz|Port Quartz]]"
-share: "true"
-foundry: true
+Region: "[[../Port_Quartz|Port Quartz]]"
+ccTags:
+  - Building
+  - Registry
+share: true
 ---
 
-# Breakwater Registry
+The [[Breakwater_Registry|Breakwater Registry]] licenses and records specialized travel connected to [[../Port_Quartz|Port Quartz]].
 
-The Breakwater Registry licenses:
+## Registered Professions
+
+The office maintains records for:
+
 - Ferry operators
-- Recovery crews
+- [[../../../../History_& Lore/Trade & Economy/Fall_Casks|Fall-cask]] recovery crews
 - Wilderness guides
 - Surveyors
 - Professional escorts
+- Certain river pilots
 
-It also records travelers who declare an intention to leave established roads.
+Travelers leaving established roads may also file a voluntary expedition declaration naming their route, expected return, and emergency contact.
 
-The public board lists missing expeditions, river conditions, dangerous wildlife, closed landings, suspected bandits, escort requests, and reports of corrupted plants or animals.
+## Public Board
+
+The Registry posts:
+
+- Missing travelers
+- Closed ferry landings
+- River conditions
+- Dangerous wildlife
+- Suspected bandit activity
+- Guide availability
+- Recent warnings from surveyors
+
+[[../NPCs/Hesta_Vane|Hesta Vane]] treats the registry as a civic record rather than an automatic military intelligence file.
