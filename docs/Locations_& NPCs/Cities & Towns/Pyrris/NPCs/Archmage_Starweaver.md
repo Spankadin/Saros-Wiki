@@ -1,19 +1,48 @@
 ---
+title: Archmage Starweaver
+ccType: npc
+ccId: npc-archmage-starweaver
 Race: Elf
+aliases: []
 tags:
   - NPC
   - Published
-Role: Minister of Arcane Affairs
-Faction: "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]]"
 Location: "[[Pyrris]]"
 Building: "[[The Radiant Citadel]]"
-share: "true"
+Faction:
+  - "[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|The Queen's Council]]"
+Role: Minister of Arcane Affairs
+ccTags:
+  - Minister of Arcane Affairs
+ccAssociates: []
+share: true
 ---
 
-[[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|Queen's Council]] member Nisel Starweaver
+[[Archmage_Starweaver|Nisel Starweaver]] is the Minister of Arcane Affairs on [[../../../../Factions_& Clans/The Queen's Council/The_Queen's_Council|The Queen's Council]].
 
-Role: Minister of Arcane Affairs
+## Appearance
 
-   - A wise and serene-looking woman, Archmage Nisel possesses an otherworldly grace. Her silver hair is intricately braided, and her robes shimmer with subtle magical energies. She speaks with measured words, revealing a deep understanding of the arcane.
+Nisel is a serene elf with silver hair usually worn in intricate braids. Her formal robes carry subtle magical effects rather than obvious ornament.
 
-   - *Responsibility:* Managing magical affairs, overseeing the realm's arcane institutions, and advising on matters related to magical diplomacy and defense.
+## Manner
+
+She speaks slowly and precisely, often allowing other people to fill silence rather than rushing to do so herself.
+
+Her calm reputation has led many petitioners to underestimate how firmly she can refuse them.
+
+## Responsibility
+
+Starweaver oversees matters involving:
+
+- Crown-sanctioned magical institutions
+- Dangerous arcane discoveries
+- Magical defenses
+- Advisers and court magicians
+- Diplomatic incidents involving magic
+- Regulation of certain restricted magical practices
+
+## Reputation
+
+Mages outside the Crown disagree sharply about her.
+
+Some see a careful scholar protecting the realm from magical catastrophe. Others see the person most responsible for deciding which kinds of magic the government is permitted to fear.
