@@ -1,38 +1,48 @@
 ---
 title: Edric Vane
-ccType: entry
-ccId: saros-edric-vane
+ccType: npc
+ccId: npc-edric-vane
+Race: Human
+aliases: []
 tags:
+  - NPC
   - History
   - Explorer
   - Published
-Location: "[[../../Locations & NPCs/Cities & Towns/Port Quartz/Port Quartz|Port Quartz]]"
-share: "true"
-foundry: true
+Location: "[[../../Locations_& NPCs/Cities & Towns/Port Quartz/Port_Quartz|Port Quartz]]"
+Faction: []
+ccTags:
+  - History
+  - Explorer
+ccAssociates: []
+share: true
 ---
 
-# Edric Vane
+[[Edric_Vane|Edric Vane]] led one of the best-known expeditions from [[../../Locations_& NPCs/Cities & Towns/Port Quartz/Port_Quartz|Port Quartz]] toward [[../../Locations_& NPCs/Landmarks/Mountains/The_Masys_Mountains|The Masys Mountains]] centuries ago.
 
-Edric Vane led one of the best-known expeditions from Port Quartz toward the Masys Mountains centuries ago.
-
-Later retellings made him an uncomplicated frontier hero. Surviving records tell a harsher story.
+Later retellings turned him into an uncomplicated frontier hero. The surviving records tell a harsher story.
 
 Edric departed with approximately sixty people.
 
 Seven returned.
 
+## The Expedition
+
+The expedition charted:
+
+- Western river crossings
+- Seasonal flood zones
+- Mountain approaches
+- Old ruins and abandoned works
+- Areas where pack animals could still be moved
+- Places where the terrain forced the party to turn back
+
+Several journal pages are missing, but nothing in the surviving record describes [[./Rom_The_Wizard|Rom]] or the moving hill found in recent folklore.
+
+Those legends would not arise for centuries.
+
 ## Legacy
 
-The expedition:
-- Charted portions of the western river country
-- Recorded failed crossings
-- Recorded dependable landmarks, seasonal water levels, and several abandoned Second Age works
-- Described the difficult hills and river country west of Port Quartz
-- Marked a mountain jut and sheltered basin later used by expeditions traveling toward Masys
-- Lost members to terrain, creatures, disease, and unknown events
+Edric’s records remain useful because the geography has changed less than the stories.
 
-Several important journal pages are missing, but none of Edric’s surviving material refers to Rom or Mossback. Edric lived centuries before either came to the Masys region.
-
-His descendant [[../../Locations_& NPCs/Cities & Towns/Port Quartz/NPCs/Hesta_Vane|Hesta Vane]] serves as First Mooring and resists romantic versions of the expedition.
-
-A weathered marker at Westwater Ferry still points toward Masys, though no road follows it.
+His descendant [[../../Locations_& NPCs/Cities & Towns/Port Quartz/NPCs/Hesta_Vane|Hesta Vane]] protects the surviving documents in the [[../../Locations_& NPCs/Cities & Towns/Port Quartz/Locations/Vane_Archive|Vane Archive]] and dislikes anyone who treats the expedition’s losses as romantic scenery.
