@@ -1,25 +1,36 @@
 ---
 title: Chainwatch
-ccType: location
-ccId: saros-chainwatch
+ccType: entry
+ccId: entry-chainwatch
+aliases: []
 tags:
-  - Location
+  - Building
   - Fortification
+  - Watch
   - Published
-Location: "[[../Port Quartz|Port Quartz]]"
-share: "true"
-foundry: true
+Region: "[[../Port_Quartz|Port Quartz]]"
+ccTags:
+  - Building
+  - Fortification
+  - Watch
+share: true
 ---
 
-# Chainwatch
+[[Chainwatch|Chainwatch]] is a squat civic watch tower overlooking the busiest ferry landings of [[../Port_Quartz|Port Quartz]].
 
-Chainwatch is a squat fortified tower above the busiest ferry landings.
+The local Chain Watch uses it to:
 
-The civic watch uses it to:
 - Observe river traffic
-- Coordinate ferry signals
-- Close portions of the waterfront
+- Coordinate signals with the [[./White_Quays|White Quays]]
+- Announce ferry closures
 - Hold minor prisoners
 - Store unidentified river salvage
+- Respond to broken ferry lines
 
-A heavy warning chain can be drawn across part of the lower harbor during emergencies using boats and shore-mounted capstans.
+During an emergency, crews can use shore-mounted capstans and boats to draw a heavy warning chain across part of the lower harbor.
+
+Chainwatch belongs to the town rather than the [[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|Aegis Legion]].
+
+## Security
+
+The structure is part of the settlement's ordinary defensive routine, not merely a wartime monument. Watch rotations, inspections, signal procedures, and emergency stores are maintained even during quiet seasons.
