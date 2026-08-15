@@ -1,28 +1,38 @@
 ---
 title: Hall of Moorings
-ccType: location
-ccId: saros-hall-of-moorings
+ccType: entry
+ccId: entry-hall-of-moorings
+aliases: []
 tags:
-  - Location
   - Building
+  - Civic
   - Published
-Location: "[[../Port Quartz|Port Quartz]]"
-share: "true"
-foundry: true
+Region: "[[../Port_Quartz|Port Quartz]]"
+ccTags:
+  - Building
+  - Civic
+share: true
 ---
 
-# Hall of Moorings
+[[Hall_of_Moorings|Hall of Moorings]] is the civic heart of [[../Port_Quartz|Port Quartz]] and the usual workplace of [[../NPCs/Hesta_Vane|Hesta Vane]] and the [[../../../../Factions_& Clans/Mooring_Council|Mooring Council]].
 
-A low, broad pale-stone building near the principal quay.
+The broad, low stone building serves as town hall, customs office, civic court, archive office, and emergency command center.
 
-The Hall serves as:
-- Town hall
-- Customs office
-- Civic courtroom
-- Mooring Council chamber
-- Cargo-record office
-- Emergency command center
+## Main Chamber
 
-Its main chamber contains a long table built from the timbers of the first chartered ferry.
+The council table is said to have been built from timbers taken from one of Port Quartz's earliest chartered ferries.
 
-Walls display river charts, flood lines, ferry schedules, and plaques naming vessels lost to the current.
+River charts, flood marks, ferry schedules, and memorial plaques cover the walls.
+
+## Public Business
+
+Travelers and merchants come here for:
+
+- Customs disputes
+- Salvage hearings
+- [[../../../../History_& Lore/Trade & Economy/Fall_Casks|fall-cask claims]]
+- Ferry licenses
+- Major cargo declarations
+- Charter and property matters
+
+The hall is deliberately civilian. [[../NPCs/Captain_Serin_Holt|Captain Serin Holt]] and the [[../../../../Factions_& Clans/The Aegis Legion/The_Aegis_Legion|Aegis Legion]] may conduct official business here, but they do not command the building.
