@@ -1,28 +1,42 @@
 ---
 title: Vane Archive
-ccType: location
-ccId: saros-vane-archive
+ccType: entry
+ccId: entry-vane-archive
+aliases: []
 tags:
-  - Location
   - Building
+  - Archive
   - Published
-Location: "[[../Port Quartz|Port Quartz]]"
-share: "true"
-foundry: true
+Region: "[[../Port_Quartz|Port Quartz]]"
+ccTags:
+  - Building
+  - Archive
+share: true
 ---
 
-# Vane Archive
+The [[Vane_Archive|Vane Archive]] is [[../Port_Quartz|Port Quartz]]'s principal collection of expedition journals, route notes, ferry records, old surveys, and disputed maps.
 
-The Vane Archive began as a family records room and became Port Quartz’s unofficial repository of exploration history.
+It began as records preserved by the family of [[../../../../History_& Lore/People/Edric_Vane|Edric Vane]] and gradually absorbed material from other explorers and civic offices.
 
-Its holdings include:
-- [[../../../../History_& Lore/People/Edric_Vane|Edric Vane’s]] surviving journals
-- Incomplete maps
-- Survey notes
-- Missing-person lists
-- Travelers’ accounts
-- Old ferry records
-- Reports of lost settlements
-- Recent Masys accounts from the last eighty years
+[[../NPCs/Nelra_Vossin|Nelra Vossin]] is the current keeper.
 
-The oldest records are valuable for terrain, rivers, ruins, and failed crossings. References plausibly connected to Rom or Mossback begin only within the last eighty years. Other old “moving hill” tales are catalogued separately and are not considered evidence of either one.
+## Collections
+
+The archive includes:
+
+- Edric Vane's surviving expedition journals
+- River-level records
+- Old crossing descriptions
+- Missing expedition lists
+- Copies of private maps
+- Merchant route notes
+- Travelers' reports
+- Records of places that no longer exist
+
+## Reliability
+
+Nelra marks sources according to how directly they can be verified.
+
+A drunken story may still be preserved, but it is not filed beside a measured survey without explanation.
+
+The archive is especially useful because it separates centuries-old records from recent folklore concerning [[../../../../History_& Lore/People/Rom_The_Wizard|Rom]] and a supposed moving hill.
