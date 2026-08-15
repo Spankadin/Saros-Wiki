@@ -1,14 +1,23 @@
 ---
-share: "true"
+title: Mountains
+ccType: entry
+ccId: entry-mountain-index
+aliases: []
+tags:
+  - Index
+  - Published
+ccTags:
+  - Mountains
+  - Index
+share: true
 dataview: true
-links:
-  mdlinks: true
-  convert: true
 ---
 
+The mountain ranges of [[../../../History_& Lore/A_Brief_Saros_History|Saros]] contain mines, isolated settlements, old ruins, and entrances to forgotten [[../../Delves/Delves|Delves]].
 
-| Mountain Range                                                                             | Elevation | Passage |
-| ------------------------------------------------------------------------------------------ | --------- | ------- |
-| [The Masys Mountains](./The_Masys_Mountains.md)       | \-        | \-      |
-| [The Silvervein Summits](./The_Silvervein_Summits.md) | \-        | \-      |
-| [Vy'Tungavor](./Vy'Tungavor.md)                       | \-        | \-      |
+| Mountain Region                                                                            | Region                                             |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| [[./The_Masys_Mountains\|The Masys Mountains]]       | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]] |
+| [[./The_Silvervein_Summits\|The Silvervein Summits]] | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]] |
+| [[./Vy'Tungavor\|Vy'Tungavor]]                       | [[../../../History_& Lore/A_Brief_Saros_History\|Saros]] |
+
